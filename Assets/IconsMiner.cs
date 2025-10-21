@@ -20,7 +20,6 @@ public static class IconsMiner
 	{
 		Material guidMaterial = new(Shader.Find("Unlit/Texture"));
 		string guidMaterialId = Path.Combine("Assets", "GuidMaterial.mat");
-		const int columns = 10;
 		const string readme = "README.md";
 
 		AssetDatabase.CreateAsset(guidMaterial, guidMaterialId);
@@ -43,16 +42,8 @@ public static class IconsMiner
 			readmeBuilder.AppendLine("3. Save and focus Unity Editor");
 			readmeBuilder.AppendLine();
 			readmeBuilder.AppendLine("All icons are clickable, you will be forwarded to description file.");
-			for (int index = 0; index < columns; index++) {
-				readmeBuilder.Append($"| {index + 1} ");
-			}
-			readmeBuilder.Append("|");
-			readmeBuilder.AppendLine();
-			for (int index = 0; index < columns; index++) {
-				readmeBuilder.Append("| --- ");
-			}
-			readmeBuilder.Append("|");
-			readmeBuilder.AppendLine();
+			readmeBuilder.AppendLine($"| Icon | Name | File ID |");
+			readmeBuilder.AppendLine($"|------|------|---------|");
 
 			string[] assetNames = EnumerateIcons(editorAssetBundle, iconsPath).ToArray();
 			string iconsDirectoryPath = Path.Combine("img");
@@ -65,7 +56,7 @@ public static class IconsMiner
 				Directory.CreateDirectory(descriptionsDirectoryPath);
 			}
 
-			for (int i = 0, n = 0; i < assetNames.Length; i++) {
+			for (int i = 0; i < assetNames.Length; i++) {
 				try {
 					string assetName = assetNames[i];
 					Texture2D icon = editorAssetBundle.LoadAsset<Texture2D>(assetName);
@@ -89,16 +80,7 @@ public static class IconsMiner
 					string fileId = GetFileId(guidMaterialId);
 					iconPath = iconPath.Replace(" ", "%20").Replace('\\', '/');
 					string descriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon, fileId);
-					readmeBuilder.Append($"| [<img src=\"{iconPath}\" width={Mathf.Min(icon.width, 48)} height={Mathf.Min(icon.height, 48)} title=\"{icon.name}\">]({descriptionFilePath}) ");
-					// readmeBuilder.Append(assetName);
-
-					if (n >= columns - 1) {
-						readmeBuilder.Append("|");
-						readmeBuilder.AppendLine();
-						n = 0;
-					} else {
-						n++;
-					}
+					readmeBuilder.AppendLine($"| ![<img src=\"{iconPath}\" width={Mathf.Min(icon.width, 48)} height={Mathf.Min(icon.height, 48)} title=\"{icon.name}\">]({descriptionFilePath}) | `{icon.name}` | `{fileId}` |");
 				} catch (Exception exception) {
 					Debug.LogException(exception);
 				}
