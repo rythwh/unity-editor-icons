@@ -92,7 +92,15 @@ public static class IconsMiner
 					string fileId = GetFileId(guidMaterialId);
 					iconPath = iconPath.Replace(" ", "%20").Replace('\\', '/');
 					string descriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon, fileId);
-					readmeBuilder.AppendLine($"| [<img src=\"{iconPath}\" width={Mathf.Min(icon.width, 48)} height={Mathf.Min(icon.height, 48)} title=\"{icon.name}\">]({descriptionFilePath}) | `{icon.name}` | `{fileId}` |");
+
+					const int maxSize = 64;
+					float largest = Mathf.Max(icon.width, icon.height);
+					float scale = maxSize / largest;
+
+					int targetWidth = Mathf.Max(1, Mathf.RoundToInt(icon.width * scale));
+					int targetHeight = Mathf.Max(1, Mathf.RoundToInt(icon.height * scale));
+
+					readmeBuilder.AppendLine($"| [<img src=\"{iconPath}\" width={targetWidth} height={targetHeight} title=\"{icon.name}\">]({descriptionFilePath}) | `{icon.name}` | `{fileId}` |");
 				} catch (Exception exception) {
 					Debug.LogException(exception);
 				}
