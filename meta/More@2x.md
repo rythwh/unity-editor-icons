@@ -1,12 +1,12 @@
-# More@2x `32x33`
-<img src="/img/More@2x.png" width=32 height=33>
+# more@2x `32x32`
+<img src="/img/more@2x.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("More@2x")
+EditorGUIUtility.IconContent("more@2x")
 ```
 ```
-More@2x
+more@2x
 ```
 ```
-6848015237940817381
+-3994334363330133483
 ```
