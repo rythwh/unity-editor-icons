@@ -1,12 +1,9 @@
-# ScaleTool `16x16`
-<img src="/img/ScaleTool.png" width=16 height=16>
+# ScaleTool@2x `32x32`
+<img src="/img/ScaleTool.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("ScaleTool")
+EditorGUIUtility.IconContent("ScaleTool@2x")
 ```
 ```
-ScaleTool
-```
-```
-3934544089499413844
+ScaleTool@2x
 ```

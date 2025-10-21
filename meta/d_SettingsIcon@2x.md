@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_SettingsIcon@2x")
 ```
 d_SettingsIcon@2x
 ```
-```
-6486885048923350559
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("sv_icon_dot4_sml")
 ```
 sv_icon_dot4_sml
 ```
-```
--6861806574729942327
-```

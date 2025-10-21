@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TerrainInspector.TerrainToolLowerAlt")
 ```
 d_TerrainInspector.TerrainToolLowerAlt
 ```
-```
--8280841837321782853
-```

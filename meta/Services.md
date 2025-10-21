@@ -1,12 +1,9 @@
-# Services `16x16`
-<img src="/img/Services.png" width=16 height=16>
+# Services@2x `32x32`
+<img src="/img/Services.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Services")
+EditorGUIUtility.IconContent("Services@2x")
 ```
 ```
-Services
-```
-```
-6850672774161741799
+Services@2x
 ```

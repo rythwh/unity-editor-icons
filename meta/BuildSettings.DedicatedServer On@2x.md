@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.DedicatedServer On@2x")
 ```
 BuildSettings.DedicatedServer On@2x
 ```
-```
-5919977954002937266
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Import-Available-Selected-Focused@2x")
 ```
 Import-Available-Selected-Focused@2x
 ```
-```
-558766741857744550
-```

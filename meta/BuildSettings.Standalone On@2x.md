@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.Standalone On@2x")
 ```
 BuildSettings.Standalone On@2x
 ```
-```
-4576219794024598259
-```

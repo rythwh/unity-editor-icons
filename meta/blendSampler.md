@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("blendSampler")
 ```
 blendSampler
 ```
-```
-7624220810582456138
-```

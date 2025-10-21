@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("UnityEditor.ConsoleWindow@2x")
 ```
 UnityEditor.ConsoleWindow@2x
 ```
-```
--3303252850963283158
-```

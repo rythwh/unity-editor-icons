@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TreeEditor.Trash")
 ```
 d_TreeEditor.Trash
 ```
-```
--513469070796835333
-```

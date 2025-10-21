@@ -1,12 +1,9 @@
-# UnityEditor.ConsoleWindow `16x16`
-<img src="/img/UnityEditor.ConsoleWindow.png" width=16 height=16>
+# UnityEditor.ConsoleWindow@2x `32x32`
+<img src="/img/UnityEditor.ConsoleWindow.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityEditor.ConsoleWindow")
+EditorGUIUtility.IconContent("UnityEditor.ConsoleWindow@2x")
 ```
 ```
-UnityEditor.ConsoleWindow
-```
-```
-111653112392082826
+UnityEditor.ConsoleWindow@2x
 ```

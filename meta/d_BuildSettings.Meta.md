@@ -1,12 +1,9 @@
-# d_BuildSettings.Meta `32x32`
-<img src="/img/d_BuildSettings.Meta.png" width=32 height=32>
+# d_BuildSettings.Meta@2x `64x64`
+<img src="/img/d_BuildSettings.Meta.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.Meta")
+EditorGUIUtility.IconContent("d_BuildSettings.Meta@2x")
 ```
 ```
-d_BuildSettings.Meta
-```
-```
--6311749616119397274
+d_BuildSettings.Meta@2x
 ```

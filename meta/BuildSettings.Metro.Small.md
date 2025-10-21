@@ -1,12 +1,9 @@
-# BuildSettings.Metro.Small `16x16`
-<img src="/img/BuildSettings.Metro.Small.png" width=16 height=16>
+# BuildSettings.Metro.Small@2x `32x32`
+<img src="/img/BuildSettings.Metro.Small.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.Metro.Small")
+EditorGUIUtility.IconContent("BuildSettings.Metro.Small@2x")
 ```
 ```
-BuildSettings.Metro.Small
-```
-```
-8056438331138731872
+BuildSettings.Metro.Small@2x
 ```

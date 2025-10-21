@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ColorPicker.CycleColor")
 ```
 ColorPicker.CycleColor
 ```
-```
--3564112748134886232
-```

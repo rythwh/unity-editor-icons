@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_RectTool@2x")
 ```
 d_RectTool@2x
 ```
-```
--9130624343394379811
-```

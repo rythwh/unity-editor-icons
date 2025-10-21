@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SceneViewAudio@2x")
 ```
 SceneViewAudio@2x
 ```
-```
--5860017013100478350
-```

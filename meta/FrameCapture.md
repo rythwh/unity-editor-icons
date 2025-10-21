@@ -1,12 +1,9 @@
-# FrameCapture `16x16`
-<img src="/img/FrameCapture.png" width=16 height=16>
+# FrameCapture@2x `32x32`
+<img src="/img/FrameCapture.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("FrameCapture")
+EditorGUIUtility.IconContent("FrameCapture@2x")
 ```
 ```
-FrameCapture
-```
-```
--7831586651656842828
+FrameCapture@2x
 ```

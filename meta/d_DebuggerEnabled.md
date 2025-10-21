@@ -1,12 +1,9 @@
-# d_DebuggerEnabled `16x16`
-<img src="/img/d_DebuggerEnabled.png" width=16 height=16>
+# d_DebuggerEnabled@2x `32x32`
+<img src="/img/d_DebuggerEnabled.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_DebuggerEnabled")
+EditorGUIUtility.IconContent("d_DebuggerEnabled@2x")
 ```
 ```
-d_DebuggerEnabled
-```
-```
--2102042193745376952
+d_DebuggerEnabled@2x
 ```

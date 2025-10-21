@@ -1,12 +1,9 @@
-# UnityVersionLogo `120x120`
-<img src="/img/UnityVersionLogo.png" width=120 height=120>
+# UnityVersionLogo@2x `240x240`
+<img src="/img/UnityVersionLogo.png" width=240 height=240>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityVersionLogo")
+EditorGUIUtility.IconContent("UnityVersionLogo@2x")
 ```
 ```
-UnityVersionLogo
-```
-```
-3355845676989939566
+UnityVersionLogo@2x
 ```

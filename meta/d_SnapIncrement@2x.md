@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_SnapIncrement@2x")
 ```
 d_SnapIncrement@2x
 ```
-```
-2399664779587895451
-```

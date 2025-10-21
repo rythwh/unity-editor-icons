@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SceneSet Icon")
 ```
 SceneSet Icon
 ```
-```
-5498606499726036565
-```

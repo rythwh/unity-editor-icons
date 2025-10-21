@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Texture Icon")
 ```
 Texture Icon
 ```
-```
-4663949997957880924
-```

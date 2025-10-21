@@ -1,12 +1,9 @@
-# Installed `16x16`
-<img src="/img/Installed.png" width=16 height=16>
+# Installed@2x `32x32`
+<img src="/img/Installed.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Installed")
+EditorGUIUtility.IconContent("Installed@2x")
 ```
 ```
-Installed
-```
-```
--7463781148177919167
+Installed@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Tree Icon")
 ```
 Tree Icon
 ```
-```
-349475642118232294
-```

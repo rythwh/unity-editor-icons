@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_VerticalSplit")
 ```
 d_VerticalSplit
 ```
-```
-5489641135604499956
-```

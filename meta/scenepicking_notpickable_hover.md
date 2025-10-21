@@ -1,12 +1,9 @@
-# scenepicking_notpickable_hover `16x16`
-<img src="/img/scenepicking_notpickable_hover.png" width=16 height=16>
+# scenepicking_notpickable_hover@2x `32x32`
+<img src="/img/scenepicking_notpickable_hover.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("scenepicking_notpickable_hover")
+EditorGUIUtility.IconContent("scenepicking_notpickable_hover@2x")
 ```
 ```
-scenepicking_notpickable_hover
-```
-```
-8422410483951310873
+scenepicking_notpickable_hover@2x
 ```

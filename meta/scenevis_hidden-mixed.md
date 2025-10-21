@@ -1,12 +1,9 @@
-# scenevis_hidden-mixed `16x16`
-<img src="/img/scenevis_hidden-mixed.png" width=16 height=16>
+# scenevis_hidden-mixed@2x `32x32`
+<img src="/img/scenevis_hidden-mixed.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("scenevis_hidden-mixed")
+EditorGUIUtility.IconContent("scenevis_hidden-mixed@2x")
 ```
 ```
-scenevis_hidden-mixed
-```
-```
--9041905306969597308
+scenevis_hidden-mixed@2x
 ```

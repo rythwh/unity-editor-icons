@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("DiscLight Icon")
 ```
 DiscLight Icon
 ```
-```
-4811048563826522785
-```

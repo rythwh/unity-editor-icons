@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SceneAsset On Icon")
 ```
 SceneAsset On Icon
 ```
-```
-4633537267211664313
-```

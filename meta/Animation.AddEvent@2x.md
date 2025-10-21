@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Animation.AddEvent@2x")
 ```
 Animation.AddEvent@2x
 ```
-```
-4559771996658765653
-```

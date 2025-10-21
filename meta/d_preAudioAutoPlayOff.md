@@ -1,12 +1,9 @@
-# d_preAudioAutoPlayOff `16x16`
-<img src="/img/d_preAudioAutoPlayOff.png" width=16 height=16>
+# d_preAudioAutoPlayOff@2x `32x32`
+<img src="/img/d_preAudioAutoPlayOff.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_preAudioAutoPlayOff")
+EditorGUIUtility.IconContent("d_preAudioAutoPlayOff@2x")
 ```
 ```
-d_preAudioAutoPlayOff
-```
-```
--789892869308303679
+d_preAudioAutoPlayOff@2x
 ```

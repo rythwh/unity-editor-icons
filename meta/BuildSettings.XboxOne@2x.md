@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.XboxOne@2x")
 ```
 BuildSettings.XboxOne@2x
 ```
-```
-3546431289802905298
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("greenLight")
 ```
 greenLight
 ```
-```
--4352610217062901812
-```

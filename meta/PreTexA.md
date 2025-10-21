@@ -1,12 +1,9 @@
-# PreTexA `16x16`
-<img src="/img/PreTexA.png" width=16 height=16>
+# PreTexA@2x `32x32`
+<img src="/img/PreTexA.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("PreTexA")
+EditorGUIUtility.IconContent("PreTexA@2x")
 ```
 ```
-PreTexA
-```
-```
-1424101846035757749
+PreTexA@2x
 ```

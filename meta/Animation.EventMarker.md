@@ -1,12 +1,9 @@
-# Animation.EventMarker `16x16`
-<img src="/img/Animation.EventMarker.png" width=16 height=16>
+# Animation.EventMarker@2x `32x32`
+<img src="/img/Animation.EventMarker.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Animation.EventMarker")
+EditorGUIUtility.IconContent("Animation.EventMarker@2x")
 ```
 ```
-Animation.EventMarker
-```
-```
--9093604829510332455
+Animation.EventMarker@2x
 ```

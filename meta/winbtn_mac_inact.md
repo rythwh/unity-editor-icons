@@ -1,12 +1,9 @@
-# winbtn_mac_inact `16x16`
-<img src="/img/winbtn_mac_inact.png" width=16 height=16>
+# winbtn_mac_inact@2x `32x32`
+<img src="/img/winbtn_mac_inact.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("winbtn_mac_inact")
+EditorGUIUtility.IconContent("winbtn_mac_inact@2x")
 ```
 ```
-winbtn_mac_inact
-```
-```
-7621731839674880053
+winbtn_mac_inact@2x
 ```

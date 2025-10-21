@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.WP8.Small")
 ```
 BuildSettings.WP8.Small
 ```
-```
--1021178350218690989
-```

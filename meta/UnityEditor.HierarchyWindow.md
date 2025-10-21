@@ -1,12 +1,9 @@
-# UnityEditor.HierarchyWindow `16x16`
-<img src="/img/UnityEditor.HierarchyWindow.png" width=16 height=16>
+# UnityEditor.HierarchyWindow@2x `32x32`
+<img src="/img/UnityEditor.HierarchyWindow.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityEditor.HierarchyWindow")
+EditorGUIUtility.IconContent("UnityEditor.HierarchyWindow@2x")
 ```
 ```
-UnityEditor.HierarchyWindow
-```
-```
--3367076638639332536
+UnityEditor.HierarchyWindow@2x
 ```

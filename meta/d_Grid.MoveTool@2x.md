@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Grid.MoveTool@2x")
 ```
 d_Grid.MoveTool@2x
 ```
-```
-1148298343989445206
-```

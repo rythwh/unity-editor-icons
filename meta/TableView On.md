@@ -1,12 +1,9 @@
-# TableView On `16x16`
-<img src="/img/TableView%20On.png" width=16 height=16>
+# TableView On@2x `32x32`
+<img src="/img/TableView%20On.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("TableView On")
+EditorGUIUtility.IconContent("TableView On@2x")
 ```
 ```
-TableView On
-```
-```
--8657283666015989543
+TableView On@2x
 ```

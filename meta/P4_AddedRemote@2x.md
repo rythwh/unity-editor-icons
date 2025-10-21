@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("P4_AddedRemote@2x")
 ```
 P4_AddedRemote@2x
 ```
-```
-1460004667823469469
-```

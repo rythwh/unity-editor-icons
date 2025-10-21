@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("LensFlare Icon")
 ```
 LensFlare Icon
 ```
-```
-7794051059240042548
-```

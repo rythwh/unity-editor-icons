@@ -1,12 +1,9 @@
-# Animation.AddEvent `16x16`
-<img src="/img/Animation.AddEvent.png" width=16 height=16>
+# Animation.AddEvent@2x `32x32`
+<img src="/img/Animation.AddEvent.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Animation.AddEvent")
+EditorGUIUtility.IconContent("Animation.AddEvent@2x")
 ```
 ```
-Animation.AddEvent
-```
-```
-4137659740751492990
+Animation.AddEvent@2x
 ```

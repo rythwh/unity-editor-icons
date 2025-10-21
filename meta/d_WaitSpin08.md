@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_WaitSpin08")
 ```
 d_WaitSpin08
 ```
-```
--3293272779344301347
-```

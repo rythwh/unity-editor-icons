@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_P4_AddedLocal@2x")
 ```
 d_P4_AddedLocal@2x
 ```
-```
--315851098439596412
-```

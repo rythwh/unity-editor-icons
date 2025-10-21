@@ -1,12 +1,9 @@
-# BuildSettings.Switch `32x32`
-<img src="/img/BuildSettings.Switch.png" width=32 height=32>
+# BuildSettings.Switch@2x `64x64`
+<img src="/img/BuildSettings.Switch.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.Switch")
+EditorGUIUtility.IconContent("BuildSettings.Switch@2x")
 ```
 ```
-BuildSettings.Switch
-```
-```
-5517785097875794962
+BuildSettings.Switch@2x
 ```

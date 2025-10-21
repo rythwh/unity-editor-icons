@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Preset.Current@2x")
 ```
 d_Preset.Current@2x
 ```
-```
--4963207657813227985
-```

@@ -1,12 +1,9 @@
-# d__Help `16x16`
-<img src="/img/d__Help.png" width=16 height=16>
+# d__Help@2x `32x32`
+<img src="/img/d__Help.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d__Help")
+EditorGUIUtility.IconContent("d__Help@2x")
 ```
 ```
-d__Help
-```
-```
-4574346317732048352
+d__Help@2x
 ```

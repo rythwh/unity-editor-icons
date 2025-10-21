@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("DirectionalLight Icon")
 ```
 DirectionalLight Icon
 ```
-```
--791439193150167295
-```

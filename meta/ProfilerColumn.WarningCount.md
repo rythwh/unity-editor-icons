@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ProfilerColumn.WarningCount")
 ```
 ProfilerColumn.WarningCount
 ```
-```
--8021192726745117861
-```

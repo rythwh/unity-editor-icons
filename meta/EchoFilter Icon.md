@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("EchoFilter Icon")
 ```
 EchoFilter Icon
 ```
-```
-1065156068217698526
-```

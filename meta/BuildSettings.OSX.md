@@ -1,12 +1,9 @@
-# BuildSettings.OSX `33x33`
-<img src="/img/BuildSettings.OSX.png" width=33 height=33>
+# BuildSettings.OSX@2x `65x65`
+<img src="/img/BuildSettings.OSX.png" width=65 height=65>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.OSX")
+EditorGUIUtility.IconContent("BuildSettings.OSX@2x")
 ```
 ```
-BuildSettings.OSX
-```
-```
-5732989794339194379
+BuildSettings.OSX@2x
 ```

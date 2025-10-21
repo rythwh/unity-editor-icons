@@ -1,12 +1,9 @@
-# UnityEditor.VersionControl `16x16`
-<img src="/img/UnityEditor.VersionControl.png" width=16 height=16>
+# UnityEditor.VersionControl@2x `32x32`
+<img src="/img/UnityEditor.VersionControl.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityEditor.VersionControl")
+EditorGUIUtility.IconContent("UnityEditor.VersionControl@2x")
 ```
 ```
-UnityEditor.VersionControl
-```
-```
-897598055310200762
+UnityEditor.VersionControl@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("MuscleClip Icon")
 ```
 MuscleClip Icon
 ```
-```
--10527802030364122
-```

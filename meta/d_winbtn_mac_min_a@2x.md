@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_winbtn_mac_min_a@2x")
 ```
 d_winbtn_mac_min_a@2x
 ```
-```
--3451167446656906705
-```

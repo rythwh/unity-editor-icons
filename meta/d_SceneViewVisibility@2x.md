@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_SceneViewVisibility@2x")
 ```
 d_SceneViewVisibility@2x
 ```
-```
--6731205782113901468
-```

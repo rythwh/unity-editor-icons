@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AspectRatioFitter Icon")
 ```
 AspectRatioFitter Icon
 ```
-```
--2149385086842617983
-```

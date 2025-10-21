@@ -1,12 +1,9 @@
-# BuildSettings.iPhone.Small `17x16`
-<img src="/img/BuildSettings.iPhone.Small.png" width=17 height=16>
+# BuildSettings.iPhone.Small@2x `33x33`
+<img src="/img/BuildSettings.iPhone.Small.png" width=33 height=33>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.iPhone.Small")
+EditorGUIUtility.IconContent("BuildSettings.iPhone.Small@2x")
 ```
 ```
-BuildSettings.iPhone.Small
-```
-```
-4345870033486632634
+BuildSettings.iPhone.Small@2x
 ```

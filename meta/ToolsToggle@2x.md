@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ToolsToggle@2x")
 ```
 ToolsToggle@2x
 ```
-```
-6693242737727472969
-```

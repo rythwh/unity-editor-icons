@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_P4_Conflicted@2x")
 ```
 d_P4_Conflicted@2x
 ```
-```
-324962897138038127
-```

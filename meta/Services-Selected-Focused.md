@@ -1,12 +1,9 @@
-# Services-Selected-Focused `16x16`
-<img src="/img/Services-Selected-Focused.png" width=16 height=16>
+# Services-Selected-Focused@2x `32x32`
+<img src="/img/Services-Selected-Focused.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Services-Selected-Focused")
+EditorGUIUtility.IconContent("Services-Selected-Focused@2x")
 ```
 ```
-Services-Selected-Focused
-```
-```
-7734058585134303459
+Services-Selected-Focused@2x
 ```

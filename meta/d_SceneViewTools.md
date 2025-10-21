@@ -1,12 +1,9 @@
-# d_SceneViewTools `16x14`
-<img src="/img/d_SceneViewTools.png" width=16 height=14>
+# d_SceneViewTools@2x `32x28`
+<img src="/img/d_SceneViewTools.png" width=32 height=28>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_SceneViewTools")
+EditorGUIUtility.IconContent("d_SceneViewTools@2x")
 ```
 ```
-d_SceneViewTools
-```
-```
-6380571991878966436
+d_SceneViewTools@2x
 ```

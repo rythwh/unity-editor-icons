@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("VariantArrow_Active@2x")
 ```
 VariantArrow_Active@2x
 ```
-```
-539710456926545224
-```

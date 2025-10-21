@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BlendTree Icon")
 ```
 d_BlendTree Icon
 ```
-```
-160919518743690994
-```

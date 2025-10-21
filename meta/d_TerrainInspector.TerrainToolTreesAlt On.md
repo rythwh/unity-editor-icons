@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TerrainInspector.TerrainToolTreesAlt On")
 ```
 d_TerrainInspector.TerrainToolTreesAlt On
 ```
-```
--7485767978317427188
-```

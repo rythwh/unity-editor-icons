@@ -1,12 +1,9 @@
-# AlphabeticalSorting `16x16`
-<img src="/img/AlphabeticalSorting.png" width=16 height=16>
+# AlphabeticalSorting@2x `32x32`
+<img src="/img/AlphabeticalSorting.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("AlphabeticalSorting")
+EditorGUIUtility.IconContent("AlphabeticalSorting@2x")
 ```
 ```
-AlphabeticalSorting
-```
-```
-385791893351368358
+AlphabeticalSorting@2x
 ```

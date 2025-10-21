@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("NetworkProximityChecker Icon")
 ```
 NetworkProximityChecker Icon
 ```
-```
--3855380401853643883
-```

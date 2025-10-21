@@ -1,12 +1,9 @@
-# StepButton `16x16`
-<img src="/img/StepButton.png" width=16 height=16>
+# StepButton@2x `32x32`
+<img src="/img/StepButton.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("StepButton")
+EditorGUIUtility.IconContent("StepButton@2x")
 ```
 ```
-StepButton
-```
-```
-8058772314410976910
+StepButton@2x
 ```

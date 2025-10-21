@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("VisualEffect Gizmo")
 ```
 VisualEffect Gizmo
 ```
-```
-2220025264489876575
-```

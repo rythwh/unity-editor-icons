@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Navigation")
 ```
 d_Navigation
 ```
-```
-1087843850482249999
-```

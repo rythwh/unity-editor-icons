@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("_Menu@2x")
 ```
 _Menu@2x
 ```
-```
--7134199221773064657
-```

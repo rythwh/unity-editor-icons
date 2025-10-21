@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("LayoutElement Icon")
 ```
 LayoutElement Icon
 ```
-```
-7518471575754125003
-```

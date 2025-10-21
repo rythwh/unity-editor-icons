@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Search Icon")
 ```
 d_Search Icon
 ```
-```
--4275338088796684673
-```

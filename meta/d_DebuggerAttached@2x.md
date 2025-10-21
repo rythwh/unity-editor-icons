@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_DebuggerAttached@2x")
 ```
 d_DebuggerAttached@2x
 ```
-```
-1844289310244502933
-```

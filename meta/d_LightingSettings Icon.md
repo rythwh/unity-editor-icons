@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_LightingSettings Icon")
 ```
 d_LightingSettings Icon
 ```
-```
--8091151636713800588
-```

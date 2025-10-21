@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("P4_DeletedLocal@2x")
 ```
 P4_DeletedLocal@2x
 ```
-```
--8322037022406320028
-```

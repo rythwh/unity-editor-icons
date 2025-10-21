@@ -1,12 +1,9 @@
-# d_BuildSettings.UnityPlay `32x32`
-<img src="/img/d_BuildSettings.UnityPlay.png" width=32 height=32>
+# d_BuildSettings.UnityPlay@2x `64x64`
+<img src="/img/d_BuildSettings.UnityPlay.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.UnityPlay")
+EditorGUIUtility.IconContent("d_BuildSettings.UnityPlay@2x")
 ```
 ```
-d_BuildSettings.UnityPlay
-```
-```
-8565764088746700291
+d_BuildSettings.UnityPlay@2x
 ```

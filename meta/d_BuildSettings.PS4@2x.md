@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BuildSettings.PS4@2x")
 ```
 d_BuildSettings.PS4@2x
 ```
-```
-4572901898994548769
-```

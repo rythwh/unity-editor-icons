@@ -1,12 +1,9 @@
-# ListView `16x16`
-<img src="/img/ListView.png" width=16 height=16>
+# ListView@2x `32x32`
+<img src="/img/ListView.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("ListView")
+EditorGUIUtility.IconContent("ListView@2x")
 ```
 ```
-ListView
-```
-```
--7190487491453770838
+ListView@2x
 ```

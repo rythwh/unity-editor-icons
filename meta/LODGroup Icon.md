@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("LODGroup Icon")
 ```
 LODGroup Icon
 ```
-```
-7693131001325658024
-```

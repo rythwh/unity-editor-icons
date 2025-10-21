@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("FolderOpened On Icon")
 ```
 FolderOpened On Icon
 ```
-```
--7953589416335112240
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.N3DS On@2x")
 ```
 BuildSettings.N3DS On@2x
 ```
-```
-8791219912215951517
-```

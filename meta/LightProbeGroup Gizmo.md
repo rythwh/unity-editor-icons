@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("LightProbeGroup Gizmo")
 ```
 LightProbeGroup Gizmo
 ```
-```
-8637817332950654064
-```

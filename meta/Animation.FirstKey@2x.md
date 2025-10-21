@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Animation.FirstKey@2x")
 ```
 Animation.FirstKey@2x
 ```
-```
--6182535885671000683
-```

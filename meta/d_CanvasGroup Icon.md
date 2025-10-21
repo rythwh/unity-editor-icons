@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_CanvasGroup Icon")
 ```
 d_CanvasGroup Icon
 ```
-```
-5779557562189929939
-```

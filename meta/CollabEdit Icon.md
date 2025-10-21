@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("CollabEdit Icon")
 ```
 CollabEdit Icon
 ```
-```
-6085536064946281551
-```

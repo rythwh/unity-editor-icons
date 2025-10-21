@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PackageManagerError@2x")
 ```
 PackageManagerError@2x
 ```
-```
--295508391185547184
-```

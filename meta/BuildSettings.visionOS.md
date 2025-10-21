@@ -1,12 +1,9 @@
-# BuildSettings.visionOS `32x32`
-<img src="/img/BuildSettings.visionOS.png" width=32 height=32>
+# BuildSettings.visionOS@2x `64x64`
+<img src="/img/BuildSettings.visionOS.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.visionOS")
+EditorGUIUtility.IconContent("BuildSettings.visionOS@2x")
 ```
 ```
-BuildSettings.visionOS
-```
-```
-7255139279651513950
+BuildSettings.visionOS@2x
 ```

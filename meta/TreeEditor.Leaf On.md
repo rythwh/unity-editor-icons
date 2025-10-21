@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TreeEditor.Leaf On")
 ```
 TreeEditor.Leaf On
 ```
-```
--1642286057984732138
-```

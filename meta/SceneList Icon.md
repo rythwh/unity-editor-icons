@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SceneList Icon")
 ```
 SceneList Icon
 ```
-```
-1168940232033539895
-```

@@ -1,12 +1,9 @@
-# scenepicking_pickable `16x16`
-<img src="/img/scenepicking_pickable.png" width=16 height=16>
+# scenepicking_pickable@2x `32x32`
+<img src="/img/scenepicking_pickable.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("scenepicking_pickable")
+EditorGUIUtility.IconContent("scenepicking_pickable@2x")
 ```
 ```
-scenepicking_pickable
-```
-```
--5617411589947195307
+scenepicking_pickable@2x
 ```

@@ -1,12 +1,9 @@
-# d_CreateAddNew `16x16`
-<img src="/img/d_CreateAddNew.png" width=16 height=16>
+# d_CreateAddNew@2x `32x32`
+<img src="/img/d_CreateAddNew.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_CreateAddNew")
+EditorGUIUtility.IconContent("d_CreateAddNew@2x")
 ```
 ```
-d_CreateAddNew
-```
-```
-1812748973091573627
+d_CreateAddNew@2x
 ```

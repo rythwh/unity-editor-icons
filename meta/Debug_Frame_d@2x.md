@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Debug_Frame_d@2x")
 ```
 Debug_Frame_d@2x
 ```
-```
-3988132551175365234
-```

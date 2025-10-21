@@ -1,12 +1,9 @@
-# AvatarSelector `16x16`
-<img src="/img/AvatarSelector.png" width=16 height=16>
+# AvatarSelector@2x `32x32`
+<img src="/img/AvatarSelector.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("AvatarSelector")
+EditorGUIUtility.IconContent("AvatarSelector@2x")
 ```
 ```
-AvatarSelector
-```
-```
-3140210110609189590
+AvatarSelector@2x
 ```

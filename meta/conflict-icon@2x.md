@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("conflict-icon@2x")
 ```
 conflict-icon@2x
 ```
-```
-4801364389599207699
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("InputField Icon")
 ```
 InputField Icon
 ```
-```
-3823979315032016401
-```

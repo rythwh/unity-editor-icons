@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ShaderInclude Icon")
 ```
 ShaderInclude Icon
 ```
-```
--6603036978392797848
-```

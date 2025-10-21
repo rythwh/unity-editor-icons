@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Camera Icon")
 ```
 d_Camera Icon
 ```
-```
-7226769568068977144
-```

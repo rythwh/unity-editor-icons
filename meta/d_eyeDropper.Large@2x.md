@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_eyeDropper.Large@2x")
 ```
 d_eyeDropper.Large@2x
 ```
-```
--6408884465903604919
-```

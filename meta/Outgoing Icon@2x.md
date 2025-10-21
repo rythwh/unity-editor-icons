@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Outgoing Icon@2x")
 ```
 Outgoing Icon@2x
 ```
-```
--4807562648786450917
-```

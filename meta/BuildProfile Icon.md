@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildProfile Icon")
 ```
 BuildProfile Icon
 ```
-```
-8164620896958983907
-```

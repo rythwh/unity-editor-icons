@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Animation.FilterBySelection@2x")
 ```
 Animation.FilterBySelection@2x
 ```
-```
-5496628722178675830
-```

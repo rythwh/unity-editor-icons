@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("animationvisibilitytoggleon@2x")
 ```
 animationvisibilitytoggleon@2x
 ```
-```
--3637143793055229142
-```

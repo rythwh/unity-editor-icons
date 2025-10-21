@@ -1,12 +1,9 @@
-# AutoLightbakingOn `16x16`
-<img src="/img/AutoLightbakingOn.png" width=16 height=16>
+# AutoLightbakingOn@2x `32x32`
+<img src="/img/AutoLightbakingOn.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("AutoLightbakingOn")
+EditorGUIUtility.IconContent("AutoLightbakingOn@2x")
 ```
 ```
-AutoLightbakingOn
-```
-```
--7832132671675705975
+AutoLightbakingOn@2x
 ```

@@ -1,12 +1,9 @@
-# Texture2DArray `16x16`
-<img src="/img/Texture2DArray.png" width=16 height=16>
+# Texture2DArray@2x `32x32`
+<img src="/img/Texture2DArray.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Texture2DArray")
+EditorGUIUtility.IconContent("Texture2DArray@2x")
 ```
 ```
-Texture2DArray
-```
-```
--1165942873951882197
+Texture2DArray@2x
 ```

@@ -1,12 +1,9 @@
-# Link `16x17`
-<img src="/img/Link.png" width=16 height=17>
+# Link@2x `32x33`
+<img src="/img/Link.png" width=32 height=33>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Link")
+EditorGUIUtility.IconContent("Link@2x")
 ```
 ```
-Link
-```
-```
-4096703549728609393
+Link@2x
 ```

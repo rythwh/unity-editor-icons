@@ -1,12 +1,9 @@
-# BigIcons.Gear `100x100`
-<img src="/img/BigIcons.Gear.png" width=100 height=100>
+# BigIcons.Gear@2x `200x200`
+<img src="/img/BigIcons.Gear.png" width=200 height=200>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BigIcons.Gear")
+EditorGUIUtility.IconContent("BigIcons.Gear@2x")
 ```
 ```
-BigIcons.Gear
-```
-```
-8988468630332807318
+BigIcons.Gear@2x
 ```

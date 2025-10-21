@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_PrefabOverlayRemoved On Icon")
 ```
 d_PrefabOverlayRemoved On Icon
 ```
-```
--2843823844187603545
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Microphone Icon")
 ```
 d_Microphone Icon
 ```
-```
-985111829274883151
-```

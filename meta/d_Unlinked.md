@@ -1,12 +1,9 @@
-# d_Unlinked `16x16`
-<img src="/img/d_Unlinked.png" width=16 height=16>
+# d_Unlinked@2x `32x32`
+<img src="/img/d_Unlinked.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Unlinked")
+EditorGUIUtility.IconContent("d_Unlinked@2x")
 ```
 ```
-d_Unlinked
-```
-```
--3229942486024715916
+d_Unlinked@2x
 ```

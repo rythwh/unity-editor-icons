@@ -1,12 +1,9 @@
-# d_UnityEditor.Timeline.TimelineWindow `16x16`
-<img src="/img/d_UnityEditor.Timeline.TimelineWindow.png" width=16 height=16>
+# d_UnityEditor.Timeline.TimelineWindow@2x `32x32`
+<img src="/img/d_UnityEditor.Timeline.TimelineWindow.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_UnityEditor.Timeline.TimelineWindow")
+EditorGUIUtility.IconContent("d_UnityEditor.Timeline.TimelineWindow@2x")
 ```
 ```
-d_UnityEditor.Timeline.TimelineWindow
-```
-```
--9173288242387172643
+d_UnityEditor.Timeline.TimelineWindow@2x
 ```

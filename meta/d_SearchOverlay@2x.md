@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_SearchOverlay@2x")
 ```
 d_SearchOverlay@2x
 ```
-```
--4302525445083531785
-```

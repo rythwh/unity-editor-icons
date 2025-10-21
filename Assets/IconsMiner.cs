@@ -42,8 +42,8 @@ public static class IconsMiner
 			readmeBuilder.AppendLine("3. Save and focus Unity Editor");
 			readmeBuilder.AppendLine();
 			readmeBuilder.AppendLine("All icons are clickable, you will be forwarded to description file.");
-			readmeBuilder.AppendLine($"| Icon | Name | File ID |");
-			readmeBuilder.AppendLine($"|------|------|---------|");
+			readmeBuilder.AppendLine($"| Icon | Name |");
+			readmeBuilder.AppendLine($"|------|------|");
 
 			string[] assetNames = EnumerateIcons(editorAssetBundle, iconsPath).OrderBy(n => n).ToArray();
 			string iconsDirectoryPath = Path.Combine("img");
@@ -56,54 +56,68 @@ public static class IconsMiner
 				Directory.CreateDirectory(descriptionsDirectoryPath);
 			}
 
-			List<string> assetNamesFiltered = assetNames
-				.GroupBy(name => {
-					int dot = name.LastIndexOf('.');
-					string stem = dot >= 0 ? name.Substring(0, dot) : name;
-					string ext = dot >= 0 ? name.Substring(dot) : string.Empty;
-					string baseStem = stem.EndsWith("@2x", StringComparison.OrdinalIgnoreCase) ? stem.Substring(0, stem.Length - 3) : stem;
-					return baseStem + ext; // key: base name with original extension
-				}, StringComparer.OrdinalIgnoreCase)
+			// Save icon images (even ones which will be filtered-out)
+			foreach (string assetName in assetNames) {
+
+				Texture2D icon = editorAssetBundle.LoadAsset<Texture2D>(assetName);
+
+				if (!icon && icon.isReadable) {
+					continue;
+				}
+
+				string iconPath = Path.Combine(iconsDirectoryPath, $"{icon.name}.png");
+
+				Texture2D readableTexture = new(icon.width, icon.height, icon.format, icon.mipmapCount > 1);
+				Graphics.CopyTexture(icon, readableTexture);
+
+				SaveTextureAsPng(readableTexture, iconPath);
+			}
+
+			// Filter icons to only keep @2x (retina) icons - to have a shorter list
+			List<Texture2D> icons = assetNames
+				.GroupBy(
+					name => {
+						int dot = name.LastIndexOf('.');
+						string stem = dot >= 0 ? name[..dot] : name;
+						string ext = dot >= 0 ? name[dot..] : string.Empty;
+						string baseStem = stem.EndsWith("@2x", StringComparison.OrdinalIgnoreCase) ? stem[..^3] : stem;
+						return baseStem + ext; // key: base name with original extension
+					},
+					StringComparer.OrdinalIgnoreCase)
 				.Select(group => group.FirstOrDefault(IsRetina) ?? group.First())
 				.OrderBy(name => name, StringComparer.OrdinalIgnoreCase)
+				.Select(name => editorAssetBundle.LoadAsset<Texture2D>(name))
 				.ToList();
 
-			for (int i = 0; i < assetNamesFiltered.Count; i++) {
-				try {
-					string assetName = assetNamesFiltered[i];
-					Texture2D icon = editorAssetBundle.LoadAsset<Texture2D>(assetName);
+			for (int i = 0; i < icons.Count; i++) {
+				Texture2D icon = icons[i];
 
-					if (!icon && icon.isReadable) {
-						continue;
-					}
+				EditorUtility.DisplayProgressBar($"Generate {readme}", $"Generating... ({i + 1}/{icons.Count})", (float)i / icons.Count);
 
-					EditorUtility.DisplayProgressBar($"Generate {readme}", $"Generating... ({i + 1}/{assetNamesFiltered.Count})", (float)i / assetNamesFiltered.Count);
+				string iconPath = Path.Combine(iconsDirectoryPath, $"{icon.name}.png");
+				iconPath = iconPath.Replace(" ", "%20").Replace('\\', '/');
 
-					Texture2D readableTexture = new(icon.width, icon.height, icon.format, icon.mipmapCount > 1);
-					Graphics.CopyTexture(icon, readableTexture);
+				string descriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon);
 
-					string iconPath = Path.Combine(iconsDirectoryPath, $"{icon.name}.png");
+				const int maxSize = 64;
+				float largest = Mathf.Max(icon.width, icon.height);
+				float scale = (Mathf.Min(largest, maxSize)) / largest;
+				int targetWidth = Mathf.Max(1, Mathf.RoundToInt(icon.width * scale));
+				int targetHeight = Mathf.Max(1, Mathf.RoundToInt(icon.height * scale));
 
-					SaveTextureAsPng(readableTexture, iconPath);
-
-					guidMaterial.mainTexture = icon;
-					AssetDatabase.SaveAssets();
-
-					string fileId = GetFileId(guidMaterialId);
-					iconPath = iconPath.Replace(" ", "%20").Replace('\\', '/');
-					string descriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon, fileId);
-
-					const int maxSize = 64;
-					float largest = Mathf.Max(icon.width, icon.height);
-					float scale = (Mathf.Min(largest, maxSize)) / largest;
-
-					int targetWidth = Mathf.Max(1, Mathf.RoundToInt(icon.width * scale));
-					int targetHeight = Mathf.Max(1, Mathf.RoundToInt(icon.height * scale));
-
-					readmeBuilder.AppendLine($"| [<img src=\"{iconPath}\" width={targetWidth} height={targetHeight} title=\"{icon.name}\">]({descriptionFilePath}) | `{icon.name}` | `{fileId}` |");
-				} catch (Exception exception) {
-					Debug.LogException(exception);
+				string smallIconName = string.Empty;
+				string smallIcon = string.Empty;
+				if (icon.name.EndsWith("@2x")) {
+					smallIconName = icon.name.Replace("@2x", string.Empty);
+					string smallIconPath = Path.Combine(iconsDirectoryPath, $"{smallIconName}.png");
+					smallIconPath = smallIconPath.Replace(" ", "%20").Replace('\\', '/');
+					string smallIconDescriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{smallIconName}.md"), smallIconPath, icon);
+					smallIcon = $"[<img src=\"{smallIconName}.png\" width={targetWidth / 2f} height={targetHeight / 2f} title=\"{smallIconName}\">]({smallIconDescriptionFilePath})";
+					smallIconName = $"`{smallIconName}`";
 				}
+
+				string retinaIcon = $"[<img src=\"{iconPath}\" width={targetWidth} height={targetHeight} title=\"{icon.name}\">]({descriptionFilePath})";
+				readmeBuilder.AppendLine($"| {retinaIcon}{smallIcon} | `{icon.name}`{smallIconName} |");
 			}
 
 			readmeBuilder.AppendLine("\n\n\n*Original script author [@halak](https://github.com/halak)*");
@@ -116,7 +130,7 @@ public static class IconsMiner
 		}
 	}
 
-	private static string WriteIconDescriptionFile(string path, string pathToIcon, Texture2D icon, string fileId)
+	private static string WriteIconDescriptionFile(string path, string pathToIcon, Texture2D icon)
 	{
 		iconDescriptionBuilder.AppendLine($"# {icon.name} `{icon.width}x{icon.height}`");
 		iconDescriptionBuilder.AppendLine($"<img src=\"/{pathToIcon}\" width={Mathf.Min(icon.width, 512)} height={Mathf.Min(icon.height, 512)}>");
@@ -126,9 +140,6 @@ public static class IconsMiner
 		iconDescriptionBuilder.AppendLine("```");
 		iconDescriptionBuilder.AppendLine("```");
 		iconDescriptionBuilder.AppendLine(icon.name);
-		iconDescriptionBuilder.AppendLine("```");
-		iconDescriptionBuilder.AppendLine("```");
-		iconDescriptionBuilder.AppendLine(fileId);
 		iconDescriptionBuilder.AppendLine("```");
 
 		File.WriteAllText(path, iconDescriptionBuilder.ToString());
@@ -147,21 +158,6 @@ public static class IconsMiner
 				yield return assetName;
 			}
 		}
-	}
-
-	private static string GetFileId(string proxyAssetPath)
-	{
-		string serializedAsset = File.ReadAllText(proxyAssetPath);
-		int index = serializedAsset.IndexOf("_MainTex:", StringComparison.Ordinal);
-
-		if (index == -1) {
-			return string.Empty;
-		}
-
-		const string fileId = "fileID:";
-		int startIndex = serializedAsset.IndexOf(fileId, index, StringComparison.Ordinal) + fileId.Length;
-		int endIndex = serializedAsset.IndexOf(',', startIndex);
-		return serializedAsset.Substring(startIndex, endIndex - startIndex).Trim();
 	}
 
 	private static AssetBundle GetEditorAssetBundle()

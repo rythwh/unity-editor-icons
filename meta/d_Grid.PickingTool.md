@@ -1,12 +1,9 @@
-# d_Grid.PickingTool `16x16`
-<img src="/img/d_Grid.PickingTool.png" width=16 height=16>
+# d_Grid.PickingTool@2x `32x32`
+<img src="/img/d_Grid.PickingTool.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Grid.PickingTool")
+EditorGUIUtility.IconContent("d_Grid.PickingTool@2x")
 ```
 ```
-d_Grid.PickingTool
-```
-```
-7378396512500722431
+d_Grid.PickingTool@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AudioEchoFilter Icon")
 ```
 d_AudioEchoFilter Icon
 ```
-```
-3210512224881905367
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ProceduralMaterial Icon")
 ```
 d_ProceduralMaterial Icon
 ```
-```
--4981542250972756107
-```

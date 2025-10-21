@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TestInconclusive")
 ```
 TestInconclusive
 ```
-```
-6568026431948285535
-```

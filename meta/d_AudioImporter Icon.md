@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AudioImporter Icon")
 ```
 d_AudioImporter Icon
 ```
-```
-475581496394372984
-```

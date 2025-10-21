@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("UnityPlayLogo")
 ```
 UnityPlayLogo
 ```
-```
-6013866668752534035
-```

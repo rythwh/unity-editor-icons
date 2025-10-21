@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_EdgeCollider2D Icon")
 ```
 d_EdgeCollider2D Icon
 ```
-```
--4574213285256128959
-```

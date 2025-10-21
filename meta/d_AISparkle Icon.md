@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AISparkle Icon")
 ```
 d_AISparkle Icon
 ```
-```
--8170331624776197724
-```

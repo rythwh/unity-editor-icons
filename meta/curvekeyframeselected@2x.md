@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("curvekeyframeselected@2x")
 ```
 curvekeyframeselected@2x
 ```
-```
-4181363336114948910
-```

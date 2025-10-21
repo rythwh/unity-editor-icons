@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BuildSettings.Xiaomi@2x")
 ```
 d_BuildSettings.Xiaomi@2x
 ```
-```
-3805764193246990354
-```

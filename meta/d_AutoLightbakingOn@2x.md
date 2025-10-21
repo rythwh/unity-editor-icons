@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AutoLightbakingOn@2x")
 ```
 d_AutoLightbakingOn@2x
 ```
-```
-5223064176733806433
-```

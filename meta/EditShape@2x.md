@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("EditShape@2x")
 ```
 EditShape@2x
 ```
-```
-9185783591752580180
-```

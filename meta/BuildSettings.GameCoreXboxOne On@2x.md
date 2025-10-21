@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.GameCoreXboxOne On@2x")
 ```
 BuildSettings.GameCoreXboxOne On@2x
 ```
-```
-991673151852721335
-```

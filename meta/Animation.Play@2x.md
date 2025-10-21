@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Animation.Play@2x")
 ```
 Animation.Play@2x
 ```
-```
-1241623811056693672
-```

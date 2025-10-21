@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PreTexG@2x")
 ```
 PreTexG@2x
 ```
-```
--8825091264775996627
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BigIcons.ExclamationMark@2x")
 ```
 BigIcons.ExclamationMark@2x
 ```
-```
--7409421512409619805
-```

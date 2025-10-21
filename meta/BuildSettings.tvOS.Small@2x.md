@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.tvOS.Small@2x")
 ```
 BuildSettings.tvOS.Small@2x
 ```
-```
-9180157117389547636
-```

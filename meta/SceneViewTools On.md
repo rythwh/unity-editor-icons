@@ -1,12 +1,9 @@
-# SceneViewTools On `16x14`
-<img src="/img/SceneViewTools%20On.png" width=16 height=14>
+# SceneViewTools On@2x `32x28`
+<img src="/img/SceneViewTools%20On.png" width=32 height=28>
 
 ``` CSharp
-EditorGUIUtility.IconContent("SceneViewTools On")
+EditorGUIUtility.IconContent("SceneViewTools On@2x")
 ```
 ```
-SceneViewTools On
-```
-```
-3841085240681098494
+SceneViewTools On@2x
 ```

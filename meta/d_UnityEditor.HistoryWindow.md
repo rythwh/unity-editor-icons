@@ -1,12 +1,9 @@
-# d_UnityEditor.HistoryWindow `16x16`
-<img src="/img/d_UnityEditor.HistoryWindow.png" width=16 height=16>
+# d_UnityEditor.HistoryWindow@2x `32x32`
+<img src="/img/d_UnityEditor.HistoryWindow.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_UnityEditor.HistoryWindow")
+EditorGUIUtility.IconContent("d_UnityEditor.HistoryWindow@2x")
 ```
 ```
-d_UnityEditor.HistoryWindow
-```
-```
--8654612648804037319
+d_UnityEditor.HistoryWindow@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Assembly Icon")
 ```
 d_Assembly Icon
 ```
-```
-1958022779231644424
-```

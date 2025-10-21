@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("DefaultSlate Icon")
 ```
 DefaultSlate Icon
 ```
-```
-5517444954225309242
-```

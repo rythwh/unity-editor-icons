@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AudioSpatializerMicrosoft Icon")
 ```
 d_AudioSpatializerMicrosoft Icon
 ```
-```
-2022702399471630698
-```

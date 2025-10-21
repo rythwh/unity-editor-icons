@@ -1,12 +1,9 @@
-# Download-Available-Selected-Focused `16x16`
-<img src="/img/Download-Available-Selected-Focused.png" width=16 height=16>
+# Download-Available-Selected-Focused@2x `32x32`
+<img src="/img/Download-Available-Selected-Focused.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Download-Available-Selected-Focused")
+EditorGUIUtility.IconContent("Download-Available-Selected-Focused@2x")
 ```
 ```
-Download-Available-Selected-Focused
-```
-```
-6264278061940974963
+Download-Available-Selected-Focused@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ComputeShader Icon")
 ```
 d_ComputeShader Icon
 ```
-```
-7292308944435659976
-```

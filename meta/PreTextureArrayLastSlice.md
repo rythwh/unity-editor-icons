@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PreTextureArrayLastSlice")
 ```
 PreTextureArrayLastSlice
 ```
-```
--2860003758114304722
-```

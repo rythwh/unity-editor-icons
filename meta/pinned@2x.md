@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("pinned@2x")
 ```
 pinned@2x
 ```
-```
-6079344324050947838
-```

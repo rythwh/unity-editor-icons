@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Favorite Icon")
 ```
 Favorite Icon
 ```
-```
--7038881719495870386
-```

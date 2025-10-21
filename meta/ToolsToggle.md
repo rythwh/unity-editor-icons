@@ -1,12 +1,9 @@
-# ToolsToggle `16x16`
-<img src="/img/ToolsToggle.png" width=16 height=16>
+# ToolsToggle@2x `32x32`
+<img src="/img/ToolsToggle.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("ToolsToggle")
+EditorGUIUtility.IconContent("ToolsToggle@2x")
 ```
 ```
-ToolsToggle
-```
-```
-5963308004888477059
+ToolsToggle@2x
 ```

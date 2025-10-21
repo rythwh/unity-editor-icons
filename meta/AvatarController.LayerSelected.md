@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AvatarController.LayerSelected")
 ```
 AvatarController.LayerSelected
 ```
-```
-3582037340827626199
-```

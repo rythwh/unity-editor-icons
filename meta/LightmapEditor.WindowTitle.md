@@ -1,12 +1,9 @@
-# LightmapEditor.WindowTitle `16x16`
-<img src="/img/LightmapEditor.WindowTitle.png" width=16 height=16>
+# LightmapEditor.WindowTitle@2x `32x32`
+<img src="/img/LightmapEditor.WindowTitle.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("LightmapEditor.WindowTitle")
+EditorGUIUtility.IconContent("LightmapEditor.WindowTitle@2x")
 ```
 ```
-LightmapEditor.WindowTitle
-```
-```
-6532003565976252547
+LightmapEditor.WindowTitle@2x
 ```

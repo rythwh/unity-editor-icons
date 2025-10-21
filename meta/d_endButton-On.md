@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_endButton-On")
 ```
 d_endButton-On
 ```
-```
-3810875022365821714
-```

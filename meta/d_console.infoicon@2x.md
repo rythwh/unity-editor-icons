@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_console.infoicon@2x")
 ```
 d_console.infoicon@2x
 ```
-```
--7943110704522483240
-```

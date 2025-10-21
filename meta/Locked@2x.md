@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Locked@2x")
 ```
 Locked@2x
 ```
-```
-771862435094109860
-```

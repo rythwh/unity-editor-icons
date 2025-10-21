@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_PositionConstraint Icon")
 ```
 d_PositionConstraint Icon
 ```
-```
--7343420614739014117
-```

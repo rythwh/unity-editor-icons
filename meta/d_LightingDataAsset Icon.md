@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_LightingDataAsset Icon")
 ```
 d_LightingDataAsset Icon
 ```
-```
--812644171410056009
-```

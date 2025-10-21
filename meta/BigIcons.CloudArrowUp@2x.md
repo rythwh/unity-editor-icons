@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BigIcons.CloudArrowUp@2x")
 ```
 BigIcons.CloudArrowUp@2x
 ```
-```
--5434993055627382757
-```

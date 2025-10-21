@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ScrollShadow")
 ```
 ScrollShadow
 ```
-```
-4429385992787889437
-```

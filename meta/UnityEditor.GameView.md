@@ -1,12 +1,9 @@
-# UnityEditor.GameView `16x16`
-<img src="/img/UnityEditor.GameView.png" width=16 height=16>
+# UnityEditor.GameView@2x `32x32`
+<img src="/img/UnityEditor.GameView.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityEditor.GameView")
+EditorGUIUtility.IconContent("UnityEditor.GameView@2x")
 ```
 ```
-UnityEditor.GameView
-```
-```
--2087823869225018852
+UnityEditor.GameView@2x
 ```

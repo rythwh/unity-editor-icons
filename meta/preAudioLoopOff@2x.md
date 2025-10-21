@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("preAudioLoopOff@2x")
 ```
 preAudioLoopOff@2x
 ```
-```
-7272805956704072891
-```

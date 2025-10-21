@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AvatarCompass")
 ```
 d_AvatarCompass
 ```
-```
-9167206752844903456
-```

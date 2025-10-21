@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PhysX-logo@2x")
 ```
 PhysX-logo@2x
 ```
-```
--3737108243305175383
-```

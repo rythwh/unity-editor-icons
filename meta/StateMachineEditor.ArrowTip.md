@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("StateMachineEditor.ArrowTip")
 ```
 StateMachineEditor.ArrowTip
 ```
-```
-7749778010348648036
-```

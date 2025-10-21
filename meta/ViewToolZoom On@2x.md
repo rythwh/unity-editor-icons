@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ViewToolZoom On@2x")
 ```
 ViewToolZoom On@2x
 ```
-```
-365465449419660824
-```

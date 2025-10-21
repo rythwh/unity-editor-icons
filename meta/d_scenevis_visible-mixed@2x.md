@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_scenevis_visible-mixed@2x")
 ```
 d_scenevis_visible-mixed@2x
 ```
-```
--7545399465389356179
-```

@@ -1,12 +1,9 @@
-# scenevis_hidden_hover `16x16`
-<img src="/img/scenevis_hidden_hover.png" width=16 height=16>
+# scenevis_hidden_hover@2x `32x32`
+<img src="/img/scenevis_hidden_hover.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("scenevis_hidden_hover")
+EditorGUIUtility.IconContent("scenevis_hidden_hover@2x")
 ```
 ```
-scenevis_hidden_hover
-```
-```
-4365635848704492183
+scenevis_hidden_hover@2x
 ```

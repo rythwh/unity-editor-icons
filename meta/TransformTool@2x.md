@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TransformTool@2x")
 ```
 TransformTool@2x
 ```
-```
-2496772458845887343
-```

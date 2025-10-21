@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Font On Icon")
 ```
 Font On Icon
 ```
-```
--2491310405513395194
-```

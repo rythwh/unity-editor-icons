@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.Stadia@2x")
 ```
 BuildSettings.Stadia@2x
 ```
-```
-3805792301904044692
-```

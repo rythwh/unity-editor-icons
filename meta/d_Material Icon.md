@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Material Icon")
 ```
 d_Material Icon
 ```
-```
-5596697988196858232
-```

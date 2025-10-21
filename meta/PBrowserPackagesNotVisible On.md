@@ -1,12 +1,9 @@
-# PBrowserPackagesNotVisible On `16x16`
-<img src="/img/PBrowserPackagesNotVisible%20On.png" width=16 height=16>
+# PBrowserPackagesNotVisible On@2x `32x32`
+<img src="/img/PBrowserPackagesNotVisible%20On.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("PBrowserPackagesNotVisible On")
+EditorGUIUtility.IconContent("PBrowserPackagesNotVisible On@2x")
 ```
 ```
-PBrowserPackagesNotVisible On
-```
-```
--5253063638323674424
+PBrowserPackagesNotVisible On@2x
 ```

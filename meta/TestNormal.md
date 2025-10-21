@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TestNormal")
 ```
 TestNormal
 ```
-```
--8626873277415353341
-```

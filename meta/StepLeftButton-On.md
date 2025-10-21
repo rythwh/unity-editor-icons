@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("StepLeftButton-On")
 ```
 StepLeftButton-On
 ```
-```
--2011953112110610501
-```

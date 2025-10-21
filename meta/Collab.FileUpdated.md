@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Collab.FileUpdated")
 ```
 Collab.FileUpdated
 ```
-```
-1417162553530547262
-```

@@ -1,12 +1,9 @@
-# BlendDistance On `16x16`
-<img src="/img/BlendDistance%20On.png" width=16 height=16>
+# BlendDistance On@2x `32x32`
+<img src="/img/BlendDistance%20On.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BlendDistance On")
+EditorGUIUtility.IconContent("BlendDistance On@2x")
 ```
 ```
-BlendDistance On
-```
-```
--8619117439043993812
+BlendDistance On@2x
 ```

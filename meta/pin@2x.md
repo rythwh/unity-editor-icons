@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("pin@2x")
 ```
 pin@2x
 ```
-```
--8029060660813470183
-```

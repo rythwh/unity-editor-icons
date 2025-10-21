@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_LightmapParameters Icon")
 ```
 d_LightmapParameters Icon
 ```
-```
-638205964342421953
-```

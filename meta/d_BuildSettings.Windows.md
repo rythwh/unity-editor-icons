@@ -1,12 +1,9 @@
-# d_BuildSettings.Windows `32x32`
-<img src="/img/d_BuildSettings.Windows.png" width=32 height=32>
+# d_BuildSettings.Windows@2x `64x64`
+<img src="/img/d_BuildSettings.Windows.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.Windows")
+EditorGUIUtility.IconContent("d_BuildSettings.Windows@2x")
 ```
 ```
-d_BuildSettings.Windows
-```
-```
--2578474536370710337
+d_BuildSettings.Windows@2x
 ```

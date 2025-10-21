@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ParentConstraint Icon")
 ```
 d_ParentConstraint Icon
 ```
-```
-581906182735090199
-```

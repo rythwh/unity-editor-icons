@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AudioReverbZone Icon")
 ```
 d_AudioReverbZone Icon
 ```
-```
--6004528207235747473
-```

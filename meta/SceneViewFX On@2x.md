@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SceneViewFX On@2x")
 ```
 SceneViewFX On@2x
 ```
-```
-4566906942901907517
-```

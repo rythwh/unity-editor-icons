@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("RenderTexture On Icon")
 ```
 RenderTexture On Icon
 ```
-```
-67309570266591731
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PreTextureMipMapLow")
 ```
 PreTextureMipMapLow
 ```
-```
-6692696569407264862
-```

@@ -1,12 +1,9 @@
-# BuildSettings.DedicatedServer `32x32`
-<img src="/img/BuildSettings.DedicatedServer.png" width=32 height=32>
+# BuildSettings.DedicatedServer@2x `64x64`
+<img src="/img/BuildSettings.DedicatedServer.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.DedicatedServer")
+EditorGUIUtility.IconContent("BuildSettings.DedicatedServer@2x")
 ```
 ```
-BuildSettings.DedicatedServer
-```
-```
-3815258833528828467
+BuildSettings.DedicatedServer@2x
 ```

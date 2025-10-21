@@ -1,12 +1,9 @@
-# Package Manager `16x16`
-<img src="/img/Package%20Manager.png" width=16 height=16>
+# Package Manager@2x `32x32`
+<img src="/img/Package%20Manager.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Package Manager")
+EditorGUIUtility.IconContent("Package Manager@2x")
 ```
 ```
-Package Manager
-```
-```
-2532104554704294423
+Package Manager@2x
 ```

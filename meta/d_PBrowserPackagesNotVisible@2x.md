@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_PBrowserPackagesNotVisible@2x")
 ```
 d_PBrowserPackagesNotVisible@2x
 ```
-```
-7571571704544617380
-```

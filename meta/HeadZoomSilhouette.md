@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("HeadZoomSilhouette")
 ```
 HeadZoomSilhouette
 ```
-```
-7762936895225980166
-```

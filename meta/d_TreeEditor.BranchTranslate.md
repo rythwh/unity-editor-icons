@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TreeEditor.BranchTranslate")
 ```
 d_TreeEditor.BranchTranslate
 ```
-```
--2433709507772431412
-```

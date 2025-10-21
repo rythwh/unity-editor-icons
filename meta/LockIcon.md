@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("LockIcon")
 ```
 LockIcon
 ```
-```
-4182018128144966475
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("scenevis_scene_hover@2x")
 ```
 scenevis_scene_hover@2x
 ```
-```
-2353864357118860143
-```

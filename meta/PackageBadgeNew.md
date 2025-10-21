@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PackageBadgeNew")
 ```
 PackageBadgeNew
 ```
-```
-4733447884700736996
-```

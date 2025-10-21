@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TreeEditor.LeafFreeHand On")
 ```
 d_TreeEditor.LeafFreeHand On
 ```
-```
--2138146232929022181
-```

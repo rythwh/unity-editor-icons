@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("UpArrow")
 ```
 UpArrow
 ```
-```
--624697150232901407
-```

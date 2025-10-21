@@ -1,12 +1,9 @@
-# MouseLeft-Drag `16x16`
-<img src="/img/MouseLeft-Drag.png" width=16 height=16>
+# MouseLeft-Drag@2x `32x32`
+<img src="/img/MouseLeft-Drag.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("MouseLeft-Drag")
+EditorGUIUtility.IconContent("MouseLeft-Drag@2x")
 ```
 ```
-MouseLeft-Drag
-```
-```
--1860990332304251679
+MouseLeft-Drag@2x
 ```

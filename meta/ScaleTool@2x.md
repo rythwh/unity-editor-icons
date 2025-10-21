@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ScaleTool@2x")
 ```
 ScaleTool@2x
 ```
-```
-3847936436455699715
-```

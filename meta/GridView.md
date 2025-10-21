@@ -1,12 +1,9 @@
-# GridView `16x16`
-<img src="/img/GridView.png" width=16 height=16>
+# GridView@2x `32x32`
+<img src="/img/GridView.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("GridView")
+EditorGUIUtility.IconContent("GridView@2x")
 ```
 ```
-GridView
-```
-```
--3611339562729042634
+GridView@2x
 ```

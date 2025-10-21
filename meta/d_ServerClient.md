@@ -1,12 +1,9 @@
-# d_ServerClient `32x32`
-<img src="/img/d_ServerClient.png" width=32 height=32>
+# d_ServerClient@2x `64x64`
+<img src="/img/d_ServerClient.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_ServerClient")
+EditorGUIUtility.IconContent("d_ServerClient@2x")
 ```
 ```
-d_ServerClient
-```
-```
-8997268413161944592
+d_ServerClient@2x
 ```

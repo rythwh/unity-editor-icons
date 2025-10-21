@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_SaveAs@2x")
 ```
 d_SaveAs@2x
 ```
-```
--8440776694992983928
-```

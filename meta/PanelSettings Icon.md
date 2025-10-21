@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PanelSettings Icon")
 ```
 PanelSettings Icon
 ```
-```
--7740402879210975047
-```

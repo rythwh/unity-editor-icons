@@ -1,12 +1,9 @@
-# SceneViewFx `16x16`
-<img src="/img/SceneViewFx.png" width=16 height=16>
+# SceneViewFX@2x `32x32`
+<img src="/img/SceneViewFX.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("SceneViewFx")
+EditorGUIUtility.IconContent("SceneViewFX@2x")
 ```
 ```
-SceneViewFx
-```
-```
--679019844569198169
+SceneViewFX@2x
 ```

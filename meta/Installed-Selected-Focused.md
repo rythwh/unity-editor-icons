@@ -1,12 +1,9 @@
-# Installed-Selected-Focused `16x16`
-<img src="/img/Installed-Selected-Focused.png" width=16 height=16>
+# Installed-Selected-Focused@2x `32x32`
+<img src="/img/Installed-Selected-Focused.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Installed-Selected-Focused")
+EditorGUIUtility.IconContent("Installed-Selected-Focused@2x")
 ```
 ```
-Installed-Selected-Focused
-```
-```
--7716403783494551626
+Installed-Selected-Focused@2x
 ```

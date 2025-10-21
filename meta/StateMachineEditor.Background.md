@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("StateMachineEditor.Background")
 ```
 StateMachineEditor.Background
 ```
-```
-1283703306145647540
-```

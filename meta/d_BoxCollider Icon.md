@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BoxCollider Icon")
 ```
 d_BoxCollider Icon
 ```
-```
-5725305819640465133
-```

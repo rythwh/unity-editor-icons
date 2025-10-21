@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Profiler.PrevFrame")
 ```
 Profiler.PrevFrame
 ```
-```
-2022595674726365639
-```

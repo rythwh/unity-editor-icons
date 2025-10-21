@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("editcollision_16@2x")
 ```
 editcollision_16@2x
 ```
-```
-3350208835365332795
-```

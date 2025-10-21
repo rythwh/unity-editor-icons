@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PlayableDirector Icon")
 ```
 PlayableDirector Icon
 ```
-```
--7419989374102571955
-```

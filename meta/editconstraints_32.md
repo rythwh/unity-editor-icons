@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("editconstraints_32")
 ```
 editconstraints_32
 ```
-```
--6653826369513442129
-```

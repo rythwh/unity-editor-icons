@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Profiler.Physics@2x")
 ```
 Profiler.Physics@2x
 ```
-```
--2249923835933890752
-```

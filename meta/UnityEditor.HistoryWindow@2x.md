@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("UnityEditor.HistoryWindow@2x")
 ```
 UnityEditor.HistoryWindow@2x
 ```
-```
--7109777279418080712
-```

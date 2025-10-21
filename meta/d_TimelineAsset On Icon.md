@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TimelineAsset On Icon")
 ```
 d_TimelineAsset On Icon
 ```
-```
-6753511611592841517
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_VisualEffect Icon")
 ```
 d_VisualEffect Icon
 ```
-```
--3348444960227508024
-```

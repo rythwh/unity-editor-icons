@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("CacheServerDisabled@2x")
 ```
 CacheServerDisabled@2x
 ```
-```
-3350491704846691845
-```

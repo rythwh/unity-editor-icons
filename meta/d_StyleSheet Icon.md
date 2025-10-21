@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_StyleSheet Icon")
 ```
 d_StyleSheet Icon
 ```
-```
-6189365082779402583
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Update-Available-Selected-Focused@2x")
 ```
 Update-Available-Selected-Focused@2x
 ```
-```
-8926525312846716591
-```

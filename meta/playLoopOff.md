@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("playLoopOff")
 ```
 playLoopOff
 ```
-```
--3242863084168820064
-```

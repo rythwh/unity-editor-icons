@@ -1,12 +1,9 @@
-# pin `16x16`
-<img src="/img/pin.png" width=16 height=16>
+# pin@2x `32x32`
+<img src="/img/pin.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("pin")
+EditorGUIUtility.IconContent("pin@2x")
 ```
 ```
-pin
-```
-```
-7528216437304365170
+pin@2x
 ```

@@ -1,12 +1,9 @@
-# wireframe `16x16`
-<img src="/img/wireframe.png" width=16 height=16>
+# wireframe@2x `32x32`
+<img src="/img/wireframe.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("wireframe")
+EditorGUIUtility.IconContent("wireframe@2x")
 ```
 ```
-wireframe
-```
-```
-4283371367039345114
+wireframe@2x
 ```

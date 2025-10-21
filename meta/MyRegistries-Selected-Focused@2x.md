@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("MyRegistries-Selected-Focused@2x")
 ```
 MyRegistries-Selected-Focused@2x
 ```
-```
--8120897390808895542
-```

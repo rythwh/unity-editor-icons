@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_EventSystem Icon")
 ```
 d_EventSystem Icon
 ```
-```
--4387529911086606607
-```

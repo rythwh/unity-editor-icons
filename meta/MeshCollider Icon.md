@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("MeshCollider Icon")
 ```
 MeshCollider Icon
 ```
-```
-5751836871710099725
-```

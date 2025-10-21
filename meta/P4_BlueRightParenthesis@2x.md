@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("P4_BlueRightParenthesis@2x")
 ```
 P4_BlueRightParenthesis@2x
 ```
-```
-4609409797125686835
-```

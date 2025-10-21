@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_SocialNetworks.Tweet")
 ```
 d_SocialNetworks.Tweet
 ```
-```
-2360951554312685488
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Occlusion@2x")
 ```
 d_Occlusion@2x
 ```
-```
--6304520642066340446
-```

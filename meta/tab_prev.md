@@ -1,12 +1,9 @@
-# tab_prev `16x16`
-<img src="/img/tab_prev.png" width=16 height=16>
+# tab_prev@2x `32x32`
+<img src="/img/tab_prev.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("tab_prev")
+EditorGUIUtility.IconContent("tab_prev@2x")
 ```
 ```
-tab_prev
-```
-```
-8704490849504006089
+tab_prev@2x
 ```

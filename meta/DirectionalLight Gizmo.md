@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("DirectionalLight Gizmo")
 ```
 DirectionalLight Gizmo
 ```
-```
--2108776713216651144
-```

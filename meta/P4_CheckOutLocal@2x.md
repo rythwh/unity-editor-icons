@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("P4_CheckOutLocal@2x")
 ```
 P4_CheckOutLocal@2x
 ```
-```
--7128877792465503086
-```

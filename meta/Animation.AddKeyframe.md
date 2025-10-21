@@ -1,12 +1,9 @@
-# Animation.AddKeyframe `16x16`
-<img src="/img/Animation.AddKeyframe.png" width=16 height=16>
+# Animation.AddKeyframe@2x `32x32`
+<img src="/img/Animation.AddKeyframe.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Animation.AddKeyframe")
+EditorGUIUtility.IconContent("Animation.AddKeyframe@2x")
 ```
 ```
-Animation.AddKeyframe
-```
-```
-1899560698203370934
+Animation.AddKeyframe@2x
 ```

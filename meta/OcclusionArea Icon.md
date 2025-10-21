@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("OcclusionArea Icon")
 ```
 OcclusionArea Icon
 ```
-```
-8659041198154485960
-```

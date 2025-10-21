@@ -1,12 +1,9 @@
-# ToolHandleLocal `16x16`
-<img src="/img/ToolHandleLocal.png" width=16 height=16>
+# ToolHandleLocal@2x `32x32`
+<img src="/img/ToolHandleLocal.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("ToolHandleLocal")
+EditorGUIUtility.IconContent("ToolHandleLocal@2x")
 ```
 ```
-ToolHandleLocal
-```
-```
-129492653445761205
+ToolHandleLocal@2x
 ```

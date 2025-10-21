@@ -1,12 +1,9 @@
-# Update-Available-Selected-Focused `16x16`
-<img src="/img/Update-Available-Selected-Focused.png" width=16 height=16>
+# Update-Available-Selected-Focused@2x `32x32`
+<img src="/img/Update-Available-Selected-Focused.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Update-Available-Selected-Focused")
+EditorGUIUtility.IconContent("Update-Available-Selected-Focused@2x")
 ```
 ```
-Update-Available-Selected-Focused
-```
-```
-1507131082136806671
+Update-Available-Selected-Focused@2x
 ```

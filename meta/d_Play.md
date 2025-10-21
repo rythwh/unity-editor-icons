@@ -1,12 +1,9 @@
-# d_Play `16x16`
-<img src="/img/d_Play.png" width=16 height=16>
+# d_Play@2x `32x32`
+<img src="/img/d_Play.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Play")
+EditorGUIUtility.IconContent("d_Play@2x")
 ```
 ```
-d_Play
-```
-```
-2840300199887526447
+d_Play@2x
 ```

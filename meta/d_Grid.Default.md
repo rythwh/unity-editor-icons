@@ -1,12 +1,9 @@
-# d_Grid.Default `16x16`
-<img src="/img/d_Grid.Default.png" width=16 height=16>
+# d_Grid.Default@2x `32x32`
+<img src="/img/d_Grid.Default.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Grid.Default")
+EditorGUIUtility.IconContent("d_Grid.Default@2x")
 ```
 ```
-d_Grid.Default
-```
-```
-1069608246273552248
+d_Grid.Default@2x
 ```

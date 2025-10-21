@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("LineRenderer Icon")
 ```
 LineRenderer Icon
 ```
-```
--3392925548217032927
-```

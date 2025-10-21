@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Projector Icon")
 ```
 d_Projector Icon
 ```
-```
-7136189600330326936
-```

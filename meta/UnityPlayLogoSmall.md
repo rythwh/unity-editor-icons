@@ -1,12 +1,9 @@
-# UnityPlayLogoSmall `48x16`
-<img src="/img/UnityPlayLogoSmall.png" width=48 height=16>
+# UnityPlayLogoSmall@2x `96x32`
+<img src="/img/UnityPlayLogoSmall.png" width=96 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityPlayLogoSmall")
+EditorGUIUtility.IconContent("UnityPlayLogoSmall@2x")
 ```
 ```
-UnityPlayLogoSmall
-```
-```
-4059583111603564418
+UnityPlayLogoSmall@2x
 ```

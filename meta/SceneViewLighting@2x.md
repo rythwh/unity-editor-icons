@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SceneViewLighting@2x")
 ```
 SceneViewLighting@2x
 ```
-```
--7730601604658104748
-```

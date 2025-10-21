@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_NetworkLobbyPlayer Icon")
 ```
 d_NetworkLobbyPlayer Icon
 ```
-```
-5453513536048816775
-```

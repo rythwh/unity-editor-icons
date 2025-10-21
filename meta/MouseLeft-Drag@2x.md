@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("MouseLeft-Drag@2x")
 ```
 MouseLeft-Drag@2x
 ```
-```
-5774414147985611137
-```

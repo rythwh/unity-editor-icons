@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.iPhone@2x")
 ```
 BuildSettings.iPhone@2x
 ```
-```
-6987697712259842190
-```

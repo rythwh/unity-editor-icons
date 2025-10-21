@@ -1,12 +1,9 @@
-# d_BuildSettings.Switch.Small `16x16`
-<img src="/img/d_BuildSettings.Switch.Small.png" width=16 height=16>
+# d_BuildSettings.Switch.Small@2x `32x32`
+<img src="/img/d_BuildSettings.Switch.Small.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.Switch.Small")
+EditorGUIUtility.IconContent("d_BuildSettings.Switch.Small@2x")
 ```
 ```
-d_BuildSettings.Switch.Small
-```
-```
-2920198948148501075
+d_BuildSettings.Switch.Small@2x
 ```

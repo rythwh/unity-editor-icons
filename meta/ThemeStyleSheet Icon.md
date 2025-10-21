@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ThemeStyleSheet Icon")
 ```
 ThemeStyleSheet Icon
 ```
-```
-8155389506043278651
-```

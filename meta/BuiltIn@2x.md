@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuiltIn@2x")
 ```
 BuiltIn@2x
 ```
-```
--3774665211689282770
-```

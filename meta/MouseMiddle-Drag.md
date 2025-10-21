@@ -1,12 +1,9 @@
-# MouseMiddle-Drag `16x16`
-<img src="/img/MouseMiddle-Drag.png" width=16 height=16>
+# MouseMiddle-Drag@2x `32x32`
+<img src="/img/MouseMiddle-Drag.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("MouseMiddle-Drag")
+EditorGUIUtility.IconContent("MouseMiddle-Drag@2x")
 ```
 ```
-MouseMiddle-Drag
-```
-```
-8122180806492313282
+MouseMiddle-Drag@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("UnityVersionLogo@2x")
 ```
 UnityVersionLogo@2x
 ```
-```
-3972409873911087560
-```

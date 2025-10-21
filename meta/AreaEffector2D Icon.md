@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AreaEffector2D Icon")
 ```
 AreaEffector2D Icon
 ```
-```
-3769282528709171822
-```

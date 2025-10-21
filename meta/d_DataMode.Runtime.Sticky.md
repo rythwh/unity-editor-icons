@@ -1,12 +1,9 @@
-# d_DataMode.Runtime.Sticky `16x16`
-<img src="/img/d_DataMode.Runtime.Sticky.png" width=16 height=16>
+# d_DataMode.Runtime.Sticky@2x `32x32`
+<img src="/img/d_DataMode.Runtime.Sticky.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_DataMode.Runtime.Sticky")
+EditorGUIUtility.IconContent("d_DataMode.Runtime.Sticky@2x")
 ```
 ```
-d_DataMode.Runtime.Sticky
-```
-```
--1507912107701308185
+d_DataMode.Runtime.Sticky@2x
 ```

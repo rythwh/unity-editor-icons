@@ -1,12 +1,9 @@
-# BuildSettings.WebGL.Small `16x16`
-<img src="/img/BuildSettings.WebGL.Small.png" width=16 height=16>
+# BuildSettings.WebGL.Small@2x `32x32`
+<img src="/img/BuildSettings.WebGL.Small.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.WebGL.Small")
+EditorGUIUtility.IconContent("BuildSettings.WebGL.Small@2x")
 ```
 ```
-BuildSettings.WebGL.Small
-```
-```
--3267170773426585699
+BuildSettings.WebGL.Small@2x
 ```

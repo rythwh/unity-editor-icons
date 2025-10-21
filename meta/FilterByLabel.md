@@ -1,12 +1,9 @@
-# FilterByLabel `16x16`
-<img src="/img/FilterByLabel.png" width=16 height=16>
+# FilterByLabel@2x `32x32`
+<img src="/img/FilterByLabel.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("FilterByLabel")
+EditorGUIUtility.IconContent("FilterByLabel@2x")
 ```
 ```
-FilterByLabel
-```
-```
--8291520698594614439
+FilterByLabel@2x
 ```

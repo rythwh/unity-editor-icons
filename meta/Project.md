@@ -1,12 +1,9 @@
-# Project `16x16`
-<img src="/img/Project.png" width=16 height=16>
+# Project@2x `32x32`
+<img src="/img/Project.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Project")
+EditorGUIUtility.IconContent("Project@2x")
 ```
 ```
-Project
-```
-```
--7501376956915960154
+Project@2x
 ```

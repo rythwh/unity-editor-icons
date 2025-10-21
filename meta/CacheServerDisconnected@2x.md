@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("CacheServerDisconnected@2x")
 ```
 CacheServerDisconnected@2x
 ```
-```
--3833278316657131349
-```

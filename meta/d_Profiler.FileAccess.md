@@ -1,12 +1,9 @@
-# d_Profiler.FileAccess `16x16`
-<img src="/img/d_Profiler.FileAccess.png" width=16 height=16>
+# d_Profiler.FileAccess@2x `32x32`
+<img src="/img/d_Profiler.FileAccess.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Profiler.FileAccess")
+EditorGUIUtility.IconContent("d_Profiler.FileAccess@2x")
 ```
 ```
-d_Profiler.FileAccess
-```
-```
-8271743063065308341
+d_Profiler.FileAccess@2x
 ```

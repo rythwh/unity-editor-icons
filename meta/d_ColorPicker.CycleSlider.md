@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ColorPicker.CycleSlider")
 ```
 d_ColorPicker.CycleSlider
 ```
-```
--6127063465635223028
-```

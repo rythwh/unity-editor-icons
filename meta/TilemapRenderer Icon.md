@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TilemapRenderer Icon")
 ```
 TilemapRenderer Icon
 ```
-```
--8893579420449532881
-```

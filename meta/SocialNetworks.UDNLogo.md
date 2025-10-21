@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SocialNetworks.UDNLogo")
 ```
 SocialNetworks.UDNLogo
 ```
-```
-7973869797197511313
-```

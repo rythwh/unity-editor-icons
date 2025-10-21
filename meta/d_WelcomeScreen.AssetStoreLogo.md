@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_WelcomeScreen.AssetStoreLogo")
 ```
 d_WelcomeScreen.AssetStoreLogo
 ```
-```
--1267765922707722170
-```

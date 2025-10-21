@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Profiler.Custom@2x")
 ```
 Profiler.Custom@2x
 ```
-```
--4709270636982363119
-```

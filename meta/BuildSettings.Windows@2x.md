@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.Windows@2x")
 ```
 BuildSettings.Windows@2x
 ```
-```
--2748820393575266280
-```

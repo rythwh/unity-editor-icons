@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BillboardRenderer Icon")
 ```
 BillboardRenderer Icon
 ```
-```
-4178672035153780976
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ServerClient.Small")
 ```
 d_ServerClient.Small
 ```
-```
--4491033415811589495
-```

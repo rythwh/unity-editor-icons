@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SocialNetworks.LinkedInShare")
 ```
 SocialNetworks.LinkedInShare
 ```
-```
--4302222837364986894
-```

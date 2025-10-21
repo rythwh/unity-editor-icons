@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TreeEditor.Wind")
 ```
 TreeEditor.Wind
 ```
-```
-360081928888330922
-```

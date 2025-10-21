@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Grid.BoxTool@2x")
 ```
 d_Grid.BoxTool@2x
 ```
-```
--1600691820090266399
-```

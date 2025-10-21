@@ -1,12 +1,9 @@
-# SceneViewCamera `16x14`
-<img src="/img/SceneViewCamera.png" width=16 height=14>
+# SceneViewCamera@2x `32x28`
+<img src="/img/SceneViewCamera.png" width=32 height=28>
 
 ``` CSharp
-EditorGUIUtility.IconContent("SceneViewCamera")
+EditorGUIUtility.IconContent("SceneViewCamera@2x")
 ```
 ```
-SceneViewCamera
-```
-```
-6164537384866057818
+SceneViewCamera@2x
 ```

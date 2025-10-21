@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_RectMask2D Icon")
 ```
 d_RectMask2D Icon
 ```
-```
-5601005728230766229
-```

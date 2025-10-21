@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.LinuxHeadlessSimulation.Small@2x")
 ```
 BuildSettings.LinuxHeadlessSimulation.Small@2x
 ```
-```
-6676424620479421655
-```

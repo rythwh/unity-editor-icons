@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Particle Effect")
 ```
 Particle Effect
 ```
-```
--3708470382322310263
-```

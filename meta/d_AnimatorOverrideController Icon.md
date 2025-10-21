@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AnimatorOverrideController Icon")
 ```
 d_AnimatorOverrideController Icon
 ```
-```
--1603474379312980081
-```

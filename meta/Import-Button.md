@@ -1,12 +1,9 @@
-# Import-Button `16x16`
-<img src="/img/Import-Button.png" width=16 height=16>
+# Import-Button@2x `32x32`
+<img src="/img/Import-Button.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Import-Button")
+EditorGUIUtility.IconContent("Import-Button@2x")
 ```
 ```
-Import-Button
-```
-```
--3162334340865873694
+Import-Button@2x
 ```

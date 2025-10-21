@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SphereCollider Icon")
 ```
 SphereCollider Icon
 ```
-```
-1840295920753766348
-```

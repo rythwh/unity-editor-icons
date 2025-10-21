@@ -1,12 +1,9 @@
-# MainStageView `16x16`
-<img src="/img/MainStageView.png" width=16 height=16>
+# MainStageView@2x `32x32`
+<img src="/img/MainStageView.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("MainStageView")
+EditorGUIUtility.IconContent("MainStageView@2x")
 ```
 ```
-MainStageView
-```
-```
-3941239396516042914
+MainStageView@2x
 ```

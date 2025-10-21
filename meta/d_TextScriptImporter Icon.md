@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TextScriptImporter Icon")
 ```
 d_TextScriptImporter Icon
 ```
-```
-8570931702132301090
-```

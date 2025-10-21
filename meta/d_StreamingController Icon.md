@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_StreamingController Icon")
 ```
 d_StreamingController Icon
 ```
-```
-415356531041165513
-```

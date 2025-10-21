@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("GridLayoutGroup Icon")
 ```
 GridLayoutGroup Icon
 ```
-```
--4744454673356923046
-```

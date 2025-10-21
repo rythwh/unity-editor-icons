@@ -1,12 +1,9 @@
-# BuildSettings.tvOS `33x33`
-<img src="/img/BuildSettings.tvOS.png" width=33 height=33>
+# BuildSettings.tvOS@2x `65x65`
+<img src="/img/BuildSettings.tvOS.png" width=65 height=65>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.tvOS")
+EditorGUIUtility.IconContent("BuildSettings.tvOS@2x")
 ```
 ```
-BuildSettings.tvOS
-```
-```
--2604507406547028008
+BuildSettings.tvOS@2x
 ```

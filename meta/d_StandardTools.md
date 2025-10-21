@@ -1,12 +1,9 @@
-# d_StandardTools `16x16`
-<img src="/img/d_StandardTools.png" width=16 height=16>
+# d_StandardTools@2x `32x32`
+<img src="/img/d_StandardTools.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_StandardTools")
+EditorGUIUtility.IconContent("d_StandardTools@2x")
 ```
 ```
-d_StandardTools
-```
-```
--1386623868000654542
+d_StandardTools@2x
 ```

@@ -1,12 +1,9 @@
-# Stop `16x16`
-<img src="/img/Stop.png" width=16 height=16>
+# Stop@2x `32x32`
+<img src="/img/Stop.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Stop")
+EditorGUIUtility.IconContent("Stop@2x")
 ```
 ```
-Stop
-```
-```
--6549760428460166285
+Stop@2x
 ```

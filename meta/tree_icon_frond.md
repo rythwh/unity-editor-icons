@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("tree_icon_frond")
 ```
 tree_icon_frond
 ```
-```
--7550621281397595591
-```

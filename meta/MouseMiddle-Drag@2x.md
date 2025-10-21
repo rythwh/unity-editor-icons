@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("MouseMiddle-Drag@2x")
 ```
 MouseMiddle-Drag@2x
 ```
-```
-5280261802249768819
-```

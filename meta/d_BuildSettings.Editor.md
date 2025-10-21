@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BuildSettings.Editor")
 ```
 d_BuildSettings.Editor
 ```
-```
-8981877300449229896
-```

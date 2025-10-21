@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Profiler.Record")
 ```
 d_Profiler.Record
 ```
-```
-5014591224172978528
-```

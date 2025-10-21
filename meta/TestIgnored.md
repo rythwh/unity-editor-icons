@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TestIgnored")
 ```
 TestIgnored
 ```
-```
--3941378333303756677
-```

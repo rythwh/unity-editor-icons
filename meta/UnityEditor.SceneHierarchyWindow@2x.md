@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("UnityEditor.SceneHierarchyWindow@2x")
 ```
 UnityEditor.SceneHierarchyWindow@2x
 ```
-```
--9000905672528348964
-```

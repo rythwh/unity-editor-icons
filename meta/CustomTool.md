@@ -1,12 +1,9 @@
-# CustomTool `19x18`
-<img src="/img/CustomTool.png" width=19 height=18>
+# CustomTool@2x `38x36`
+<img src="/img/CustomTool.png" width=38 height=36>
 
 ``` CSharp
-EditorGUIUtility.IconContent("CustomTool")
+EditorGUIUtility.IconContent("CustomTool@2x")
 ```
 ```
-CustomTool
-```
-```
-6092978192067049055
+CustomTool@2x
 ```

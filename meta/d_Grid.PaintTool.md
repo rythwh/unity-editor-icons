@@ -1,12 +1,9 @@
-# d_Grid.PaintTool `16x16`
-<img src="/img/d_Grid.PaintTool.png" width=16 height=16>
+# d_Grid.PaintTool@2x `32x32`
+<img src="/img/d_Grid.PaintTool.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Grid.PaintTool")
+EditorGUIUtility.IconContent("d_Grid.PaintTool@2x")
 ```
 ```
-d_Grid.PaintTool
-```
-```
-7266813162977989727
+d_Grid.PaintTool@2x
 ```

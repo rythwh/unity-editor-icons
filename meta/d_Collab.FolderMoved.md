@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Collab.FolderMoved")
 ```
 d_Collab.FolderMoved
 ```
-```
--143210653946747314
-```

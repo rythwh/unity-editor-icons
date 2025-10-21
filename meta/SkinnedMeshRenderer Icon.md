@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SkinnedMeshRenderer Icon")
 ```
 SkinnedMeshRenderer Icon
 ```
-```
--4497036205118453748
-```

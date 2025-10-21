@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("RenderPipelineGlobalSettings Icon")
 ```
 RenderPipelineGlobalSettings Icon
 ```
-```
--5308870388824061099
-```

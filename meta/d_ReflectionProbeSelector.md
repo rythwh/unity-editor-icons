@@ -1,12 +1,9 @@
-# d_ReflectionProbeSelector `16x16`
-<img src="/img/d_ReflectionProbeSelector.png" width=16 height=16>
+# d_ReflectionProbeSelector@2x `32x32`
+<img src="/img/d_ReflectionProbeSelector.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_ReflectionProbeSelector")
+EditorGUIUtility.IconContent("d_ReflectionProbeSelector@2x")
 ```
 ```
-d_ReflectionProbeSelector
-```
-```
--7067623766649443779
+d_ReflectionProbeSelector@2x
 ```

@@ -1,12 +1,9 @@
-# RepaintDot `16x16`
-<img src="/img/RepaintDot.png" width=16 height=16>
+# RepaintDot@2x `32x32`
+<img src="/img/RepaintDot.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("RepaintDot")
+EditorGUIUtility.IconContent("RepaintDot@2x")
 ```
 ```
-RepaintDot
-```
-```
--6700053517184074715
+RepaintDot@2x
 ```

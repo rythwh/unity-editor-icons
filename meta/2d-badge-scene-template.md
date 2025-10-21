@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("2d-badge-scene-template")
 ```
 2d-badge-scene-template
 ```
-```
--722986164535417528
-```

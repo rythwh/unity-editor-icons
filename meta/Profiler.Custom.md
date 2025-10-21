@@ -1,12 +1,9 @@
-# Profiler.Custom `16x16`
-<img src="/img/Profiler.Custom.png" width=16 height=16>
+# Profiler.Custom@2x `32x32`
+<img src="/img/Profiler.Custom.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Profiler.Custom")
+EditorGUIUtility.IconContent("Profiler.Custom@2x")
 ```
 ```
-Profiler.Custom
-```
-```
--6324519988180847008
+Profiler.Custom@2x
 ```

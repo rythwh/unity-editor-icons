@@ -1,12 +1,9 @@
-# Valid `16x16`
-<img src="/img/Valid.png" width=16 height=16>
+# Valid@2x `32x32`
+<img src="/img/Valid.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Valid")
+EditorGUIUtility.IconContent("Valid@2x")
 ```
 ```
-Valid
-```
-```
--4824601385504796693
+Valid@2x
 ```

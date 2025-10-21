@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_HingeJoint Icon")
 ```
 d_HingeJoint Icon
 ```
-```
--7049302993581372179
-```

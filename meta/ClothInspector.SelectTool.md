@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ClothInspector.SelectTool")
 ```
 ClothInspector.SelectTool
 ```
-```
-9194464402604369906
-```

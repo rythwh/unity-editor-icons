@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_monologo")
 ```
 d_monologo
 ```
-```
-2024370742291596448
-```

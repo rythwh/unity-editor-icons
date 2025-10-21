@@ -1,12 +1,9 @@
-# Lighting `16x16`
-<img src="/img/Lighting.png" width=16 height=16>
+# Lighting@2x `32x32`
+<img src="/img/Lighting.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Lighting")
+EditorGUIUtility.IconContent("Lighting@2x")
 ```
 ```
-Lighting
-```
-```
-8394858894532624064
+Lighting@2x
 ```

@@ -1,12 +1,9 @@
-# Animation.FirstKey `16x16`
-<img src="/img/Animation.FirstKey.png" width=16 height=16>
+# Animation.FirstKey@2x `32x32`
+<img src="/img/Animation.FirstKey.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Animation.FirstKey")
+EditorGUIUtility.IconContent("Animation.FirstKey@2x")
 ```
 ```
-Animation.FirstKey
-```
-```
-3024128271444096090
+Animation.FirstKey@2x
 ```

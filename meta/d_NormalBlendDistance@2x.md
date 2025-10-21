@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_NormalBlendDistance@2x")
 ```
 d_NormalBlendDistance@2x
 ```
-```
--5418458423377780351
-```

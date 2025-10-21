@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("HingeJoint2D Icon")
 ```
 HingeJoint2D Icon
 ```
-```
--8158877947750718090
-```

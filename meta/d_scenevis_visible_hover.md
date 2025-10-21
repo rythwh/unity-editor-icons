@@ -1,12 +1,9 @@
-# d_scenevis_visible_hover `16x16`
-<img src="/img/d_scenevis_visible_hover.png" width=16 height=16>
+# d_scenevis_visible_hover@2x `32x32`
+<img src="/img/d_scenevis_visible_hover.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_scenevis_visible_hover")
+EditorGUIUtility.IconContent("d_scenevis_visible_hover@2x")
 ```
 ```
-d_scenevis_visible_hover
-```
-```
-7253020486146380094
+d_scenevis_visible_hover@2x
 ```

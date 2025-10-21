@@ -1,12 +1,9 @@
-# d_TableView `16x16`
-<img src="/img/d_TableView.png" width=16 height=16>
+# d_TableView@2x `32x32`
+<img src="/img/d_TableView.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_TableView")
+EditorGUIUtility.IconContent("d_TableView@2x")
 ```
 ```
-d_TableView
-```
-```
--2215711203353636740
+d_TableView@2x
 ```

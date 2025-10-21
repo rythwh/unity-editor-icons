@@ -1,12 +1,9 @@
-# Profiler.Physics `16x16`
-<img src="/img/Profiler.Physics.png" width=16 height=16>
+# Profiler.Physics@2x `32x32`
+<img src="/img/Profiler.Physics.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Profiler.Physics")
+EditorGUIUtility.IconContent("Profiler.Physics@2x")
 ```
 ```
-Profiler.Physics
-```
-```
--7480568322180981302
+Profiler.Physics@2x
 ```

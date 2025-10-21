@@ -1,12 +1,9 @@
-# BuildSettings.XboxOne On `32x32`
-<img src="/img/BuildSettings.XboxOne%20On.png" width=32 height=32>
+# BuildSettings.XboxOne On@2x `64x64`
+<img src="/img/BuildSettings.XboxOne%20On.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.XboxOne On")
+EditorGUIUtility.IconContent("BuildSettings.XboxOne On@2x")
 ```
 ```
-BuildSettings.XboxOne On
-```
-```
--6576850163072677896
+BuildSettings.XboxOne On@2x
 ```

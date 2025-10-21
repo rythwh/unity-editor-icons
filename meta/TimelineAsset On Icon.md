@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TimelineAsset On Icon")
 ```
 TimelineAsset On Icon
 ```
-```
--208610388790907306
-```

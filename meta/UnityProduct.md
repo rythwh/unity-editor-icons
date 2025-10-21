@@ -1,12 +1,9 @@
-# UnityProduct `73x22`
-<img src="/img/UnityProduct.png" width=73 height=22>
+# UnityProduct@2x `146x42`
+<img src="/img/UnityProduct.png" width=146 height=42>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityProduct")
+EditorGUIUtility.IconContent("UnityProduct@2x")
 ```
 ```
-UnityProduct
-```
-```
--4106767590473708029
+UnityProduct@2x
 ```

@@ -1,12 +1,9 @@
-# FilterSelectedOnly `16x16`
-<img src="/img/FilterSelectedOnly.png" width=16 height=16>
+# FilterSelectedOnly@2x `32x32`
+<img src="/img/FilterSelectedOnly.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("FilterSelectedOnly")
+EditorGUIUtility.IconContent("FilterSelectedOnly@2x")
 ```
 ```
-FilterSelectedOnly
-```
-```
--1326304706695572111
+FilterSelectedOnly@2x
 ```

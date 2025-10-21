@@ -1,12 +1,9 @@
-# Record Off `16x16`
-<img src="/img/Record%20Off.png" width=16 height=16>
+# Record Off@2x `32x32`
+<img src="/img/Record%20Off.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Record Off")
+EditorGUIUtility.IconContent("Record Off@2x")
 ```
 ```
-Record Off
-```
-```
-4130220542115129580
+Record Off@2x
 ```

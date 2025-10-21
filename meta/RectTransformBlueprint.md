@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("RectTransformBlueprint")
 ```
 RectTransformBlueprint
 ```
-```
-5658267890315449551
-```

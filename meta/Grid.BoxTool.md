@@ -1,12 +1,9 @@
-# Grid.BoxTool `16x16`
-<img src="/img/Grid.BoxTool.png" width=16 height=16>
+# Grid.BoxTool@2x `32x32`
+<img src="/img/Grid.BoxTool.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Grid.BoxTool")
+EditorGUIUtility.IconContent("Grid.BoxTool@2x")
 ```
 ```
-Grid.BoxTool
-```
-```
--5470262736211965078
+Grid.BoxTool@2x
 ```

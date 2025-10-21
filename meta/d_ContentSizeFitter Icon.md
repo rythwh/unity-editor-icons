@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ContentSizeFitter Icon")
 ```
 d_ContentSizeFitter Icon
 ```
-```
-4969335261883791727
-```

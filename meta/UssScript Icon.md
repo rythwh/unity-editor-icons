@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("UssScript Icon")
 ```
 UssScript Icon
 ```
-```
--5799180857743404268
-```

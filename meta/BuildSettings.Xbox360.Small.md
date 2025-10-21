@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.Xbox360.Small")
 ```
 BuildSettings.Xbox360.Small
 ```
-```
--1179187124510255440
-```

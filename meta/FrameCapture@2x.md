@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("FrameCapture@2x")
 ```
 FrameCapture@2x
 ```
-```
-631677252826075006
-```

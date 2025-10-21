@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ConstantForce2D Icon")
 ```
 d_ConstantForce2D Icon
 ```
-```
--5712622568368013079
-```

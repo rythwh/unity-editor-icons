@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Favorite_colored@2x")
 ```
 Favorite_colored@2x
 ```
-```
-4015832245015412698
-```

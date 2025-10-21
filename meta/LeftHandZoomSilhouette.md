@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("LeftHandZoomSilhouette")
 ```
 LeftHandZoomSilhouette
 ```
-```
-8384039629936793124
-```

@@ -1,12 +1,9 @@
-# ParticleShapeTool `16x16`
-<img src="/img/ParticleShapeTool.png" width=16 height=16>
+# ParticleShapeTool@2x `32x32`
+<img src="/img/ParticleShapeTool.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("ParticleShapeTool")
+EditorGUIUtility.IconContent("ParticleShapeTool@2x")
 ```
 ```
-ParticleShapeTool
-```
-```
--5440957207209922157
+ParticleShapeTool@2x
 ```

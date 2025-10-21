@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("CircleCollider2D Icon")
 ```
 CircleCollider2D Icon
 ```
-```
--3132178102796813455
-```

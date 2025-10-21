@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_HoloLensInputModule Icon")
 ```
 d_HoloLensInputModule Icon
 ```
-```
-3304865507257195212
-```

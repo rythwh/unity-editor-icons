@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BuildSettings.Switch@2x")
 ```
 d_BuildSettings.Switch@2x
 ```
-```
--1125836962778702150
-```

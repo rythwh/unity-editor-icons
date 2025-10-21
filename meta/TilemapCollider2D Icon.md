@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TilemapCollider2D Icon")
 ```
 TilemapCollider2D Icon
 ```
-```
-1182033840900481947
-```

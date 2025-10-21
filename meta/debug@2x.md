@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("debug@2x")
 ```
 debug@2x
 ```
-```
--7820523610177783197
-```

@@ -1,12 +1,9 @@
-# Info `16x16`
-<img src="/img/Info.png" width=16 height=16>
+# Info@2x `32x32`
+<img src="/img/Info.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Info")
+EditorGUIUtility.IconContent("Info@2x")
 ```
 ```
-Info
-```
-```
--2993408683385858028
+Info@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("VideoPlayer Icon")
 ```
 VideoPlayer Icon
 ```
-```
-8975972243180925910
-```

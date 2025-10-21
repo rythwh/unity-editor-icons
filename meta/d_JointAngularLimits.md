@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_JointAngularLimits")
 ```
 d_JointAngularLimits
 ```
-```
-2055165929574443600
-```

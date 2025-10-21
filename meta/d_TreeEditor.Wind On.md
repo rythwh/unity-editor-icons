@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TreeEditor.Wind On")
 ```
 d_TreeEditor.Wind On
 ```
-```
--5948080704082544443
-```

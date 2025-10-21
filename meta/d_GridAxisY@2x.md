@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_GridAxisY@2x")
 ```
 d_GridAxisY@2x
 ```
-```
--1314729304487622773
-```

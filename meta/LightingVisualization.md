@@ -1,12 +1,9 @@
-# LightingVisualization `16x16`
-<img src="/img/LightingVisualization.png" width=16 height=16>
+# LightingVisualization@2x `32x32`
+<img src="/img/LightingVisualization.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("LightingVisualization")
+EditorGUIUtility.IconContent("LightingVisualization@2x")
 ```
 ```
-LightingVisualization
-```
-```
--8564268719431848526
+LightingVisualization@2x
 ```

@@ -1,12 +1,9 @@
-# d_BuildSettings.Stadia `32x32`
-<img src="/img/d_BuildSettings.Stadia.png" width=32 height=32>
+# d_BuildSettings.Stadia@2x `64x64`
+<img src="/img/d_BuildSettings.Stadia.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.Stadia")
+EditorGUIUtility.IconContent("d_BuildSettings.Stadia@2x")
 ```
 ```
-d_BuildSettings.Stadia
-```
-```
-41120884009361448
+d_BuildSettings.Stadia@2x
 ```

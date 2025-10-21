@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ToggleUVOverlay@2x")
 ```
 ToggleUVOverlay@2x
 ```
-```
-3579602582377262670
-```

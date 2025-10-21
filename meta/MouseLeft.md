@@ -1,12 +1,9 @@
-# MouseLeft `16x16`
-<img src="/img/MouseLeft.png" width=16 height=16>
+# MouseLeft@2x `32x32`
+<img src="/img/MouseLeft.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("MouseLeft")
+EditorGUIUtility.IconContent("MouseLeft@2x")
 ```
 ```
-MouseLeft
-```
-```
-6496492070038191923
+MouseLeft@2x
 ```

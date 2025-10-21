@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TreeEditor.LeafTranslate")
 ```
 TreeEditor.LeafTranslate
 ```
-```
--2576603564266665359
-```

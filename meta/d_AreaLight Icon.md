@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AreaLight Icon")
 ```
 d_AreaLight Icon
 ```
-```
--2462194805134264945
-```

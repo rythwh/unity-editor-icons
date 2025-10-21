@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AudioChorusFilter Icon")
 ```
 AudioChorusFilter Icon
 ```
-```
--8645521606511801614
-```

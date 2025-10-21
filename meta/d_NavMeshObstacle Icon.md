@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_NavMeshObstacle Icon")
 ```
 d_NavMeshObstacle Icon
 ```
-```
--5015426118682326553
-```

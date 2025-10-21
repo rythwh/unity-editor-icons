@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("LockIcon-On")
 ```
 LockIcon-On
 ```
-```
--6794972709259673207
-```

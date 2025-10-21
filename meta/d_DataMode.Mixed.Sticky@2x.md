@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_DataMode.Mixed.Sticky@2x")
 ```
 d_DataMode.Mixed.Sticky@2x
 ```
-```
-515647381894256511
-```

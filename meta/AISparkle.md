@@ -1,12 +1,9 @@
-# AISparkle `16x16`
-<img src="/img/AISparkle.png" width=16 height=16>
+# AISparkle@2x `32x32`
+<img src="/img/AISparkle.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("AISparkle")
+EditorGUIUtility.IconContent("AISparkle@2x")
 ```
 ```
-AISparkle
-```
-```
--3889721864363376411
+AISparkle@2x
 ```

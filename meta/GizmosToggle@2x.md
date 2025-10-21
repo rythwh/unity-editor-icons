@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("GizmosToggle@2x")
 ```
 GizmosToggle@2x
 ```
-```
-3823531632482580487
-```

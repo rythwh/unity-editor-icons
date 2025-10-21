@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Folder Icon")
 ```
 d_Folder Icon
 ```
-```
-3764734208316478041
-```

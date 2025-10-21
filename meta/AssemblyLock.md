@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AssemblyLock")
 ```
 AssemblyLock
 ```
-```
--7772047616066763351
-```

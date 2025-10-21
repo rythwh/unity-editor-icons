@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_redLight")
 ```
 d_redLight
 ```
-```
--3646618881647911098
-```

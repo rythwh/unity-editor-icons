@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TreeEditor.BranchScale On")
 ```
 d_TreeEditor.BranchScale On
 ```
-```
--2929725025985644648
-```

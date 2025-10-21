@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SoftlockProjectBrowser Icon")
 ```
 SoftlockProjectBrowser Icon
 ```
-```
--8060569002003055703
-```

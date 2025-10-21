@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("GUIText Icon")
 ```
 GUIText Icon
 ```
-```
-521260042654867974
-```

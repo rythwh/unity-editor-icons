@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Animation.NextKey@2x")
 ```
 Animation.NextKey@2x
 ```
-```
--6917890404064482732
-```

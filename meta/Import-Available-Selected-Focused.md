@@ -1,12 +1,9 @@
-# Import-Available-Selected-Focused `16x16`
-<img src="/img/Import-Available-Selected-Focused.png" width=16 height=16>
+# Import-Available-Selected-Focused@2x `32x32`
+<img src="/img/Import-Available-Selected-Focused.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Import-Available-Selected-Focused")
+EditorGUIUtility.IconContent("Import-Available-Selected-Focused@2x")
 ```
 ```
-Import-Available-Selected-Focused
-```
-```
--6533674517984911132
+Import-Available-Selected-Focused@2x
 ```

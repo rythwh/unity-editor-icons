@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Dropdown Icon")
 ```
 d_Dropdown Icon
 ```
-```
--6461178775694354662
-```

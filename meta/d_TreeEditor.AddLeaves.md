@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TreeEditor.AddLeaves")
 ```
 d_TreeEditor.AddLeaves
 ```
-```
--970854246939229116
-```

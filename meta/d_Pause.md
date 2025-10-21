@@ -1,12 +1,9 @@
-# d_Pause `16x16`
-<img src="/img/d_Pause.png" width=16 height=16>
+# d_Pause@2x `32x32`
+<img src="/img/d_Pause.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Pause")
+EditorGUIUtility.IconContent("d_Pause@2x")
 ```
 ```
-d_Pause
-```
-```
--176319008291689145
+d_Pause@2x
 ```

@@ -1,12 +1,9 @@
-# alertDialog `62x56`
-<img src="/img/alertDialog.png" width=62 height=56>
+# alertDialog@2x `124x112`
+<img src="/img/alertDialog.png" width=124 height=112>
 
 ``` CSharp
-EditorGUIUtility.IconContent("alertDialog")
+EditorGUIUtility.IconContent("alertDialog@2x")
 ```
 ```
-alertDialog
-```
-```
-8881787222340032348
+alertDialog@2x
 ```

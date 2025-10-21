@@ -1,12 +1,9 @@
-# d_SyncSearch `16x16`
-<img src="/img/d_SyncSearch.png" width=16 height=16>
+# d_SyncSearch@2x `32x32`
+<img src="/img/d_SyncSearch.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_SyncSearch")
+EditorGUIUtility.IconContent("d_SyncSearch@2x")
 ```
 ```
-d_SyncSearch
-```
-```
-991412098047641162
+d_SyncSearch@2x
 ```

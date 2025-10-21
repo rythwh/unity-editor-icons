@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_GridAndSnap@2x")
 ```
 d_GridAndSnap@2x
 ```
-```
--3162080030483174924
-```

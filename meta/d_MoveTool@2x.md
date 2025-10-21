@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_MoveTool@2x")
 ```
 d_MoveTool@2x
 ```
-```
--4497096070357054744
-```

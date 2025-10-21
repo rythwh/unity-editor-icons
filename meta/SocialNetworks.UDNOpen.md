@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SocialNetworks.UDNOpen")
 ```
 SocialNetworks.UDNOpen
 ```
-```
--8125897408249306263
-```

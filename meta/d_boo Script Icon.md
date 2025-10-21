@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_boo Script Icon")
 ```
 d_boo Script Icon
 ```
-```
--8211497569017520131
-```

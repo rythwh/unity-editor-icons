@@ -1,12 +1,9 @@
-# PreTexRGB `24x16`
-<img src="/img/PreTexRGB.png" width=24 height=16>
+# PreTexRGB@2x `48x32`
+<img src="/img/PreTexRGB.png" width=48 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("PreTexRGB")
+EditorGUIUtility.IconContent("PreTexRGB@2x")
 ```
 ```
-PreTexRGB
-```
-```
--6141360836384260547
+PreTexRGB@2x
 ```

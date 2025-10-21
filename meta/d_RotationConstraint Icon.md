@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_RotationConstraint Icon")
 ```
 d_RotationConstraint Icon
 ```
-```
--7485488908267385562
-```

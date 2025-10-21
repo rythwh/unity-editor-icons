@@ -1,12 +1,9 @@
-# BuildSettings.PS5 On `32x32`
-<img src="/img/BuildSettings.PS5%20On.png" width=32 height=32>
+# BuildSettings.PS5 On@2x `64x64`
+<img src="/img/BuildSettings.PS5%20On.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.PS5 On")
+EditorGUIUtility.IconContent("BuildSettings.PS5 On@2x")
 ```
 ```
-BuildSettings.PS5 On
-```
-```
-6012666984125897113
+BuildSettings.PS5 On@2x
 ```

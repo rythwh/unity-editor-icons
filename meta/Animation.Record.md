@@ -1,12 +1,9 @@
-# Animation.Record `16x16`
-<img src="/img/Animation.Record.png" width=16 height=16>
+# Animation.Record@2x `32x32`
+<img src="/img/Animation.Record.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Animation.Record")
+EditorGUIUtility.IconContent("Animation.Record@2x")
 ```
 ```
-Animation.Record
-```
-```
-3223261772366079321
+Animation.Record@2x
 ```

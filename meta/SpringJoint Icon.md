@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SpringJoint Icon")
 ```
 SpringJoint Icon
 ```
-```
-6279872623304165257
-```

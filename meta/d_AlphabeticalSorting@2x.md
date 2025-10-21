@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AlphabeticalSorting@2x")
 ```
 d_AlphabeticalSorting@2x
 ```
-```
-8188608333265313135
-```

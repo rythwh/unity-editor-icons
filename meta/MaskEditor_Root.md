@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("MaskEditor_Root")
 ```
 MaskEditor_Root
 ```
-```
-4804520092827026396
-```

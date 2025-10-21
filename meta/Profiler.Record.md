@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Profiler.Record")
 ```
 Profiler.Record
 ```
-```
--2130089168486001092
-```

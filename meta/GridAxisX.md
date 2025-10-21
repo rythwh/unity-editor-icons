@@ -1,12 +1,9 @@
-# GridAxisX `16x16`
-<img src="/img/GridAxisX.png" width=16 height=16>
+# GridAxisX@2x `32x32`
+<img src="/img/GridAxisX.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("GridAxisX")
+EditorGUIUtility.IconContent("GridAxisX@2x")
 ```
 ```
-GridAxisX
-```
-```
--807926089104016953
+GridAxisX@2x
 ```

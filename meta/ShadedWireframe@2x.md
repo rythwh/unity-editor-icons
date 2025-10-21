@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ShadedWireframe@2x")
 ```
 ShadedWireframe@2x
 ```
-```
-6741691189157913161
-```

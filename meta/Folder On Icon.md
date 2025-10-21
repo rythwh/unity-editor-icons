@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Folder On Icon")
 ```
 Folder On Icon
 ```
-```
-4281298531306990141
-```

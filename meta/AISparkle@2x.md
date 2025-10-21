@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AISparkle@2x")
 ```
 AISparkle@2x
 ```
-```
--7999907376314094397
-```

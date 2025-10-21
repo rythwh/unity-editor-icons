@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Rigidbody Icon")
 ```
 Rigidbody Icon
 ```
-```
-5326581857693104265
-```

@@ -1,12 +1,9 @@
-# d_console.infoicon `32x32`
-<img src="/img/d_console.infoicon.png" width=32 height=32>
+# d_console.infoicon@2x `64x64`
+<img src="/img/d_console.infoicon.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_console.infoicon")
+EditorGUIUtility.IconContent("d_console.infoicon@2x")
 ```
 ```
-d_console.infoicon
-```
-```
--8466309453026419660
+d_console.infoicon@2x
 ```

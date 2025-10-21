@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ConstantForce Icon")
 ```
 ConstantForce Icon
 ```
-```
--801216066870577310
-```

@@ -1,12 +1,9 @@
-# d_P4_RedRightParenthesis `32x32`
-<img src="/img/d_P4_RedRightParenthesis.png" width=32 height=32>
+# d_P4_RedRightParenthesis@2x `16x16`
+<img src="/img/d_P4_RedRightParenthesis.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_P4_RedRightParenthesis")
+EditorGUIUtility.IconContent("d_P4_RedRightParenthesis@2x")
 ```
 ```
-d_P4_RedRightParenthesis
-```
-```
--4149990955986231043
+d_P4_RedRightParenthesis@2x
 ```

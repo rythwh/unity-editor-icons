@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_DebuggerDisabled@2x")
 ```
 d_DebuggerDisabled@2x
 ```
-```
-3542560887663055117
-```

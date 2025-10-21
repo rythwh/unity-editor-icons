@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_PositionAsUV1 Icon")
 ```
 d_PositionAsUV1 Icon
 ```
-```
-8460860396361312155
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SceneViewAlpha")
 ```
 SceneViewAlpha
 ```
-```
-5689812610135952391
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("IHVImageFormatImporter Icon")
 ```
 IHVImageFormatImporter Icon
 ```
-```
--3345001512857149683
-```

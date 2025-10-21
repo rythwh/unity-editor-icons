@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AudioMixerController On Icon")
 ```
 AudioMixerController On Icon
 ```
-```
-827341911852898409
-```

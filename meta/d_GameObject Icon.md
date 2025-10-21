@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_GameObject Icon")
 ```
 d_GameObject Icon
 ```
-```
--7606759526039521141
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Shaded@2x")
 ```
 Shaded@2x
 ```
-```
-1429300702107172597
-```

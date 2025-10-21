@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Shortcut Icon")
 ```
 Shortcut Icon
 ```
-```
--5774887566319663647
-```

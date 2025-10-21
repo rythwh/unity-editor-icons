@@ -1,12 +1,9 @@
-# BuildSettings.LinuxHeadlessSimulation `32x32`
-<img src="/img/BuildSettings.LinuxHeadlessSimulation.png" width=32 height=32>
+# BuildSettings.LinuxHeadlessSimulation@2x `64x64`
+<img src="/img/BuildSettings.LinuxHeadlessSimulation.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.LinuxHeadlessSimulation")
+EditorGUIUtility.IconContent("BuildSettings.LinuxHeadlessSimulation@2x")
 ```
 ```
-BuildSettings.LinuxHeadlessSimulation
-```
-```
--8957706314130457392
+BuildSettings.LinuxHeadlessSimulation@2x
 ```

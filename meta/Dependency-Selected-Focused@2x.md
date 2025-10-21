@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Dependency-Selected-Focused@2x")
 ```
 Dependency-Selected-Focused@2x
 ```
-```
-5451892556177694546
-```

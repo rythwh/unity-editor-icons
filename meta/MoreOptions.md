@@ -1,12 +1,9 @@
-# MoreOptions `16x16`
-<img src="/img/MoreOptions.png" width=16 height=16>
+# MoreOptions@2x `32x32`
+<img src="/img/MoreOptions.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("MoreOptions")
+EditorGUIUtility.IconContent("MoreOptions@2x")
 ```
 ```
-MoreOptions
-```
-```
--396104207779788434
+MoreOptions@2x
 ```

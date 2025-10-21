@@ -1,12 +1,9 @@
-# BuildSettings.Lumin.small `16x16`
-<img src="/img/BuildSettings.Lumin.small.png" width=16 height=16>
+# BuildSettings.Lumin.small@2x `32x32`
+<img src="/img/BuildSettings.Lumin.small.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.Lumin.small")
+EditorGUIUtility.IconContent("BuildSettings.Lumin.small@2x")
 ```
 ```
-BuildSettings.Lumin.small
-```
-```
-8979687790990599924
+BuildSettings.Lumin.small@2x
 ```

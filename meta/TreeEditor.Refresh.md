@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TreeEditor.Refresh")
 ```
 TreeEditor.Refresh
 ```
-```
--8641404690824475773
-```

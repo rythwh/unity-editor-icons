@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("toggle_searcher_preview_on@2x")
 ```
 toggle_searcher_preview_on@2x
 ```
-```
--5066106019952227372
-```

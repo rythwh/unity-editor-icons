@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Loading@2x")
 ```
 Loading@2x
 ```
-```
-4345216535031777781
-```

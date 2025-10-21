@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AnyStateNode Icon")
 ```
 d_AnyStateNode Icon
 ```
-```
--2730717010093432685
-```

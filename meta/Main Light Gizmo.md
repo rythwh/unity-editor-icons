@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Main Light Gizmo")
 ```
 Main Light Gizmo
 ```
-```
--8968581649184562224
-```

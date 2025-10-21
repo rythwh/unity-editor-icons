@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AreaLight Gizmo")
 ```
 AreaLight Gizmo
 ```
-```
--2573216478758362733
-```

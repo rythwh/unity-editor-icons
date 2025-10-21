@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.OSX@2x")
 ```
 BuildSettings.OSX@2x
 ```
-```
-5336092474376659068
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_FilterByType@2x")
 ```
 d_FilterByType@2x
 ```
-```
-5741433715250483933
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("VisibilityOn")
 ```
 VisibilityOn
 ```
-```
-7186839043715182813
-```

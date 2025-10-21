@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_GameViewAudio@2x")
 ```
 d_GameViewAudio@2x
 ```
-```
--8808772950841312921
-```

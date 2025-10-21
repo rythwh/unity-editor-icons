@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ListView@2x")
 ```
 ListView@2x
 ```
-```
-1916951299319821333
-```

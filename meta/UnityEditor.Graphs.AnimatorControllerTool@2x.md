@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("UnityEditor.Graphs.AnimatorControllerTool@2x")
 ```
 UnityEditor.Graphs.AnimatorControllerTool@2x
 ```
-```
--6973158847631862895
-```

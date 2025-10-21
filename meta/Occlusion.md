@@ -1,12 +1,9 @@
-# Occlusion `16x16`
-<img src="/img/Occlusion.png" width=16 height=16>
+# Occlusion@2x `32x32`
+<img src="/img/Occlusion.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Occlusion")
+EditorGUIUtility.IconContent("Occlusion@2x")
 ```
 ```
-Occlusion
-```
-```
--2243944637213960084
+Occlusion@2x
 ```

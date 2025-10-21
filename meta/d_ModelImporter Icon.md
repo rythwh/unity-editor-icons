@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ModelImporter Icon")
 ```
 d_ModelImporter Icon
 ```
-```
--6573054015446215400
-```

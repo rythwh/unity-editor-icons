@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("NetworkManager Icon")
 ```
 NetworkManager Icon
 ```
-```
--7485273014078501068
-```

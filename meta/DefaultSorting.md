@@ -1,12 +1,9 @@
-# DefaultSorting `16x16`
-<img src="/img/DefaultSorting.png" width=16 height=16>
+# DefaultSorting@2x `32x32`
+<img src="/img/DefaultSorting.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("DefaultSorting")
+EditorGUIUtility.IconContent("DefaultSorting@2x")
 ```
 ```
-DefaultSorting
-```
-```
-6248398737729433369
+DefaultSorting@2x
 ```

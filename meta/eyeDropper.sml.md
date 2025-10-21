@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("eyeDropper.sml")
 ```
 eyeDropper.sml
 ```
-```
--5323962665676680884
-```

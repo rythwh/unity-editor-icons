@@ -1,12 +1,9 @@
-# d_DebuggerAttached `16x16`
-<img src="/img/d_DebuggerAttached.png" width=16 height=16>
+# d_DebuggerAttached@2x `32x32`
+<img src="/img/d_DebuggerAttached.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_DebuggerAttached")
+EditorGUIUtility.IconContent("d_DebuggerAttached@2x")
 ```
 ```
-d_DebuggerAttached
-```
-```
-5563126720994373707
+d_DebuggerAttached@2x
 ```

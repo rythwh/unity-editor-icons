@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_CollabChanges Icon")
 ```
 d_CollabChanges Icon
 ```
-```
--2382690059879092655
-```

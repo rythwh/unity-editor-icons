@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("sv_icon_dot1_pix16_gizmo")
 ```
 sv_icon_dot1_pix16_gizmo
 ```
-```
-4422084297763085224
-```

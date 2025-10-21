@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_winbtn_graph_min_h")
 ```
 d_winbtn_graph_min_h
 ```
-```
--5882145016691025815
-```

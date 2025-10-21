@@ -1,12 +1,9 @@
-# Quickstart `17x16`
-<img src="/img/Quickstart.png" width=17 height=16>
+# Quickstart@2x `33x32`
+<img src="/img/Quickstart.png" width=33 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Quickstart")
+EditorGUIUtility.IconContent("Quickstart@2x")
 ```
 ```
-Quickstart
-```
-```
--4527450301414172766
+Quickstart@2x
 ```

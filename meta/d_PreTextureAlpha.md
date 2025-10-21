@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_PreTextureAlpha")
 ```
 d_PreTextureAlpha
 ```
-```
--3157848010053115858
-```

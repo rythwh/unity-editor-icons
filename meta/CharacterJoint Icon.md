@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("CharacterJoint Icon")
 ```
 CharacterJoint Icon
 ```
-```
-4305743021053951431
-```

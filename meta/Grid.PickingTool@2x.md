@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Grid.PickingTool@2x")
 ```
 Grid.PickingTool@2x
 ```
-```
--742276554209047569
-```

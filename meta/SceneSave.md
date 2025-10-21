@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SceneSave")
 ```
 SceneSave
 ```
-```
-1761094280599554161
-```

@@ -1,12 +1,9 @@
-# d_DataMode.Mixed `16x16`
-<img src="/img/d_DataMode.Mixed.png" width=16 height=16>
+# d_DataMode.Mixed@2x `32x32`
+<img src="/img/d_DataMode.Mixed.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_DataMode.Mixed")
+EditorGUIUtility.IconContent("d_DataMode.Mixed@2x")
 ```
 ```
-d_DataMode.Mixed
-```
-```
--3682056275656594206
+d_DataMode.Mixed@2x
 ```

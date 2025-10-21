@@ -1,12 +1,9 @@
-# d_ViewToolZoom `16x16`
-<img src="/img/d_ViewToolZoom.png" width=16 height=16>
+# d_ViewToolZoom@2x `32x32`
+<img src="/img/d_ViewToolZoom.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_ViewToolZoom")
+EditorGUIUtility.IconContent("d_ViewToolZoom@2x")
 ```
 ```
-d_ViewToolZoom
-```
-```
--5345237920460187022
+d_ViewToolZoom@2x
 ```

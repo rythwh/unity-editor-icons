@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Tilemap Icon")
 ```
 d_Tilemap Icon
 ```
-```
-2338214685650053188
-```

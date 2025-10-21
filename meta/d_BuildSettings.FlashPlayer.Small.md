@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BuildSettings.FlashPlayer.Small")
 ```
 d_BuildSettings.FlashPlayer.Small
 ```
-```
-731514638995218830
-```

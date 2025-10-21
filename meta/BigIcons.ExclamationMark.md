@@ -1,12 +1,9 @@
-# BigIcons.ExclamationMark `100x100`
-<img src="/img/BigIcons.ExclamationMark.png" width=100 height=100>
+# BigIcons.ExclamationMark@2x `200x200`
+<img src="/img/BigIcons.ExclamationMark.png" width=200 height=200>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BigIcons.ExclamationMark")
+EditorGUIUtility.IconContent("BigIcons.ExclamationMark@2x")
 ```
 ```
-BigIcons.ExclamationMark
-```
-```
-7235897139591392561
+BigIcons.ExclamationMark@2x
 ```

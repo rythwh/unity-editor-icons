@@ -1,12 +1,9 @@
-# Favorite `16x16`
-<img src="/img/Favorite.png" width=16 height=16>
+# Favorite@2x `32x32`
+<img src="/img/Favorite.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Favorite")
+EditorGUIUtility.IconContent("Favorite@2x")
 ```
 ```
-Favorite
-```
-```
--175816127591506612
+Favorite@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.PSM.Small")
 ```
 BuildSettings.PSM.Small
 ```
-```
--715787968158446526
-```

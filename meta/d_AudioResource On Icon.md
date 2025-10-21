@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AudioResource On Icon")
 ```
 d_AudioResource On Icon
 ```
-```
-9216762167514710653
-```

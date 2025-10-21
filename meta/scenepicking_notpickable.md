@@ -1,12 +1,9 @@
-# scenepicking_notpickable `16x16`
-<img src="/img/scenepicking_notpickable.png" width=16 height=16>
+# scenepicking_notpickable@2x `32x32`
+<img src="/img/scenepicking_notpickable.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("scenepicking_notpickable")
+EditorGUIUtility.IconContent("scenepicking_notpickable@2x")
 ```
 ```
-scenepicking_notpickable
-```
-```
-7113824030276724114
+scenepicking_notpickable@2x
 ```

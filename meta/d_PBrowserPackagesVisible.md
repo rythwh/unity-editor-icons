@@ -1,12 +1,9 @@
-# d_PBrowserPackagesVisible `16x16`
-<img src="/img/d_PBrowserPackagesVisible.png" width=16 height=16>
+# d_PBrowserPackagesVisible@2x `32x32`
+<img src="/img/d_PBrowserPackagesVisible.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_PBrowserPackagesVisible")
+EditorGUIUtility.IconContent("d_PBrowserPackagesVisible@2x")
 ```
 ```
-d_PBrowserPackagesVisible
-```
-```
-1423757470732818986
+d_PBrowserPackagesVisible@2x
 ```

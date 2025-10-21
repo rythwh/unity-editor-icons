@@ -1,12 +1,9 @@
-# icon dropdown `12x12`
-<img src="/img/icon%20dropdown.png" width=12 height=12>
+# icon dropdown@2x `24x24`
+<img src="/img/icon%20dropdown.png" width=24 height=24>
 
 ``` CSharp
-EditorGUIUtility.IconContent("icon dropdown")
+EditorGUIUtility.IconContent("icon dropdown@2x")
 ```
 ```
-icon dropdown
-```
-```
-3330941069740306283
+icon dropdown@2x
 ```

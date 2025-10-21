@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SaveFromPlay")
 ```
 SaveFromPlay
 ```
-```
--4294685355428988184
-```

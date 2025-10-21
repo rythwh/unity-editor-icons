@@ -1,12 +1,9 @@
-# MoveTool `16x16`
-<img src="/img/MoveTool.png" width=16 height=16>
+# MoveTool@2x `32x32`
+<img src="/img/MoveTool.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("MoveTool")
+EditorGUIUtility.IconContent("MoveTool@2x")
 ```
 ```
-MoveTool
-```
-```
--195777091071594156
+MoveTool@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Valid@2x")
 ```
 Valid@2x
 ```
-```
--4646625092451700947
-```

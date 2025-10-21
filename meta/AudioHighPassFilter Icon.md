@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AudioHighPassFilter Icon")
 ```
 AudioHighPassFilter Icon
 ```
-```
--5445590352378728594
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("CollabProgress")
 ```
 CollabProgress
 ```
-```
--5136566985977948126
-```

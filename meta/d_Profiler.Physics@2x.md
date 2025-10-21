@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Profiler.Physics@2x")
 ```
 d_Profiler.Physics@2x
 ```
-```
-9076475276266678525
-```

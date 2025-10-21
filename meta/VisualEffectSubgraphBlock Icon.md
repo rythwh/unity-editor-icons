@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("VisualEffectSubgraphBlock Icon")
 ```
 VisualEffectSubgraphBlock Icon
 ```
-```
-595846514908821980
-```

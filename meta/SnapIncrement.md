@@ -1,12 +1,9 @@
-# SnapIncrement `16x16`
-<img src="/img/SnapIncrement.png" width=16 height=16>
+# SnapIncrement@2x `32x32`
+<img src="/img/SnapIncrement.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("SnapIncrement")
+EditorGUIUtility.IconContent("SnapIncrement@2x")
 ```
 ```
-SnapIncrement
-```
-```
-6159598401094336691
+SnapIncrement@2x
 ```

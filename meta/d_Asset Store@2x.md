@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Asset Store@2x")
 ```
 d_Asset Store@2x
 ```
-```
--7444545952099596278
-```

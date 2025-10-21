@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Clipboard")
 ```
 Clipboard
 ```
-```
-6367713590482950888
-```

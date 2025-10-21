@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SearchWindow@2x")
 ```
 SearchWindow@2x
 ```
-```
-6707060085778304275
-```

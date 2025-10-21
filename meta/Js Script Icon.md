@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Js Script Icon")
 ```
 Js Script Icon
 ```
-```
--8880260186236085558
-```

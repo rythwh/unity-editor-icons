@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Toggle Icon")
 ```
 Toggle Icon
 ```
-```
-1358287907116865370
-```

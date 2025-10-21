@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Grip_HorizontalContainer")
 ```
 Grip_HorizontalContainer
 ```
-```
-1324884463102540922
-```

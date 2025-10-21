@@ -1,12 +1,9 @@
-# CapturePosition `16x16`
-<img src="/img/CapturePosition.png" width=16 height=16>
+# CapturePosition@2x `32x32`
+<img src="/img/CapturePosition.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("CapturePosition")
+EditorGUIUtility.IconContent("CapturePosition@2x")
 ```
 ```
-CapturePosition
-```
-```
--5481011916582373521
+CapturePosition@2x
 ```

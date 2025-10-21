@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_animationkeyframe@2x")
 ```
 d_animationkeyframe@2x
 ```
-```
-6827032349305691703
-```

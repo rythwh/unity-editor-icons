@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("CapturePosition@2x")
 ```
 CapturePosition@2x
 ```
-```
-7363059624810965566
-```

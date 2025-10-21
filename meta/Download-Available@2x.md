@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Download-Available@2x")
 ```
 Download-Available@2x
 ```
-```
--3108495770648099554
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_StopButton@2x")
 ```
 d_StopButton@2x
 ```
-```
--2297525761736764249
-```

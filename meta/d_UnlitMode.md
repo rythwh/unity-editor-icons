@@ -1,12 +1,9 @@
-# d_UnlitMode `16x16`
-<img src="/img/d_UnlitMode.png" width=16 height=16>
+# d_UnlitMode@2x `32x32`
+<img src="/img/d_UnlitMode.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_UnlitMode")
+EditorGUIUtility.IconContent("d_UnlitMode@2x")
 ```
 ```
-d_UnlitMode
-```
-```
-2462836402908117284
+d_UnlitMode@2x
 ```

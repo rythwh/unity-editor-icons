@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_CollabExclude Icon")
 ```
 d_CollabExclude Icon
 ```
-```
--487018736972462228
-```

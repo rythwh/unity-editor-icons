@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SearchDatabase Icon")
 ```
 SearchDatabase Icon
 ```
-```
-3089770856460897455
-```

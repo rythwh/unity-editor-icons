@@ -1,12 +1,9 @@
-# d_console.erroricon.sml `16x16`
-<img src="/img/d_console.erroricon.sml.png" width=16 height=16>
+# d_console.erroricon.sml@2x `32x32`
+<img src="/img/d_console.erroricon.sml.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_console.erroricon.sml")
+EditorGUIUtility.IconContent("d_console.erroricon.sml@2x")
 ```
 ```
-d_console.erroricon.sml
-```
-```
-8521385900707336378
+d_console.erroricon.sml@2x
 ```

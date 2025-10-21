@@ -1,12 +1,9 @@
-# d_Incoming Icon `16x16`
-<img src="/img/d_Incoming%20Icon.png" width=16 height=16>
+# d_Incoming Icon@2x `32x32`
+<img src="/img/d_Incoming%20Icon.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Incoming Icon")
+EditorGUIUtility.IconContent("d_Incoming Icon@2x")
 ```
 ```
-d_Incoming Icon
-```
-```
--6929765411710862846
+d_Incoming Icon@2x
 ```

@@ -1,12 +1,9 @@
-# Help `16x16`
-<img src="/img/Help.png" width=16 height=16>
+# Help@2x `32x32`
+<img src="/img/Help.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Help")
+EditorGUIUtility.IconContent("Help@2x")
 ```
 ```
-Help
-```
-```
-4523312239868388153
+Help@2x
 ```

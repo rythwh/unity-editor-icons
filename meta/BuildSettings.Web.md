@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.Web")
 ```
 BuildSettings.Web
 ```
-```
--8073681927563260479
-```

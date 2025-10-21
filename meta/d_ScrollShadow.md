@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ScrollShadow")
 ```
 d_ScrollShadow
 ```
-```
-1763600831050966060
-```

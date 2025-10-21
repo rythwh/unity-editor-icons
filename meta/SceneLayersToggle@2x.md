@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SceneLayersToggle@2x")
 ```
 SceneLayersToggle@2x
 ```
-```
-6289581378237369969
-```

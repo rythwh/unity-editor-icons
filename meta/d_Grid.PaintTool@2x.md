@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Grid.PaintTool@2x")
 ```
 d_Grid.PaintTool@2x
 ```
-```
-6390878959879609722
-```

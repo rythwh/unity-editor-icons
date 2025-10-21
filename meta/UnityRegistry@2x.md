@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("UnityRegistry@2x")
 ```
 UnityRegistry@2x
 ```
-```
-3925455540192750057
-```

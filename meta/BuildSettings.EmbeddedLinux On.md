@@ -1,12 +1,9 @@
-# BuildSettings.EmbeddedLinux On `32x32`
-<img src="/img/BuildSettings.EmbeddedLinux%20On.png" width=32 height=32>
+# BuildSettings.EmbeddedLinux On@2x `64x64`
+<img src="/img/BuildSettings.EmbeddedLinux%20On.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.EmbeddedLinux On")
+EditorGUIUtility.IconContent("BuildSettings.EmbeddedLinux On@2x")
 ```
 ```
-BuildSettings.EmbeddedLinux On
-```
-```
-7335244815113920615
+BuildSettings.EmbeddedLinux On@2x
 ```

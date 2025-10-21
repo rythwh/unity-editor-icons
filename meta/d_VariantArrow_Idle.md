@@ -1,12 +1,9 @@
-# d_VariantArrow_Idle `5x5`
-<img src="/img/d_VariantArrow_Idle.png" width=5 height=5>
+# d_VariantArrow_Idle@2x `10x10`
+<img src="/img/d_VariantArrow_Idle.png" width=10 height=10>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_VariantArrow_Idle")
+EditorGUIUtility.IconContent("d_VariantArrow_Idle@2x")
 ```
 ```
-d_VariantArrow_Idle
-```
-```
-4259440297638743473
+d_VariantArrow_Idle@2x
 ```

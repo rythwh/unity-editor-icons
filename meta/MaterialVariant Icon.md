@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("MaterialVariant Icon")
 ```
 MaterialVariant Icon
 ```
-```
--2734060176324238514
-```

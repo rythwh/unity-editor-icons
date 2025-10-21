@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("LightProbeGroup Icon")
 ```
 LightProbeGroup Icon
 ```
-```
-221059808270465561
-```

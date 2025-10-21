@@ -1,12 +1,9 @@
-# MouseMiddle `16x16`
-<img src="/img/MouseMiddle.png" width=16 height=16>
+# MouseMiddle@2x `32x32`
+<img src="/img/MouseMiddle.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("MouseMiddle")
+EditorGUIUtility.IconContent("MouseMiddle@2x")
 ```
 ```
-MouseMiddle
-```
-```
-8380945560797679063
+MouseMiddle@2x
 ```

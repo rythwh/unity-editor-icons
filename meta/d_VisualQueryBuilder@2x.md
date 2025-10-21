@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_VisualQueryBuilder@2x")
 ```
 d_VisualQueryBuilder@2x
 ```
-```
-4841665948870159953
-```

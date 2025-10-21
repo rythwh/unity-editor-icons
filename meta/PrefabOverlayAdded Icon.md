@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PrefabOverlayAdded Icon")
 ```
 PrefabOverlayAdded Icon
 ```
-```
--639656901546412945
-```

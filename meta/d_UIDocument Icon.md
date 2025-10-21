@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_UIDocument Icon")
 ```
 d_UIDocument Icon
 ```
-```
-261565190497387942
-```

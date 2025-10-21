@@ -1,12 +1,9 @@
-# CameraPreview `16x16`
-<img src="/img/CameraPreview.png" width=16 height=16>
+# CameraPreview@2x `32x32`
+<img src="/img/CameraPreview.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("CameraPreview")
+EditorGUIUtility.IconContent("CameraPreview@2x")
 ```
 ```
-CameraPreview
-```
-```
--3682675918830112238
+CameraPreview@2x
 ```

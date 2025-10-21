@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_scenepicking_pickable-mixed@2x")
 ```
 d_scenepicking_pickable-mixed@2x
 ```
-```
-8487399371163767942
-```

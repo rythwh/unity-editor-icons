@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.Android@2x")
 ```
 BuildSettings.Android@2x
 ```
-```
-5734965202261760406
-```

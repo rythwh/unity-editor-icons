@@ -1,12 +1,9 @@
-# d_Animation.NextKey `16x16`
-<img src="/img/d_Animation.NextKey.png" width=16 height=16>
+# d_Animation.NextKey@2x `32x32`
+<img src="/img/d_Animation.NextKey.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Animation.NextKey")
+EditorGUIUtility.IconContent("d_Animation.NextKey@2x")
 ```
 ```
-d_Animation.NextKey
-```
-```
-5594613797062276571
+d_Animation.NextKey@2x
 ```

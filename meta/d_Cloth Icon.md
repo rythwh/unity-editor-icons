@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Cloth Icon")
 ```
 d_Cloth Icon
 ```
-```
--4589857841803046298
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TouchInputModule Icon")
 ```
 d_TouchInputModule Icon
 ```
-```
-3692903559170857379
-```

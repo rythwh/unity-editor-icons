@@ -1,12 +1,9 @@
-# d_Profiler.Audio `16x16`
-<img src="/img/d_Profiler.Audio.png" width=16 height=16>
+# d_Profiler.Audio@2x `32x32`
+<img src="/img/d_Profiler.Audio.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Profiler.Audio")
+EditorGUIUtility.IconContent("d_Profiler.Audio@2x")
 ```
 ```
-d_Profiler.Audio
-```
-```
--562467101068280041
+d_Profiler.Audio@2x
 ```

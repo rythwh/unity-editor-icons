@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_tree_icon")
 ```
 d_tree_icon
 ```
-```
--3389468806786834333
-```

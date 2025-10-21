@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("HorizontalLayoutGroup Icon")
 ```
 HorizontalLayoutGroup Icon
 ```
-```
-8377579732635165496
-```

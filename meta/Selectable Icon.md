@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Selectable Icon")
 ```
 Selectable Icon
 ```
-```
--958105477048633779
-```

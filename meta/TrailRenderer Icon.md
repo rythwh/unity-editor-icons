@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TrailRenderer Icon")
 ```
 TrailRenderer Icon
 ```
-```
-5133939134348957270
-```

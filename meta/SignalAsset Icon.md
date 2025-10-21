@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SignalAsset Icon")
 ```
 SignalAsset Icon
 ```
-```
-381380967448882263
-```

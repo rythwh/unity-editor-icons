@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_PreMatTorus@2x")
 ```
 d_PreMatTorus@2x
 ```
-```
-6026626136071251619
-```

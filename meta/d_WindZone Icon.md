@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_WindZone Icon")
 ```
 d_WindZone Icon
 ```
-```
--4233099713785801186
-```

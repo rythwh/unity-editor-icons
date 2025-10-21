@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_RaytracingShader Icon")
 ```
 d_RaytracingShader Icon
 ```
-```
-2918531395169107095
-```

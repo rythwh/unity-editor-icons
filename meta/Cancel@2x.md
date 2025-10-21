@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Cancel@2x")
 ```
 Cancel@2x
 ```
-```
-9117585866246663713
-```

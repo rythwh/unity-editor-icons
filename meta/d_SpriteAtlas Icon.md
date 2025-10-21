@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_SpriteAtlas Icon")
 ```
 d_SpriteAtlas Icon
 ```
-```
-8714319771344428160
-```

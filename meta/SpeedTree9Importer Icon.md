@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SpeedTree9Importer Icon")
 ```
 SpeedTree9Importer Icon
 ```
-```
-2143475955590625702
-```

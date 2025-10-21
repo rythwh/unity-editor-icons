@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("FrictionJoint2D Icon")
 ```
 FrictionJoint2D Icon
 ```
-```
-2132736810685111631
-```

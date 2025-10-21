@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_CloudConnect@2x")
 ```
 d_CloudConnect@2x
 ```
-```
--5339467531230289067
-```

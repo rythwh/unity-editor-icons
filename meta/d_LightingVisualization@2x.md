@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_LightingVisualization@2x")
 ```
 d_LightingVisualization@2x
 ```
-```
-1448681916655844433
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_GridView@2x")
 ```
 d_GridView@2x
 ```
-```
-7543952691616514813
-```

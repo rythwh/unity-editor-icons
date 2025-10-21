@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Animation.LastKey@2x")
 ```
 Animation.LastKey@2x
 ```
-```
--9094964329764419516
-```

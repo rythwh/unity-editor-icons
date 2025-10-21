@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("animationanimated@2x")
 ```
 animationanimated@2x
 ```
-```
--3957402828522027677
-```

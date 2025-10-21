@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_NetworkTransformVisualizer Icon")
 ```
 d_NetworkTransformVisualizer Icon
 ```
-```
--1182715973117025401
-```

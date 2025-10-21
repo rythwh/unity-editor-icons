@@ -1,12 +1,9 @@
-# d_P4_CheckOutLocal `16x16`
-<img src="/img/d_P4_CheckOutLocal.png" width=16 height=16>
+# d_P4_CheckOutLocal@2x `32x32`
+<img src="/img/d_P4_CheckOutLocal.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_P4_CheckOutLocal")
+EditorGUIUtility.IconContent("d_P4_CheckOutLocal@2x")
 ```
 ```
-d_P4_CheckOutLocal
-```
-```
-1208993044663778314
+d_P4_CheckOutLocal@2x
 ```

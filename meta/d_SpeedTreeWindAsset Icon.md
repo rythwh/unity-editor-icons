@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_SpeedTreeWindAsset Icon")
 ```
 d_SpeedTreeWindAsset Icon
 ```
-```
-699731566231532068
-```

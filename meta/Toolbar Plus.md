@@ -1,12 +1,9 @@
-# Toolbar Plus `16x16`
-<img src="/img/Toolbar%20Plus.png" width=16 height=16>
+# Toolbar Plus@2x `32x32`
+<img src="/img/Toolbar%20Plus.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Toolbar Plus")
+EditorGUIUtility.IconContent("Toolbar Plus@2x")
 ```
 ```
-Toolbar Plus
-```
-```
--6960027283707972181
+Toolbar Plus@2x
 ```

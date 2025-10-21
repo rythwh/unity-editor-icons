@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("NetworkAnimator Icon")
 ```
 NetworkAnimator Icon
 ```
-```
-1788530897942679062
-```

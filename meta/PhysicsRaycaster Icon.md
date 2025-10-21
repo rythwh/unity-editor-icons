@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PhysicsRaycaster Icon")
 ```
 PhysicsRaycaster Icon
 ```
-```
--6497842815594163040
-```

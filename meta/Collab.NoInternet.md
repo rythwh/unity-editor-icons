@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Collab.NoInternet")
 ```
 Collab.NoInternet
 ```
-```
--6607641266460543220
-```

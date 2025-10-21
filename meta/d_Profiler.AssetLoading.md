@@ -1,12 +1,9 @@
-# d_Profiler.AssetLoading `16x16`
-<img src="/img/d_Profiler.AssetLoading.png" width=16 height=16>
+# d_Profiler.AssetLoading@2x `32x32`
+<img src="/img/d_Profiler.AssetLoading.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Profiler.AssetLoading")
+EditorGUIUtility.IconContent("d_Profiler.AssetLoading@2x")
 ```
 ```
-d_Profiler.AssetLoading
-```
-```
--5968866986019898856
+d_Profiler.AssetLoading@2x
 ```

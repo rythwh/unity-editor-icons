@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("RawImage Icon")
 ```
 RawImage Icon
 ```
-```
--6507938474708602768
-```

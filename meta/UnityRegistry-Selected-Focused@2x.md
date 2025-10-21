@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("UnityRegistry-Selected-Focused@2x")
 ```
 UnityRegistry-Selected-Focused@2x
 ```
-```
--8941030813260498854
-```

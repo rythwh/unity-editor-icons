@@ -1,12 +1,9 @@
-# d_BigIcons.CloudArrowUp `100x100`
-<img src="/img/d_BigIcons.CloudArrowUp.png" width=100 height=100>
+# d_BigIcons.CloudArrowUp@2x `200x200`
+<img src="/img/d_BigIcons.CloudArrowUp.png" width=200 height=200>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BigIcons.CloudArrowUp")
+EditorGUIUtility.IconContent("d_BigIcons.CloudArrowUp@2x")
 ```
 ```
-d_BigIcons.CloudArrowUp
-```
-```
-1723173849608937638
+d_BigIcons.CloudArrowUp@2x
 ```

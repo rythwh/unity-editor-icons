@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Collab.FolderDeleted")
 ```
 d_Collab.FolderDeleted
 ```
-```
-3132797155617530135
-```

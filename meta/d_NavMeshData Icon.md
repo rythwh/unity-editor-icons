@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_NavMeshData Icon")
 ```
 d_NavMeshData Icon
 ```
-```
--1526951116105809391
-```

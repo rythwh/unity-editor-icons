@@ -1,12 +1,9 @@
-# Wireframe On `16x16`
-<img src="/img/Wireframe%20On.png" width=16 height=16>
+# Wireframe On@2x `32x32`
+<img src="/img/Wireframe%20On.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Wireframe On")
+EditorGUIUtility.IconContent("Wireframe On@2x")
 ```
 ```
-Wireframe On
-```
-```
--9200686020729862549
+Wireframe On@2x
 ```

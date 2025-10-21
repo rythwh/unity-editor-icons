@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("console.erroricon@2x")
 ```
 console.erroricon@2x
 ```
-```
-6284689507932306902
-```

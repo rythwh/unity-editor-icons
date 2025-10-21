@@ -1,12 +1,9 @@
-# d_preAudioLoopOff `16x16`
-<img src="/img/d_preAudioLoopOff.png" width=16 height=16>
+# d_preAudioLoopOff@2x `32x32`
+<img src="/img/d_preAudioLoopOff.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_preAudioLoopOff")
+EditorGUIUtility.IconContent("d_preAudioLoopOff@2x")
 ```
 ```
-d_preAudioLoopOff
-```
-```
-4177878259298178914
+d_preAudioLoopOff@2x
 ```

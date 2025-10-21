@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SignalEmitter Icon")
 ```
 SignalEmitter Icon
 ```
-```
--7208649984540925430
-```

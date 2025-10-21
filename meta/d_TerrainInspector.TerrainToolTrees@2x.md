@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TerrainInspector.TerrainToolTrees@2x")
 ```
 d_TerrainInspector.TerrainToolTrees@2x
 ```
-```
--2576579250321257178
-```

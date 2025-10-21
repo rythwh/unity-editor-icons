@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Exposure@2x")
 ```
 d_Exposure@2x
 ```
-```
--7053067109466291222
-```

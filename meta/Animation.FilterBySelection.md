@@ -1,12 +1,9 @@
-# Animation.FilterBySelection `16x16`
-<img src="/img/Animation.FilterBySelection.png" width=16 height=16>
+# Animation.FilterBySelection@2x `32x32`
+<img src="/img/Animation.FilterBySelection.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Animation.FilterBySelection")
+EditorGUIUtility.IconContent("Animation.FilterBySelection@2x")
 ```
 ```
-Animation.FilterBySelection
-```
-```
-4435535828786833316
+Animation.FilterBySelection@2x
 ```

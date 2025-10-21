@@ -1,12 +1,9 @@
-# BuildSettings.QNX.Small `17x16`
-<img src="/img/BuildSettings.QNX.Small.png" width=17 height=16>
+# BuildSettings.QNX.Small@2x `33x33`
+<img src="/img/BuildSettings.QNX.Small.png" width=33 height=33>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.QNX.Small")
+EditorGUIUtility.IconContent("BuildSettings.QNX.Small@2x")
 ```
 ```
-BuildSettings.QNX.Small
-```
-```
--989840311337000591
+BuildSettings.QNX.Small@2x
 ```

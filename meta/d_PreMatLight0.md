@@ -1,12 +1,9 @@
-# d_PreMatLight0 `16x16`
-<img src="/img/d_PreMatLight0.png" width=16 height=16>
+# d_PreMatLight0@2x `32x32`
+<img src="/img/d_PreMatLight0.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_PreMatLight0")
+EditorGUIUtility.IconContent("d_PreMatLight0@2x")
 ```
 ```
-d_PreMatLight0
-```
-```
--1945259441751596937
+d_PreMatLight0@2x
 ```

@@ -1,12 +1,9 @@
-# d_BuildSettings.Standalone.Small `16x16`
-<img src="/img/d_BuildSettings.Standalone.Small.png" width=16 height=16>
+# d_BuildSettings.Standalone.Small@2x `32x32`
+<img src="/img/d_BuildSettings.Standalone.Small.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.Standalone.Small")
+EditorGUIUtility.IconContent("d_BuildSettings.Standalone.Small@2x")
 ```
 ```
-d_BuildSettings.Standalone.Small
-```
-```
-382013416940812573
+d_BuildSettings.Standalone.Small@2x
 ```

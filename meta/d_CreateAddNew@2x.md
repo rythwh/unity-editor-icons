@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_CreateAddNew@2x")
 ```
 d_CreateAddNew@2x
 ```
-```
-2592344950612753479
-```

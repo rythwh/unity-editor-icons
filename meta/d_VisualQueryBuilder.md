@@ -1,12 +1,9 @@
-# d_VisualQueryBuilder `16x16`
-<img src="/img/d_VisualQueryBuilder.png" width=16 height=16>
+# d_VisualQueryBuilder@2x `32x32`
+<img src="/img/d_VisualQueryBuilder.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_VisualQueryBuilder")
+EditorGUIUtility.IconContent("d_VisualQueryBuilder@2x")
 ```
 ```
-d_VisualQueryBuilder
-```
-```
-2458483954629871290
+d_VisualQueryBuilder@2x
 ```

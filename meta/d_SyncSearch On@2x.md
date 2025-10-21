@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_SyncSearch On@2x")
 ```
 d_SyncSearch On@2x
 ```
-```
-6982060522349916816
-```

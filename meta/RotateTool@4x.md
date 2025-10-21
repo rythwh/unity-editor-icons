@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("RotateTool@4x")
 ```
 RotateTool@4x
 ```
-```
--8906055340564482487
-```

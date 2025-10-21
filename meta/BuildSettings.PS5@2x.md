@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.PS5@2x")
 ```
 BuildSettings.PS5@2x
 ```
-```
-373751416080676096
-```

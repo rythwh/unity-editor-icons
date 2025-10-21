@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Skybox Icon")
 ```
 Skybox Icon
 ```
-```
-8976915229514748513
-```

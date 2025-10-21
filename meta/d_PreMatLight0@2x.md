@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_PreMatLight0@2x")
 ```
 d_PreMatLight0@2x
 ```
-```
--1701890779967931852
-```

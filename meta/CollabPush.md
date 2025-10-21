@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("CollabPush")
 ```
 CollabPush
 ```
-```
--4221040498047746133
-```

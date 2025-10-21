@@ -1,12 +1,9 @@
-# d_P4_Updating `16x16`
-<img src="/img/d_P4_Updating.png" width=16 height=16>
+# d_P4_Updating@2x `32x32`
+<img src="/img/d_P4_Updating.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_P4_Updating")
+EditorGUIUtility.IconContent("d_P4_Updating@2x")
 ```
 ```
-d_P4_Updating
-```
-```
-8580184149102180753
+d_P4_Updating@2x
 ```

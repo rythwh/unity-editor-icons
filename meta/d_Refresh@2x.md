@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Refresh@2x")
 ```
 d_Refresh@2x
 ```
-```
-8815869999013920796
-```

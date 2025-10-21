@@ -1,12 +1,9 @@
-# MyAssets-Selected-Focused `16x16`
-<img src="/img/MyAssets-Selected-Focused.png" width=16 height=16>
+# MyAssets-Selected-Focused@2x `32x32`
+<img src="/img/MyAssets-Selected-Focused.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("MyAssets-Selected-Focused")
+EditorGUIUtility.IconContent("MyAssets-Selected-Focused@2x")
 ```
 ```
-MyAssets-Selected-Focused
-```
-```
--1664874645252086491
+MyAssets-Selected-Focused@2x
 ```

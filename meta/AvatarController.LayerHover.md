@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AvatarController.LayerHover")
 ```
 AvatarController.LayerHover
 ```
-```
-1060193532816808308
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SceneLoadIn")
 ```
 SceneLoadIn
 ```
-```
-7570741272064372929
-```

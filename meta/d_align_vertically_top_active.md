@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_align_vertically_top_active")
 ```
 d_align_vertically_top_active
 ```
-```
-1464074894016521029
-```

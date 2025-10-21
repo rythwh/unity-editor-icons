@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Profiler.Rendering@2x")
 ```
 d_Profiler.Rendering@2x
 ```
-```
--8531880013172322318
-```

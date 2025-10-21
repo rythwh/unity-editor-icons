@@ -1,12 +1,9 @@
-# d_PreMatCube `16x16`
-<img src="/img/d_PreMatCube.png" width=16 height=16>
+# d_PreMatCube@2x `32x32`
+<img src="/img/d_PreMatCube.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_PreMatCube")
+EditorGUIUtility.IconContent("d_PreMatCube@2x")
 ```
 ```
-d_PreMatCube
-```
-```
-4963668328950458727
+d_PreMatCube@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_orangeLight")
 ```
 d_orangeLight
 ```
-```
--8167136607454143530
-```

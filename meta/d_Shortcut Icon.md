@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Shortcut Icon")
 ```
 d_Shortcut Icon
 ```
-```
--1083641351377831587
-```

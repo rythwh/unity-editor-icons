@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BuildSettings.QNX@2x")
 ```
 d_BuildSettings.QNX@2x
 ```
-```
-2190123638057228037
-```

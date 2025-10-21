@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TestPassed")
 ```
 TestPassed
 ```
-```
-3364580505226664849
-```

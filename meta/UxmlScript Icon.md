@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("UxmlScript Icon")
 ```
 UxmlScript Icon
 ```
-```
-1987952608867368060
-```

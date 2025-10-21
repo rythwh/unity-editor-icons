@@ -1,12 +1,9 @@
-# d_ToolSettings `16x16`
-<img src="/img/d_ToolSettings.png" width=16 height=16>
+# d_ToolSettings@2x `32x32`
+<img src="/img/d_ToolSettings.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_ToolSettings")
+EditorGUIUtility.IconContent("d_ToolSettings@2x")
 ```
 ```
-d_ToolSettings
-```
-```
--7496162414698775660
+d_ToolSettings@2x
 ```

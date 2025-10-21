@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_LightProbes Icon")
 ```
 d_LightProbes Icon
 ```
-```
--1933036960013795040
-```

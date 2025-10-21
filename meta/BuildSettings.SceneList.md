@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.SceneList")
 ```
 BuildSettings.SceneList
 ```
-```
--3947758333842445173
-```

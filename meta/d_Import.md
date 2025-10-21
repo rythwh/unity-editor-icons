@@ -1,12 +1,9 @@
-# d_Import `16x16`
-<img src="/img/d_Import.png" width=16 height=16>
+# d_Import@2x `32x32`
+<img src="/img/d_Import.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Import")
+EditorGUIUtility.IconContent("d_Import@2x")
 ```
 ```
-d_Import
-```
-```
--6062748997451094969
+d_Import@2x
 ```

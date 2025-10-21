@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Linked@2x")
 ```
 Linked@2x
 ```
-```
-1818164797828020291
-```

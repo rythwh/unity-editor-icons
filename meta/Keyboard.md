@@ -1,12 +1,9 @@
-# Keyboard `16x16`
-<img src="/img/Keyboard.png" width=16 height=16>
+# Keyboard@2x `32x32`
+<img src="/img/Keyboard.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Keyboard")
+EditorGUIUtility.IconContent("Keyboard@2x")
 ```
 ```
-Keyboard
-```
-```
--6131513001437326570
+Keyboard@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Quickstart@2x")
 ```
 Quickstart@2x
 ```
-```
-2238250649249875563
-```

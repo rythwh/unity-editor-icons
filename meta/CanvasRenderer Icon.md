@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("CanvasRenderer Icon")
 ```
 CanvasRenderer Icon
 ```
-```
-3999945985152639599
-```

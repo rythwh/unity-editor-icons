@@ -1,12 +1,9 @@
-# d_SelectionWindow.Remove `16x16`
-<img src="/img/d_SelectionWindow.Remove.png" width=16 height=16>
+# d_SelectionWindow.Remove@2x `32x32`
+<img src="/img/d_SelectionWindow.Remove.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_SelectionWindow.Remove")
+EditorGUIUtility.IconContent("d_SelectionWindow.Remove@2x")
 ```
 ```
-d_SelectionWindow.Remove
-```
-```
--2927195026337542706
+d_SelectionWindow.Remove@2x
 ```

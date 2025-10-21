@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AnimatorController Icon")
 ```
 d_AnimatorController Icon
 ```
-```
--5540264361198448834
-```

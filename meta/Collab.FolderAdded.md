@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Collab.FolderAdded")
 ```
 Collab.FolderAdded
 ```
-```
--1210278254150948088
-```

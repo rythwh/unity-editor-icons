@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TerrainInspector.TerrainToolRaise On")
 ```
 TerrainInspector.TerrainToolRaise On
 ```
-```
-7549381679316832558
-```

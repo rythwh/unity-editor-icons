@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Record On@2x")
 ```
 Record On@2x
 ```
-```
-5010750444327070796
-```

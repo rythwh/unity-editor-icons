@@ -1,12 +1,9 @@
-# P4_CheckOutRemote `16x16`
-<img src="/img/P4_CheckOutRemote.png" width=16 height=16>
+# P4_CheckOutRemote@2x `32x32`
+<img src="/img/P4_CheckOutRemote.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("P4_CheckOutRemote")
+EditorGUIUtility.IconContent("P4_CheckOutRemote@2x")
 ```
 ```
-P4_CheckOutRemote
-```
-```
--3985908577969031525
+P4_CheckOutRemote@2x
 ```

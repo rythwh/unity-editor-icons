@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_blueGroove")
 ```
 d_blueGroove
 ```
-```
-3958074764286187482
-```

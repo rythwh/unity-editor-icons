@@ -1,12 +1,9 @@
-# d_TerrainInspector.TerrainToolTrees `16x16`
-<img src="/img/d_TerrainInspector.TerrainToolTrees.png" width=16 height=16>
+# d_TerrainInspector.TerrainToolTrees@2x `32x32`
+<img src="/img/d_TerrainInspector.TerrainToolTrees.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_TerrainInspector.TerrainToolTrees")
+EditorGUIUtility.IconContent("d_TerrainInspector.TerrainToolTrees@2x")
 ```
 ```
-d_TerrainInspector.TerrainToolTrees
-```
-```
-9144015468752333222
+d_TerrainInspector.TerrainToolTrees@2x
 ```

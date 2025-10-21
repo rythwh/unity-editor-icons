@@ -1,12 +1,9 @@
-# d_BuildSettings.Windows.Small `16x16`
-<img src="/img/d_BuildSettings.Windows.Small.png" width=16 height=16>
+# d_BuildSettings.Windows.Small@2x `32x32`
+<img src="/img/d_BuildSettings.Windows.Small.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.Windows.Small")
+EditorGUIUtility.IconContent("d_BuildSettings.Windows.Small@2x")
 ```
 ```
-d_BuildSettings.Windows.Small
-```
-```
-8327636491067668638
+d_BuildSettings.Windows.Small@2x
 ```

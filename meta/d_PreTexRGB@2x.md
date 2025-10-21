@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_PreTexRGB@2x")
 ```
 d_PreTexRGB@2x
 ```
-```
--5114238059335211639
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PBrowserPackagesNotVisible On@2x")
 ```
 PBrowserPackagesNotVisible On@2x
 ```
-```
--7727765151953650520
-```

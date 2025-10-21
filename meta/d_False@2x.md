@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_False@2x")
 ```
 d_False@2x
 ```
-```
--6709368529428530233
-```

@@ -1,12 +1,9 @@
-# debug On `16x16`
-<img src="/img/debug%20On.png" width=16 height=16>
+# debug On@2x `32x32`
+<img src="/img/debug%20On.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("debug On")
+EditorGUIUtility.IconContent("debug On@2x")
 ```
 ```
-debug On
-```
-```
-3988006027364870726
+debug On@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("VideoClip Icon")
 ```
 VideoClip Icon
 ```
-```
--8462782666828804213
-```

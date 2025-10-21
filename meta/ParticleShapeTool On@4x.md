@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ParticleShapeTool On@4x")
 ```
 ParticleShapeTool On@4x
 ```
-```
-7612731255350744311
-```

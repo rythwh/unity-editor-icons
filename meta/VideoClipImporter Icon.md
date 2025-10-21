@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("VideoClipImporter Icon")
 ```
 VideoClipImporter Icon
 ```
-```
--6567075461705774110
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ProbeVolumeBakingSet Icon")
 ```
 ProbeVolumeBakingSet Icon
 ```
-```
-3030532098742116636
-```

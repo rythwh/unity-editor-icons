@@ -1,12 +1,9 @@
-# d_BuildSettings.OSX.Small `17x16`
-<img src="/img/d_BuildSettings.OSX.Small.png" width=17 height=16>
+# d_BuildSettings.OSX.Small@2x `33x33`
+<img src="/img/d_BuildSettings.OSX.Small.png" width=33 height=33>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.OSX.Small")
+EditorGUIUtility.IconContent("d_BuildSettings.OSX.Small@2x")
 ```
 ```
-d_BuildSettings.OSX.Small
-```
-```
-8518898020541173724
+d_BuildSettings.OSX.Small@2x
 ```

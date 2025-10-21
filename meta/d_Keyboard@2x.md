@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Keyboard@2x")
 ```
 d_Keyboard@2x
 ```
-```
-5666957688460018447
-```

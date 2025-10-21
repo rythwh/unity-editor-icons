@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_RelativeJoint2D Icon")
 ```
 d_RelativeJoint2D Icon
 ```
-```
--757332629082491613
-```

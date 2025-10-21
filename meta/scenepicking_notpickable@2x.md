@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("scenepicking_notpickable@2x")
 ```
 scenepicking_notpickable@2x
 ```
-```
--6977665243695843647
-```

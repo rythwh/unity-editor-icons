@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ShowPanels")
 ```
 d_ShowPanels
 ```
-```
-2295183597677556822
-```

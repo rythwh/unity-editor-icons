@@ -1,12 +1,9 @@
-# Profiler.NetworkMessages `16x16`
-<img src="/img/Profiler.NetworkMessages.png" width=16 height=16>
+# Profiler.NetworkMessages@2x `32x32`
+<img src="/img/Profiler.NetworkMessages.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Profiler.NetworkMessages")
+EditorGUIUtility.IconContent("Profiler.NetworkMessages@2x")
 ```
 ```
-Profiler.NetworkMessages
-```
-```
-3816689439724054780
+Profiler.NetworkMessages@2x
 ```

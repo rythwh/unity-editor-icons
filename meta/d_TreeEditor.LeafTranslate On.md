@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TreeEditor.LeafTranslate On")
 ```
 d_TreeEditor.LeafTranslate On
 ```
-```
-8873277973026539042
-```

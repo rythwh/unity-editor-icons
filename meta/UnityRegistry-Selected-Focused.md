@@ -1,12 +1,9 @@
-# UnityRegistry-Selected-Focused `16x16`
-<img src="/img/UnityRegistry-Selected-Focused.png" width=16 height=16>
+# UnityRegistry-Selected-Focused@2x `32x32`
+<img src="/img/UnityRegistry-Selected-Focused.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityRegistry-Selected-Focused")
+EditorGUIUtility.IconContent("UnityRegistry-Selected-Focused@2x")
 ```
 ```
-UnityRegistry-Selected-Focused
-```
-```
--7455432239953386194
+UnityRegistry-Selected-Focused@2x
 ```

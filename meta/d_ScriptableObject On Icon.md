@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ScriptableObject On Icon")
 ```
 d_ScriptableObject On Icon
 ```
-```
--267956487659557890
-```

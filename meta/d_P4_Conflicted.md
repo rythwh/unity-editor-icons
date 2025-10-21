@@ -1,12 +1,9 @@
-# d_P4_Conflicted `16x16`
-<img src="/img/d_P4_Conflicted.png" width=16 height=16>
+# d_P4_Conflicted@2x `32x32`
+<img src="/img/d_P4_Conflicted.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_P4_Conflicted")
+EditorGUIUtility.IconContent("d_P4_Conflicted@2x")
 ```
 ```
-d_P4_Conflicted
-```
-```
-6597924048584632063
+d_P4_Conflicted@2x
 ```

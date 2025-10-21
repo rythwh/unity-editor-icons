@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_cs Script Icon")
 ```
 d_cs Script Icon
 ```
-```
--8204150473280056172
-```

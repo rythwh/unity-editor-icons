@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AreaLight Icon")
 ```
 AreaLight Icon
 ```
-```
--4194169916671584015
-```

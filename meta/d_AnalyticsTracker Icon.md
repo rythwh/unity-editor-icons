@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AnalyticsTracker Icon")
 ```
 d_AnalyticsTracker Icon
 ```
-```
-8222942760083641148
-```

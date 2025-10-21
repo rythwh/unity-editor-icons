@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AudioListener Icon")
 ```
 AudioListener Icon
 ```
-```
--5004290452012795762
-```

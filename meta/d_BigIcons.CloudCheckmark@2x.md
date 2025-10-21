@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BigIcons.CloudCheckmark@2x")
 ```
 d_BigIcons.CloudCheckmark@2x
 ```
-```
-2428751379495219018
-```

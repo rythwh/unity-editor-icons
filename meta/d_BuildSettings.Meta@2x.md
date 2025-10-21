@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BuildSettings.Meta@2x")
 ```
 d_BuildSettings.Meta@2x
 ```
-```
-7894061049092790060
-```

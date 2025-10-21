@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Services-Selected-Focused@2x")
 ```
 Services-Selected-Focused@2x
 ```
-```
-3043841131501681405
-```

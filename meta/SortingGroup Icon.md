@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SortingGroup Icon")
 ```
 SortingGroup Icon
 ```
-```
--3139516078901744449
-```

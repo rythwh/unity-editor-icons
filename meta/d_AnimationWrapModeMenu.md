@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AnimationWrapModeMenu")
 ```
 d_AnimationWrapModeMenu
 ```
-```
-5158551771503169309
-```

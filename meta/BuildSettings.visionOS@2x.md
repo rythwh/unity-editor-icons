@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.visionOS@2x")
 ```
 BuildSettings.visionOS@2x
 ```
-```
-3766923774201948693
-```

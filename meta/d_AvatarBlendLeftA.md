@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AvatarBlendLeftA")
 ```
 d_AvatarBlendLeftA
 ```
-```
-1513400179016092070
-```

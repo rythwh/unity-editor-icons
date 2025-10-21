@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("icon dropdown open@2x")
 ```
 icon dropdown open@2x
 ```
-```
--6690528547024542970
-```

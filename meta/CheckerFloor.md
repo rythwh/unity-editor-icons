@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("CheckerFloor")
 ```
 CheckerFloor
 ```
-```
--7297968518591046888
-```

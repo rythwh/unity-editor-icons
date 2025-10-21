@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.Metro.Small@2x")
 ```
 BuildSettings.Metro.Small@2x
 ```
-```
--8732235388156778990
-```

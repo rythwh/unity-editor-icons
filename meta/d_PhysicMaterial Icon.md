@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_PhysicMaterial Icon")
 ```
 d_PhysicMaterial Icon
 ```
-```
--1218883958213205822
-```

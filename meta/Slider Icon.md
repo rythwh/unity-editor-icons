@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Slider Icon")
 ```
 Slider Icon
 ```
-```
--632671796230222846
-```

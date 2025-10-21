@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BuildSettings.WebGL.Small@2x")
 ```
 d_BuildSettings.WebGL.Small@2x
 ```
-```
--3349758287006924090
-```

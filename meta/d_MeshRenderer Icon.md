@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_MeshRenderer Icon")
 ```
 d_MeshRenderer Icon
 ```
-```
--7633815037825259808
-```

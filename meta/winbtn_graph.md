@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("winbtn_graph")
 ```
 winbtn_graph
 ```
-```
--6181712325412664997
-```

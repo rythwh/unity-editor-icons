@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_CustomTool@2x")
 ```
 d_CustomTool@2x
 ```
-```
-3919062399048514441
-```

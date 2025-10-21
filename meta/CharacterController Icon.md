@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("CharacterController Icon")
 ```
 CharacterController Icon
 ```
-```
-5046000976985291195
-```

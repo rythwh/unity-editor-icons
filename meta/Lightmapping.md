@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Lightmapping")
 ```
 Lightmapping
 ```
-```
--3351127871323511696
-```

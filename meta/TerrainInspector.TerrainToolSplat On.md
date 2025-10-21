@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TerrainInspector.TerrainToolSplat On")
 ```
 TerrainInspector.TerrainToolSplat On
 ```
-```
--7624083770623325932
-```

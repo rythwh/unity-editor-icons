@@ -1,12 +1,9 @@
-# scenevis_visible-mixed_hover `16x16`
-<img src="/img/scenevis_visible-mixed_hover.png" width=16 height=16>
+# scenevis_visible-mixed_hover@2x `32x32`
+<img src="/img/scenevis_visible-mixed_hover.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("scenevis_visible-mixed_hover")
+EditorGUIUtility.IconContent("scenevis_visible-mixed_hover@2x")
 ```
 ```
-scenevis_visible-mixed_hover
-```
-```
-2888031992770382194
+scenevis_visible-mixed_hover@2x
 ```

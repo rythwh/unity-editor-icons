@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AudioDistortionFilter Icon")
 ```
 AudioDistortionFilter Icon
 ```
-```
-5450634392104148629
-```

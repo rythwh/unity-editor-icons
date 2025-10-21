@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_UnityEditor.DeviceSimulation.SimulatorWindow@2x"
 ```
 d_UnityEditor.DeviceSimulation.SimulatorWindow@2x
 ```
-```
-3038311277492192215
-```

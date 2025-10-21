@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_SpriteShapeRenderer Icon")
 ```
 d_SpriteShapeRenderer Icon
 ```
-```
-8268226678086403780
-```

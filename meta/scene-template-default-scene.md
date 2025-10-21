@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("scene-template-default-scene")
 ```
 scene-template-default-scene
 ```
-```
--3637947222343254162
-```

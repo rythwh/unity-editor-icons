@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("blendKeyOverlay@2x")
 ```
 blendKeyOverlay@2x
 ```
-```
-958581468013483940
-```

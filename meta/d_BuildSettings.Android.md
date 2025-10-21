@@ -1,12 +1,9 @@
-# d_BuildSettings.Android `32x32`
-<img src="/img/d_BuildSettings.Android.png" width=32 height=32>
+# d_BuildSettings.Android@2x `64x64`
+<img src="/img/d_BuildSettings.Android.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.Android")
+EditorGUIUtility.IconContent("d_BuildSettings.Android@2x")
 ```
 ```
-d_BuildSettings.Android
-```
-```
--3446736307351038430
+d_BuildSettings.Android@2x
 ```

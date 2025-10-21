@@ -1,12 +1,9 @@
-# winbtn_mac_min_a `16x16`
-<img src="/img/winbtn_mac_min_a.png" width=16 height=16>
+# winbtn_mac_min_a@2x `32x32`
+<img src="/img/winbtn_mac_min_a.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("winbtn_mac_min_a")
+EditorGUIUtility.IconContent("winbtn_mac_min_a@2x")
 ```
 ```
-winbtn_mac_min_a
-```
-```
-3545580860988697579
+winbtn_mac_min_a@2x
 ```

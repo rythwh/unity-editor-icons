@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Import-Available@2x")
 ```
 Import-Available@2x
 ```
-```
-6486492214161460444
-```

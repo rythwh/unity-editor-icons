@@ -1,12 +1,9 @@
-# Shaded On `16x16`
-<img src="/img/Shaded%20On.png" width=16 height=16>
+# Shaded On@2x `32x32`
+<img src="/img/Shaded%20On.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Shaded On")
+EditorGUIUtility.IconContent("Shaded On@2x")
 ```
 ```
-Shaded On
-```
-```
--8556681694753944334
+Shaded On@2x
 ```

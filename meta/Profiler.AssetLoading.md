@@ -1,12 +1,9 @@
-# Profiler.AssetLoading `16x16`
-<img src="/img/Profiler.AssetLoading.png" width=16 height=16>
+# Profiler.AssetLoading@2x `32x32`
+<img src="/img/Profiler.AssetLoading.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Profiler.AssetLoading")
+EditorGUIUtility.IconContent("Profiler.AssetLoading@2x")
 ```
 ```
-Profiler.AssetLoading
-```
-```
--1074093493599853803
+Profiler.AssetLoading@2x
 ```

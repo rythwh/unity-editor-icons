@@ -1,12 +1,9 @@
-# forward `9x11`
-<img src="/img/forward.png" width=9 height=11>
+# forward@2x `18x21`
+<img src="/img/forward.png" width=18 height=21>
 
 ``` CSharp
-EditorGUIUtility.IconContent("forward")
+EditorGUIUtility.IconContent("forward@2x")
 ```
 ```
-forward
-```
-```
--6568470661219336839
+forward@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("UnityAboutLogo@2x")
 ```
 UnityAboutLogo@2x
 ```
-```
--3981379970930999149
-```

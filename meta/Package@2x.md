@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Package@2x")
 ```
 Package@2x
 ```
-```
-1226987765860890946
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("MeshLOD On@2x")
 ```
 MeshLOD On@2x
 ```
-```
--1678390991765841678
-```

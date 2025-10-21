@@ -1,12 +1,9 @@
-# d_BuildSettings.N3DS.Small `16x16`
-<img src="/img/d_BuildSettings.N3DS.Small.png" width=16 height=16>
+# d_BuildSettings.N3DS.Small@2x `32x32`
+<img src="/img/d_BuildSettings.N3DS.Small.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.N3DS.Small")
+EditorGUIUtility.IconContent("d_BuildSettings.N3DS.Small@2x")
 ```
 ```
-d_BuildSettings.N3DS.Small
-```
-```
-5168174702038070723
+d_BuildSettings.N3DS.Small@2x
 ```

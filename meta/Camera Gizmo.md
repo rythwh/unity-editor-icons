@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Camera Gizmo")
 ```
 Camera Gizmo
 ```
-```
--9002153236391373477
-```

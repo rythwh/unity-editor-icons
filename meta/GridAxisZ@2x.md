@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("GridAxisZ@2x")
 ```
 GridAxisZ@2x
 ```
-```
--8507534909753589858
-```

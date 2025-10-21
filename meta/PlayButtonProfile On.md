@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PlayButtonProfile On")
 ```
 PlayButtonProfile On
 ```
-```
-7440788987092985216
-```

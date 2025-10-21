@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PBrowserPackagesVisible_hover@2x")
 ```
 PBrowserPackagesVisible_hover@2x
 ```
-```
--2683091694908258158
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("InProject@2x")
 ```
 InProject@2x
 ```
-```
--9106010699648310075
-```

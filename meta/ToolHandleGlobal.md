@@ -1,12 +1,9 @@
-# ToolHandleGlobal `16x16`
-<img src="/img/ToolHandleGlobal.png" width=16 height=16>
+# ToolHandleGlobal@2x `32x32`
+<img src="/img/ToolHandleGlobal.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("ToolHandleGlobal")
+EditorGUIUtility.IconContent("ToolHandleGlobal@2x")
 ```
 ```
-ToolHandleGlobal
-```
-```
-4791829111723653622
+ToolHandleGlobal@2x
 ```

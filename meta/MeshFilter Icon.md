@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("MeshFilter Icon")
 ```
 MeshFilter Icon
 ```
-```
-6874961550238867527
-```

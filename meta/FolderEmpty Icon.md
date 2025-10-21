@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("FolderEmpty Icon")
 ```
 FolderEmpty Icon
 ```
-```
--4754548720146850911
-```

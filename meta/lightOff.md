@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("lightOff")
 ```
 lightOff
 ```
-```
-5681784110904456585
-```

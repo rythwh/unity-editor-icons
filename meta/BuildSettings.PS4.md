@@ -1,12 +1,9 @@
-# BuildSettings.PS4 `32x32`
-<img src="/img/BuildSettings.PS4.png" width=32 height=32>
+# BuildSettings.PS4@2x `64x64`
+<img src="/img/BuildSettings.PS4.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.PS4")
+EditorGUIUtility.IconContent("BuildSettings.PS4@2x")
 ```
 ```
-BuildSettings.PS4
-```
-```
-55494050528514414
+BuildSettings.PS4@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TerrainInspector.TerrainToolSetheight")
 ```
 d_TerrainInspector.TerrainToolSetheight
 ```
-```
--4890987159883832499
-```

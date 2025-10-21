@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("OrientationGizmo@2x")
 ```
 OrientationGizmo@2x
 ```
-```
-6250355048641800988
-```

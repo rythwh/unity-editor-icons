@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AssetLabelIconSquare@2x")
 ```
 d_AssetLabelIconSquare@2x
 ```
-```
--7967844280884038473
-```

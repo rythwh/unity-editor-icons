@@ -1,12 +1,9 @@
-# d_curvekeyframeweighted `16x16`
-<img src="/img/d_curvekeyframeweighted.png" width=16 height=16>
+# d_curvekeyframeweighted@2x `32x32`
+<img src="/img/d_curvekeyframeweighted.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_curvekeyframeweighted")
+EditorGUIUtility.IconContent("d_curvekeyframeweighted@2x")
 ```
 ```
-d_curvekeyframeweighted
-```
-```
-8905559942646768812
+d_curvekeyframeweighted@2x
 ```

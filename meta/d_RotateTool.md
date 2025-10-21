@@ -1,12 +1,9 @@
-# d_RotateTool `16x16`
-<img src="/img/d_RotateTool.png" width=16 height=16>
+# d_RotateTool@2x `32x32`
+<img src="/img/d_RotateTool.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_RotateTool")
+EditorGUIUtility.IconContent("d_RotateTool@2x")
 ```
 ```
-d_RotateTool
-```
-```
--884787280140238455
+d_RotateTool@2x
 ```

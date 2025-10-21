@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("RightFeetIk")
 ```
 RightFeetIk
 ```
-```
-3710563382436173543
-```

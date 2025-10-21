@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_LookAtConstraint Icon")
 ```
 d_LookAtConstraint Icon
 ```
-```
-369954582749368496
-```

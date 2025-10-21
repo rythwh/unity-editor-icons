@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("StateMachineEditor.StateHover")
 ```
 StateMachineEditor.StateHover
 ```
-```
-6651725969123511595
-```

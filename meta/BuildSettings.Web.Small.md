@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.Web.Small")
 ```
 BuildSettings.Web.Small
 ```
-```
--8502616656149400873
-```

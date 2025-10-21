@@ -1,12 +1,9 @@
-# Progress `16x16`
-<img src="/img/Progress.png" width=16 height=16>
+# Progress@2x `32x32`
+<img src="/img/Progress.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Progress")
+EditorGUIUtility.IconContent("Progress@2x")
 ```
 ```
-Progress
-```
-```
-1017641753739630653
+Progress@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AnchorTransformTool@2x")
 ```
 d_AnchorTransformTool@2x
 ```
-```
-4866097001312715500
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("LightProbeProxyVolume Gizmo")
 ```
 LightProbeProxyVolume Gizmo
 ```
-```
-6344356362672100751
-```

@@ -1,12 +1,9 @@
-# d_GridAndSnap `16x16`
-<img src="/img/d_GridAndSnap.png" width=16 height=16>
+# d_GridAndSnap@2x `32x32`
+<img src="/img/d_GridAndSnap.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_GridAndSnap")
+EditorGUIUtility.IconContent("d_GridAndSnap@2x")
 ```
 ```
-d_GridAndSnap
-```
-```
--6553166050642390328
+d_GridAndSnap@2x
 ```

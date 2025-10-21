@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("winbtn_win_min_h")
 ```
 winbtn_win_min_h
 ```
-```
--2578909454360712222
-```

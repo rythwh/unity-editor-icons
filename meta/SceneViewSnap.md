@@ -1,12 +1,9 @@
-# SceneViewSnap `16x16`
-<img src="/img/SceneViewSnap.png" width=16 height=16>
+# SceneViewSnap@2x `32x32`
+<img src="/img/SceneViewSnap.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("SceneViewSnap")
+EditorGUIUtility.IconContent("SceneViewSnap@2x")
 ```
 ```
-SceneViewSnap
-```
-```
-3036161070686330959
+SceneViewSnap@2x
 ```

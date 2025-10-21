@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_CompositeCollider2D Icon")
 ```
 d_CompositeCollider2D Icon
 ```
-```
--2004682403923740574
-```

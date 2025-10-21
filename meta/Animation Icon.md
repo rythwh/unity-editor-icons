@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Animation Icon")
 ```
 Animation Icon
 ```
-```
--2455898091624290219
-```

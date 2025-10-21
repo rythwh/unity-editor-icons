@@ -1,12 +1,9 @@
-# Dependency `17x17`
-<img src="/img/Dependency.png" width=17 height=17>
+# Dependency@2x `33x33`
+<img src="/img/Dependency.png" width=33 height=33>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Dependency")
+EditorGUIUtility.IconContent("Dependency@2x")
 ```
 ```
-Dependency
-```
-```
-2893090417498508106
+Dependency@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PlayButton@2x")
 ```
 PlayButton@2x
 ```
-```
--6523958329189635091
-```

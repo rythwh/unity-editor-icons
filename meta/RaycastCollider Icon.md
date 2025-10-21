@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("RaycastCollider Icon")
 ```
 RaycastCollider Icon
 ```
-```
-1448756166716794280
-```

@@ -1,12 +1,9 @@
-# UnityEditor.AnimationWindow `16x16`
-<img src="/img/UnityEditor.AnimationWindow.png" width=16 height=16>
+# UnityEditor.AnimationWindow@2x `32x32`
+<img src="/img/UnityEditor.AnimationWindow.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityEditor.AnimationWindow")
+EditorGUIUtility.IconContent("UnityEditor.AnimationWindow@2x")
 ```
 ```
-UnityEditor.AnimationWindow
-```
-```
-1561878555887300916
+UnityEditor.AnimationWindow@2x
 ```

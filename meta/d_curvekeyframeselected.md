@@ -1,12 +1,9 @@
-# d_curvekeyframeselected `16x16`
-<img src="/img/d_curvekeyframeselected.png" width=16 height=16>
+# d_curvekeyframeselected@2x `32x32`
+<img src="/img/d_curvekeyframeselected.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_curvekeyframeselected")
+EditorGUIUtility.IconContent("d_curvekeyframeselected@2x")
 ```
 ```
-d_curvekeyframeselected
-```
-```
-4350979343334187468
+d_curvekeyframeselected@2x
 ```

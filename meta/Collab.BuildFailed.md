@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Collab.BuildFailed")
 ```
 Collab.BuildFailed
 ```
-```
--5437438620272192643
-```

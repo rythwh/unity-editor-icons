@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("loop")
 ```
 loop
 ```
-```
--2200085055269470160
-```

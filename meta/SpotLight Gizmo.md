@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SpotLight Gizmo")
 ```
 SpotLight Gizmo
 ```
-```
-6898835964336841926
-```

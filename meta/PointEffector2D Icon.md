@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PointEffector2D Icon")
 ```
 PointEffector2D Icon
 ```
-```
-589648768491136598
-```

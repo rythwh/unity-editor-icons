@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_winbtn_mac_inact")
 ```
 d_winbtn_mac_inact
 ```
-```
--1264402055048774367
-```

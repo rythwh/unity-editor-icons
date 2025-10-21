@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BuildSettings.Linux.Small@2x")
 ```
 d_BuildSettings.Linux.Small@2x
 ```
-```
--5854033857499563411
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_PackageManagerDefault@2x")
 ```
 d_PackageManagerDefault@2x
 ```
-```
--8369832253946478824
-```

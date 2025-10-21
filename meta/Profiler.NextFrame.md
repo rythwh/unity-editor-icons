@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Profiler.NextFrame")
 ```
 Profiler.NextFrame
 ```
-```
--2659894972466941889
-```

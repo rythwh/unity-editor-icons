@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Warning@2x")
 ```
 Warning@2x
 ```
-```
--6093991948104476032
-```

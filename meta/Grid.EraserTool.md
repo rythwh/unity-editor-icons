@@ -1,12 +1,9 @@
-# Grid.EraserTool `16x16`
-<img src="/img/Grid.EraserTool.png" width=16 height=16>
+# Grid.EraserTool@2x `32x32`
+<img src="/img/Grid.EraserTool.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Grid.EraserTool")
+EditorGUIUtility.IconContent("Grid.EraserTool@2x")
 ```
 ```
-Grid.EraserTool
-```
-```
--2230402226522707323
+Grid.EraserTool@2x
 ```

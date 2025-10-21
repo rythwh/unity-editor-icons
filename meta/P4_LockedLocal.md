@@ -1,12 +1,9 @@
-# P4_LockedLocal `16x16`
-<img src="/img/P4_LockedLocal.png" width=16 height=16>
+# P4_LockedLocal@2x `32x32`
+<img src="/img/P4_LockedLocal.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("P4_LockedLocal")
+EditorGUIUtility.IconContent("P4_LockedLocal@2x")
 ```
 ```
-P4_LockedLocal
-```
-```
-1533564877825707700
+P4_LockedLocal@2x
 ```

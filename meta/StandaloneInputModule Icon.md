@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("StandaloneInputModule Icon")
 ```
 StandaloneInputModule Icon
 ```
-```
--542281249927820872
-```

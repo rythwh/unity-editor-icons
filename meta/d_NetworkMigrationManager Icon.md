@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_NetworkMigrationManager Icon")
 ```
 d_NetworkMigrationManager Icon
 ```
-```
--8882130507070609808
-```

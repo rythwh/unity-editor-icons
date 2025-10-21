@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_model large")
 ```
 d_model large
 ```
-```
--4151579237291548445
-```

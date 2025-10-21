@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Torso")
 ```
 Torso
 ```
-```
--8990505202146232379
-```

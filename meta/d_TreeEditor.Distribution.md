@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TreeEditor.Distribution")
 ```
 d_TreeEditor.Distribution
 ```
-```
--6209399669475687377
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ListView On@2x")
 ```
 d_ListView On@2x
 ```
-```
-433845722668318675
-```

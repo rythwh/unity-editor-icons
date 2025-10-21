@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ParticleSystemForceField Gizmo")
 ```
 ParticleSystemForceField Gizmo
 ```
-```
--1148536854455764822
-```

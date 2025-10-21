@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PreviewPackageInUse@2x")
 ```
 PreviewPackageInUse@2x
 ```
-```
-7780749099549934811
-```

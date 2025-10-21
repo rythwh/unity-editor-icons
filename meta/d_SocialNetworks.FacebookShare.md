@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_SocialNetworks.FacebookShare")
 ```
 d_SocialNetworks.FacebookShare
 ```
-```
-2049154809568945525
-```

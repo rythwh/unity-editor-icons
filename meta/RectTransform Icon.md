@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("RectTransform Icon")
 ```
 RectTransform Icon
 ```
-```
-7455145437453758670
-```

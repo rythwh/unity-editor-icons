@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ScaleConstraint Icon")
 ```
 d_ScaleConstraint Icon
 ```
-```
-5163284692623341358
-```

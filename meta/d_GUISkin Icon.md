@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_GUISkin Icon")
 ```
 d_GUISkin Icon
 ```
-```
--5787505426856470801
-```

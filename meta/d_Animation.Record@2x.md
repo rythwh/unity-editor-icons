@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Animation.Record@2x")
 ```
 d_Animation.Record@2x
 ```
-```
-8982227325937526715
-```

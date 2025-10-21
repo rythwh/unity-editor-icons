@@ -1,12 +1,9 @@
-# PackageManagerError `16x16`
-<img src="/img/PackageManagerError.png" width=16 height=16>
+# PackageManagerError@2x `32x32`
+<img src="/img/PackageManagerError.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("PackageManagerError")
+EditorGUIUtility.IconContent("PackageManagerError@2x")
 ```
 ```
-PackageManagerError
-```
-```
--8422781126179266671
+PackageManagerError@2x
 ```

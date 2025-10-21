@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_EditCollider")
 ```
 d_EditCollider
 ```
-```
--560221908340507589
-```

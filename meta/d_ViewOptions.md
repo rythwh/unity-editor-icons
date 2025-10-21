@@ -1,12 +1,9 @@
-# d_ViewOptions `16x16`
-<img src="/img/d_ViewOptions.png" width=16 height=16>
+# d_ViewOptions@2x `32x32`
+<img src="/img/d_ViewOptions.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_ViewOptions")
+EditorGUIUtility.IconContent("d_ViewOptions@2x")
 ```
 ```
-d_ViewOptions
-```
-```
--5261421315042111363
+d_ViewOptions@2x
 ```

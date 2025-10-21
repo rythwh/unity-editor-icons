@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("MouseLeft@2x")
 ```
 MouseLeft@2x
 ```
-```
--3377665633045028222
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("P4_Offline@2x")
 ```
 P4_Offline@2x
 ```
-```
-4076454685690322458
-```

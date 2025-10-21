@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("playLoopOn")
 ```
 playLoopOn
 ```
-```
--8704230745159471572
-```

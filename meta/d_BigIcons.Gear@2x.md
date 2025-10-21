@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BigIcons.Gear@2x")
 ```
 d_BigIcons.Gear@2x
 ```
-```
--3952144843832463048
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ProbeAdjustmentVolume Icon")
 ```
 ProbeAdjustmentVolume Icon
 ```
-```
-6163914133398042047
-```

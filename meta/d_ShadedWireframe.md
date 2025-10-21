@@ -1,12 +1,9 @@
-# d_ShadedWireframe `16x16`
-<img src="/img/d_ShadedWireframe.png" width=16 height=16>
+# d_ShadedWireframe@2x `32x32`
+<img src="/img/d_ShadedWireframe.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_ShadedWireframe")
+EditorGUIUtility.IconContent("d_ShadedWireframe@2x")
 ```
 ```
-d_ShadedWireframe
-```
-```
--1475878056229199497
+d_ShadedWireframe@2x
 ```

@@ -1,12 +1,9 @@
-# CloudConnect `16x16`
-<img src="/img/CloudConnect.png" width=16 height=16>
+# CloudConnect@2x `32x32`
+<img src="/img/CloudConnect.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("CloudConnect")
+EditorGUIUtility.IconContent("CloudConnect@2x")
 ```
 ```
-CloudConnect
-```
-```
-1796978947134172663
+CloudConnect@2x
 ```

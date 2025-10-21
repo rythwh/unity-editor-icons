@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Profiler.LastFrame")
 ```
 d_Profiler.LastFrame
 ```
-```
-1156741976402795997
-```

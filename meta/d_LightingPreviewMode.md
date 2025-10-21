@@ -1,12 +1,9 @@
-# d_LightingPreviewMode `16x16`
-<img src="/img/d_LightingPreviewMode.png" width=16 height=16>
+# d_LightingPreviewMode@2x `32x32`
+<img src="/img/d_LightingPreviewMode.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_LightingPreviewMode")
+EditorGUIUtility.IconContent("d_LightingPreviewMode@2x")
 ```
 ```
-d_LightingPreviewMode
-```
-```
-333076164758639772
+d_LightingPreviewMode@2x
 ```

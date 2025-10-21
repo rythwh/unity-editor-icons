@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_DataMode.Authoring@2x")
 ```
 d_DataMode.Authoring@2x
 ```
-```
--1706030703237661756
-```

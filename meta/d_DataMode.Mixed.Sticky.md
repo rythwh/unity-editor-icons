@@ -1,12 +1,9 @@
-# d_DataMode.Mixed.Sticky `16x16`
-<img src="/img/d_DataMode.Mixed.Sticky.png" width=16 height=16>
+# d_DataMode.Mixed.Sticky@2x `32x32`
+<img src="/img/d_DataMode.Mixed.Sticky.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_DataMode.Mixed.Sticky")
+EditorGUIUtility.IconContent("d_DataMode.Mixed.Sticky@2x")
 ```
 ```
-d_DataMode.Mixed.Sticky
-```
-```
-5875945490006378687
+d_DataMode.Mixed.Sticky@2x
 ```

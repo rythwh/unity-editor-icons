@@ -1,12 +1,9 @@
-# UnityEditor.DeviceSimulation.SimulatorWindow `16x16`
-<img src="/img/UnityEditor.DeviceSimulation.SimulatorWindow.png" width=16 height=16>
+# UnityEditor.DeviceSimulation.SimulatorWindow@2x `32x32`
+<img src="/img/UnityEditor.DeviceSimulation.SimulatorWindow.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityEditor.DeviceSimulation.SimulatorWindow")
+EditorGUIUtility.IconContent("UnityEditor.DeviceSimulation.SimulatorWindow@2x")
 ```
 ```
-UnityEditor.DeviceSimulation.SimulatorWindow
-```
-```
-50727941134254362
+UnityEditor.DeviceSimulation.SimulatorWindow@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TreeEditor.Leaf")
 ```
 d_TreeEditor.Leaf
 ```
-```
-1380581288001008139
-```

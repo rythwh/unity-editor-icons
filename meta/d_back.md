@@ -1,12 +1,9 @@
-# d_back `9x10`
-<img src="/img/d_back.png" width=9 height=10>
+# d_back@2x `18x20`
+<img src="/img/d_back.png" width=18 height=20>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_back")
+EditorGUIUtility.IconContent("d_back@2x")
 ```
 ```
-d_back
-```
-```
-7491503434607560644
+d_back@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ParticleSystem Gizmo")
 ```
 ParticleSystem Gizmo
 ```
-```
-7081114796348156166
-```

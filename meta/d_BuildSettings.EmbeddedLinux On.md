@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BuildSettings.EmbeddedLinux On")
 ```
 d_BuildSettings.EmbeddedLinux On
 ```
-```
-8499916505504960731
-```

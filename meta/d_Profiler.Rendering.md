@@ -1,12 +1,9 @@
-# d_Profiler.Rendering `16x16`
-<img src="/img/d_Profiler.Rendering.png" width=16 height=16>
+# d_Profiler.Rendering@2x `32x32`
+<img src="/img/d_Profiler.Rendering.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Profiler.Rendering")
+EditorGUIUtility.IconContent("d_Profiler.Rendering@2x")
 ```
 ```
-d_Profiler.Rendering
-```
-```
--1121320922046616461
+d_Profiler.Rendering@2x
 ```

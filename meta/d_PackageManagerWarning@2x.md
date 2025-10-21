@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_PackageManagerWarning@2x")
 ```
 d_PackageManagerWarning@2x
 ```
-```
--6576201691842742763
-```

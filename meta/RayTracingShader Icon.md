@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("RayTracingShader Icon")
 ```
 RayTracingShader Icon
 ```
-```
--9056816370870501821
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TreeEditor.Geometry On")
 ```
 d_TreeEditor.Geometry On
 ```
-```
--3451546583001403165
-```

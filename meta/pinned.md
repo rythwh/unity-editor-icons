@@ -1,12 +1,9 @@
-# pinned `16x16`
-<img src="/img/pinned.png" width=16 height=16>
+# pinned@2x `32x32`
+<img src="/img/pinned.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("pinned")
+EditorGUIUtility.IconContent("pinned@2x")
 ```
 ```
-pinned
-```
-```
-526548446981368317
+pinned@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_animationanimated@2x")
 ```
 d_animationanimated@2x
 ```
-```
--6671771345497075567
-```

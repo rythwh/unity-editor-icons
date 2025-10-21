@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("CollabConflict")
 ```
 CollabConflict
 ```
-```
-7544789595935200320
-```

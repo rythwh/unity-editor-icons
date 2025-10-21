@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Animation.AddKeyframe@2x")
 ```
 Animation.AddKeyframe@2x
 ```
-```
-4928525775237636745
-```

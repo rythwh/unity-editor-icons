@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ConfigurableJoint Icon")
 ```
 d_ConfigurableJoint Icon
 ```
-```
--8365020397241257277
-```

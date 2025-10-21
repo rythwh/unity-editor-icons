@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_CollabDeleted Icon")
 ```
 d_CollabDeleted Icon
 ```
-```
--2741389331091330280
-```

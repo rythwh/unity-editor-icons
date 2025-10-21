@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("FixedJoint Icon")
 ```
 FixedJoint Icon
 ```
-```
--2830969579504933425
-```

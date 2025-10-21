@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Mono-logo@2x")
 ```
 Mono-logo@2x
 ```
-```
--6437743468973249972
-```

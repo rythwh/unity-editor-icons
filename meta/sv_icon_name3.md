@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("sv_icon_name3")
 ```
 sv_icon_name3
 ```
-```
--2763745338608398711
-```

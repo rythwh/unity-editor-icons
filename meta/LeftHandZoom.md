@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("LeftHandZoom")
 ```
 LeftHandZoom
 ```
-```
-1621456644947490004
-```

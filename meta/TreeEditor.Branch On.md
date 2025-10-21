@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TreeEditor.Branch On")
 ```
 TreeEditor.Branch On
 ```
-```
--8387470863034259354
-```

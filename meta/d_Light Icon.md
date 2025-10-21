@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Light Icon")
 ```
 d_Light Icon
 ```
-```
-1992151432481503067
-```

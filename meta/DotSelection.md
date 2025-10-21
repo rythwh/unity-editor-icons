@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("DotSelection")
 ```
 DotSelection
 ```
-```
--3482997569041162315
-```

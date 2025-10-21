@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.Broadcom")
 ```
 BuildSettings.Broadcom
 ```
-```
--2611540343518146177
-```

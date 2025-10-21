@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SaveActive")
 ```
 SaveActive
 ```
-```
-6038088105759262131
-```

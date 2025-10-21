@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PreMatSphere@2x")
 ```
 PreMatSphere@2x
 ```
-```
-8968407494066740625
-```

@@ -1,12 +1,9 @@
-# SceneViewAudio On `16x16`
-<img src="/img/SceneViewAudio%20On.png" width=16 height=16>
+# SceneViewAudio On@2x `32x32`
+<img src="/img/SceneViewAudio%20On.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("SceneViewAudio On")
+EditorGUIUtility.IconContent("SceneViewAudio On@2x")
 ```
 ```
-SceneViewAudio On
-```
-```
--1855887340124226924
+SceneViewAudio On@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AudioRandomContainer Icon")
 ```
 AudioRandomContainer Icon
 ```
-```
--5119258380142732693
-```

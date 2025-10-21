@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_BuildSettings.UnityPlay.Small@2x")
 ```
 d_BuildSettings.UnityPlay.Small@2x
 ```
-```
--5628949815191073608
-```

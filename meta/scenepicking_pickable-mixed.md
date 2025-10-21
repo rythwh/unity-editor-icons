@@ -1,12 +1,9 @@
-# scenepicking_pickable-mixed `16x16`
-<img src="/img/scenepicking_pickable-mixed.png" width=16 height=16>
+# scenepicking_pickable-mixed@2x `32x32`
+<img src="/img/scenepicking_pickable-mixed.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("scenepicking_pickable-mixed")
+EditorGUIUtility.IconContent("scenepicking_pickable-mixed@2x")
 ```
 ```
-scenepicking_pickable-mixed
-```
-```
-1317542991066582104
+scenepicking_pickable-mixed@2x
 ```

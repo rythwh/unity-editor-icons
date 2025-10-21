@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AimConstraint Icon")
 ```
 AimConstraint Icon
 ```
-```
--6936120004838481029
-```

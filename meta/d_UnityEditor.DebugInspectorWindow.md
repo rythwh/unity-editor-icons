@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_UnityEditor.DebugInspectorWindow")
 ```
 d_UnityEditor.DebugInspectorWindow
 ```
-```
--3941822883218600027
-```

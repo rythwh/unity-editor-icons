@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PreTextureArrayFirstSlice")
 ```
 PreTextureArrayFirstSlice
 ```
-```
-7396426441817864781
-```

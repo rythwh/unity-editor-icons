@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_animationnocurve")
 ```
 d_animationnocurve
 ```
-```
-7669471596081897553
-```

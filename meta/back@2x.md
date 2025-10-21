@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("back@2x")
 ```
 back@2x
 ```
-```
--7499749373794679393
-```

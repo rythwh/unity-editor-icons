@@ -1,12 +1,9 @@
-# d_Scene `16x16`
-<img src="/img/d_Scene.png" width=16 height=16>
+# d_Scene@2x `32x32`
+<img src="/img/d_Scene.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Scene")
+EditorGUIUtility.IconContent("d_Scene@2x")
 ```
 ```
-d_Scene
-```
-```
-2727480576448286891
+d_Scene@2x
 ```

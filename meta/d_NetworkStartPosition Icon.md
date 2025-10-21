@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_NetworkStartPosition Icon")
 ```
 d_NetworkStartPosition Icon
 ```
-```
-2412054650234499923
-```

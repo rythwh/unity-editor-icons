@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ClothInspector.PaintValue")
 ```
 ClothInspector.PaintValue
 ```
-```
-2134799571607069742
-```

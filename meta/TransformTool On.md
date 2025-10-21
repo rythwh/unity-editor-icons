@@ -1,12 +1,9 @@
-# TransformTool On `16x16`
-<img src="/img/TransformTool%20On.png" width=16 height=16>
+# TransformTool On@2x `32x32`
+<img src="/img/TransformTool%20On.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("TransformTool On")
+EditorGUIUtility.IconContent("TransformTool On@2x")
 ```
 ```
-TransformTool On
-```
-```
--8507952420120366994
+TransformTool On@2x
 ```

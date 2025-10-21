@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_DefaultSorting@2x")
 ```
 d_DefaultSorting@2x
 ```
-```
--7502076344271459185
-```

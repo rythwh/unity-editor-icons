@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ToggleGroup Icon")
 ```
 d_ToggleGroup Icon
 ```
-```
--785950009248020962
-```

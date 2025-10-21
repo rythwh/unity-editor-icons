@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Profiler.Video@2x")
 ```
 d_Profiler.Video@2x
 ```
-```
--4765946172409673153
-```

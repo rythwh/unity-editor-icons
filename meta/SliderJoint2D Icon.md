@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SliderJoint2D Icon")
 ```
 SliderJoint2D Icon
 ```
-```
--8350450766395354914
-```

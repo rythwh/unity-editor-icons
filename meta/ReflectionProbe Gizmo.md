@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ReflectionProbe Gizmo")
 ```
 ReflectionProbe Gizmo
 ```
-```
--2889492238381746287
-```

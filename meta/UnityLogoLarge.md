@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("UnityLogoLarge")
 ```
 UnityLogoLarge
 ```
-```
-1683457679284534893
-```

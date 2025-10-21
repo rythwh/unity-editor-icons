@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("AssetStore Icon")
 ```
 AssetStore Icon
 ```
-```
-6635635470466451846
-```

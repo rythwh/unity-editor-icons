@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_ToolsIcon")
 ```
 d_ToolsIcon
 ```
-```
--1132492110180558443
-```

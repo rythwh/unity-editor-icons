@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TableView@2x")
 ```
 TableView@2x
 ```
-```
-622256516570211331
-```

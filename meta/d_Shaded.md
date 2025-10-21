@@ -1,12 +1,9 @@
-# d_Shaded `16x16`
-<img src="/img/d_Shaded.png" width=16 height=16>
+# d_Shaded@2x `32x32`
+<img src="/img/d_Shaded.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Shaded")
+EditorGUIUtility.IconContent("d_Shaded@2x")
 ```
 ```
-d_Shaded
-```
-```
--2055810594170377367
+d_Shaded@2x
 ```

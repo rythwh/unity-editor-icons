@@ -1,12 +1,9 @@
-# False `16x16`
-<img src="/img/False.png" width=16 height=16>
+# False@2x `32x32`
+<img src="/img/False.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("False")
+EditorGUIUtility.IconContent("False@2x")
 ```
 ```
-False
-```
-```
-7179845716301739986
+False@2x
 ```

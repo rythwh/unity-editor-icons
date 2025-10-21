@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_DragArrow@2x")
 ```
 d_DragArrow@2x
 ```
-```
-1646394057496694136
-```

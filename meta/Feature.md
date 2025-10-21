@@ -1,12 +1,9 @@
-# Feature `16x16`
-<img src="/img/Feature.png" width=16 height=16>
+# Feature@2x `32x32`
+<img src="/img/Feature.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Feature")
+EditorGUIUtility.IconContent("Feature@2x")
 ```
 ```
-Feature
-```
-```
-9171591155536988804
+Feature@2x
 ```

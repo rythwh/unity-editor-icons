@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_more@2x")
 ```
 d_more@2x
 ```
-```
--7422087095206698823
-```

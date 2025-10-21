@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_SceneViewOrtho")
 ```
 d_SceneViewOrtho
 ```
-```
-5153128777763766899
-```

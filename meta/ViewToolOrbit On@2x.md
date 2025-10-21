@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ViewToolOrbit On@2x")
 ```
 ViewToolOrbit On@2x
 ```
-```
-3356546887426091576
-```

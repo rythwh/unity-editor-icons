@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_Image Icon")
 ```
 d_Image Icon
 ```
-```
--7820287865973605492
-```

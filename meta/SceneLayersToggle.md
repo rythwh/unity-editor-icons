@@ -1,12 +1,9 @@
-# SceneLayersToggle `16x16`
-<img src="/img/SceneLayersToggle.png" width=16 height=16>
+# SceneLayersToggle@2x `32x32`
+<img src="/img/SceneLayersToggle.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("SceneLayersToggle")
+EditorGUIUtility.IconContent("SceneLayersToggle@2x")
 ```
 ```
-SceneLayersToggle
-```
-```
--8479566021647698010
+SceneLayersToggle@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Import-Button@2x")
 ```
 Import-Button@2x
 ```
-```
--1736467144975015854
-```

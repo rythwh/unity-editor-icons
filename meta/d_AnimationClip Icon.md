@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_AnimationClip Icon")
 ```
 d_AnimationClip Icon
 ```
-```
--3945805152363740611
-```

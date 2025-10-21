@@ -1,12 +1,9 @@
-# d_console.warnicon.inactive.sml `16x16`
-<img src="/img/d_console.warnicon.inactive.sml.png" width=16 height=16>
+# d_console.warnicon.inactive.sml@2x `32x32`
+<img src="/img/d_console.warnicon.inactive.sml.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_console.warnicon.inactive.sml")
+EditorGUIUtility.IconContent("d_console.warnicon.inactive.sml@2x")
 ```
 ```
-d_console.warnicon.inactive.sml
-```
-```
-8751020510356332213
+d_console.warnicon.inactive.sml@2x
 ```

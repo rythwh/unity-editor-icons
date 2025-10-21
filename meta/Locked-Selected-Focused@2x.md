@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Locked-Selected-Focused@2x")
 ```
 Locked-Selected-Focused@2x
 ```
-```
-1385312420074332423
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("ReflectionProbe Icon")
 ```
 ReflectionProbe Icon
 ```
-```
--3076085332970660798
-```

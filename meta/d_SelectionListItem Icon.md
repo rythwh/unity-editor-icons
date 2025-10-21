@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_SelectionListItem Icon")
 ```
 d_SelectionListItem Icon
 ```
-```
--9025782951813179121
-```

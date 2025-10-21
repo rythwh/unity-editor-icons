@@ -1,12 +1,9 @@
-# NormalBlendDistance `16x16`
-<img src="/img/NormalBlendDistance.png" width=16 height=16>
+# NormalBlendDistance@2x `32x32`
+<img src="/img/NormalBlendDistance.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("NormalBlendDistance")
+EditorGUIUtility.IconContent("NormalBlendDistance@2x")
 ```
 ```
-NormalBlendDistance
-```
-```
-4594524772408933848
+NormalBlendDistance@2x
 ```

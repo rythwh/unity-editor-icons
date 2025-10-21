@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_beginButton")
 ```
 d_beginButton
 ```
-```
--8634218779858824612
-```

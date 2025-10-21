@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("FilterSelectedOnly@2x")
 ```
 FilterSelectedOnly@2x
 ```
-```
-4255200989265145760
-```

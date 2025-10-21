@@ -1,12 +1,9 @@
-# Feature-Selected `16x16`
-<img src="/img/Feature-Selected.png" width=16 height=16>
+# Feature-Selected@2x `32x32`
+<img src="/img/Feature-Selected.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Feature-Selected")
+EditorGUIUtility.IconContent("Feature-Selected@2x")
 ```
 ```
-Feature-Selected
-```
-```
--9191798353000785765
+Feature-Selected@2x
 ```

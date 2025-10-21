@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Grid Icon")
 ```
 Grid Icon
 ```
-```
--6189111279697128761
-```

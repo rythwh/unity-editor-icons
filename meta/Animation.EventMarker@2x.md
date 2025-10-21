@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Animation.EventMarker@2x")
 ```
 Animation.EventMarker@2x
 ```
-```
-363374367590188809
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("BuildSettings.Lumin@2x")
 ```
 BuildSettings.Lumin@2x
 ```
-```
--5166817344748110915
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("PrefabModel Icon")
 ```
 PrefabModel Icon
 ```
-```
-2654186429131687520
-```

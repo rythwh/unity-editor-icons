@@ -1,12 +1,9 @@
-# d_ViewToolMove On `16x16`
-<img src="/img/d_ViewToolMove%20On.png" width=16 height=16>
+# d_ViewToolMove On@2x `32x32`
+<img src="/img/d_ViewToolMove%20On.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_ViewToolMove On")
+EditorGUIUtility.IconContent("d_ViewToolMove On@2x")
 ```
 ```
-d_ViewToolMove On
-```
-```
-2212978449242124751
+d_ViewToolMove On@2x
 ```

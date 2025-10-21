@@ -1,12 +1,9 @@
-# Exposure `16x16`
-<img src="/img/Exposure.png" width=16 height=16>
+# Exposure@2x `32x32`
+<img src="/img/Exposure.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Exposure")
+EditorGUIUtility.IconContent("Exposure@2x")
 ```
 ```
-Exposure
-```
-```
-4855708316991231517
+Exposure@2x
 ```

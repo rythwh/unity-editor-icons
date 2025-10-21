@@ -1,12 +1,9 @@
-# d_toggle_searcher_preview_on `32x32`
-<img src="/img/d_toggle_searcher_preview_on.png" width=32 height=32>
+# d_toggle_searcher_preview_on@2x `64x64`
+<img src="/img/d_toggle_searcher_preview_on.png" width=64 height=64>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_toggle_searcher_preview_on")
+EditorGUIUtility.IconContent("d_toggle_searcher_preview_on@2x")
 ```
 ```
-d_toggle_searcher_preview_on
-```
-```
--5146160500611732228
+d_toggle_searcher_preview_on@2x
 ```

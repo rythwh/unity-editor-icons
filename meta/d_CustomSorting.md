@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_CustomSorting")
 ```
 d_CustomSorting
 ```
-```
-395480234370563609
-```

@@ -1,12 +1,9 @@
-# OrientationGizmo `16x16`
-<img src="/img/OrientationGizmo.png" width=16 height=16>
+# OrientationGizmo@2x `32x32`
+<img src="/img/OrientationGizmo.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("OrientationGizmo")
+EditorGUIUtility.IconContent("OrientationGizmo@2x")
 ```
 ```
-OrientationGizmo
-```
-```
--7183629658564907559
+OrientationGizmo@2x
 ```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_FolderFavorite Icon")
 ```
 d_FolderFavorite Icon
 ```
-```
-4616454996492591864
-```

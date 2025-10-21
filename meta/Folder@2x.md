@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Folder@2x")
 ```
 Folder@2x
 ```
-```
--8177638703615854856
-```

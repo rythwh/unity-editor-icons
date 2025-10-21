@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Filter Icon")
 ```
 Filter Icon
 ```
-```
--6292024651731497822
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TerrainData Icon")
 ```
 d_TerrainData Icon
 ```
-```
-2601119426399001557
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_CapsuleCollider Icon")
 ```
 d_CapsuleCollider Icon
 ```
-```
-4324838011611431935
-```

@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("RepaintDot@2x")
 ```
 RepaintDot@2x
 ```
-```
-1793313804112720323
-```

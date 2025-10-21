@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Mirror")
 ```
 Mirror
 ```
-```
--1939442913395969536
-```

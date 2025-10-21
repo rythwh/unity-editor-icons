@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("curvekeyframesemiselectedoverlay@2x")
 ```
 curvekeyframesemiselectedoverlay@2x
 ```
-```
-7164663534835563533
-```

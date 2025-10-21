@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("TreeEditor.LeafScale On")
 ```
 TreeEditor.LeafScale On
 ```
-```
--9177410177553248628
-```

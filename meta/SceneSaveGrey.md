@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SceneSaveGrey")
 ```
 SceneSaveGrey
 ```
-```
-7933853465265390049
-```

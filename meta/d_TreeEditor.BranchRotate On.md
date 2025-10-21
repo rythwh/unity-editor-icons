@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("d_TreeEditor.BranchRotate On")
 ```
 d_TreeEditor.BranchRotate On
 ```
-```
-735432558237851804
-```

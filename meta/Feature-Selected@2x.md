@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("Feature-Selected@2x")
 ```
 Feature-Selected@2x
 ```
-```
--2049177008327960789
-```

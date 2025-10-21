@@ -7,6 +7,3 @@ EditorGUIUtility.IconContent("SceneViewSnap@2x")
 ```
 SceneViewSnap@2x
 ```
-```
--7415950834163874332
-```
