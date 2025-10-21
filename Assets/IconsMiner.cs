@@ -95,7 +95,7 @@ public static class IconsMiner
 
 					const int maxSize = 64;
 					float largest = Mathf.Max(icon.width, icon.height);
-					float scale = maxSize / largest;
+					float scale = (Mathf.Min(largest, maxSize)) / largest;
 
 					int targetWidth = Mathf.Max(1, Mathf.RoundToInt(icon.width * scale));
 					int targetHeight = Mathf.Max(1, Mathf.RoundToInt(icon.height * scale));
