@@ -1,0 +1,12 @@
+# MouseMiddle `16x16`
+<img src="/img/MouseMiddle.png" width=16 height=16>
+
+``` CSharp
+EditorGUIUtility.IconContent("MouseMiddle")
+```
+```
+MouseMiddle
+```
+```
+8380945560797679063
+```
