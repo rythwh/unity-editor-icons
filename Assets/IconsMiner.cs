@@ -45,7 +45,7 @@ public static class IconsMiner
 			readmeBuilder.AppendLine($"| Icon | Name | File ID |");
 			readmeBuilder.AppendLine($"|------|------|---------|");
 
-			string[] assetNames = EnumerateIcons(editorAssetBundle, iconsPath).ToArray();
+			string[] assetNames = EnumerateIcons(editorAssetBundle, iconsPath).OrderBy(n => n).ToArray();
 			string iconsDirectoryPath = Path.Combine("img");
 			string descriptionsDirectoryPath = Path.Combine("meta");
 
@@ -56,16 +56,28 @@ public static class IconsMiner
 				Directory.CreateDirectory(descriptionsDirectoryPath);
 			}
 
-			for (int i = 0; i < assetNames.Length; i++) {
+			List<string> assetNamesFiltered = assetNames
+				.GroupBy(name => {
+					int dot = name.LastIndexOf('.');
+					string stem = dot >= 0 ? name.Substring(0, dot) : name;
+					string ext = dot >= 0 ? name.Substring(dot) : string.Empty;
+					string baseStem = stem.EndsWith("@2x", StringComparison.OrdinalIgnoreCase) ? stem.Substring(0, stem.Length - 3) : stem;
+					return baseStem + ext; // key: base name with original extension
+				}, StringComparer.OrdinalIgnoreCase)
+				.Select(group => group.FirstOrDefault(IsRetina) ?? group.First())
+				.OrderBy(name => name, StringComparer.OrdinalIgnoreCase)
+				.ToList();
+
+			for (int i = 0; i < assetNamesFiltered.Count; i++) {
 				try {
-					string assetName = assetNames[i];
+					string assetName = assetNamesFiltered[i];
 					Texture2D icon = editorAssetBundle.LoadAsset<Texture2D>(assetName);
 
 					if (!icon && icon.isReadable) {
 						continue;
 					}
 
-					EditorUtility.DisplayProgressBar($"Generate {readme}", $"Generating... ({i + 1}/{assetNames.Length})", (float)i / assetNames.Length);
+					EditorUtility.DisplayProgressBar($"Generate {readme}", $"Generating... ({i + 1}/{assetNamesFiltered.Count})", (float)i / assetNamesFiltered.Count);
 
 					Texture2D readableTexture = new(icon.width, icon.height, icon.format, icon.mipmapCount > 1);
 					Graphics.CopyTexture(icon, readableTexture);
@@ -214,5 +226,12 @@ public static class IconsMiner
 
 		// You can destroy the copy if you’re creating many to avoid leaking.
 		Object.DestroyImmediate(copy);
+	}
+
+	private static bool IsRetina(string name)
+	{
+		int dot = name.LastIndexOf('.');
+		string stem = dot >= 0 ? name.Substring(0, dot) : name;
+		return stem.EndsWith("@2x", StringComparison.OrdinalIgnoreCase);
 	}
 }
