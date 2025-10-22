@@ -1,9 +1,9 @@
-# more `16x16`
-<img src="/img/more.png" width=16 height=16>
+# More `16x17`
+<img src="/img/More.png" width=16 height=17>
 
 ``` CSharp
-EditorGUIUtility.IconContent("more")
+EditorGUIUtility.IconContent("More")
 ```
 ```
-more
+More
 ```

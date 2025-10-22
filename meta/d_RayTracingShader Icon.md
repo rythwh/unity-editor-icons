@@ -1,9 +1,9 @@
-# d_RaytracingShader Icon `256x256`
-<img src="/img/d_RaytracingShader%20Icon.png" width=256 height=256>
+# d_RayTracingShader Icon `256x256`
+<img src="/img/d_RayTracingShader%20Icon.png" width=256 height=256>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_RaytracingShader Icon")
+EditorGUIUtility.IconContent("d_RayTracingShader Icon")
 ```
 ```
-d_RaytracingShader Icon
+d_RayTracingShader Icon
 ```

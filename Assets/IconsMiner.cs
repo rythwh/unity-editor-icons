@@ -79,8 +79,8 @@ public static class IconsMiner
 				},
 				StringComparer.OrdinalIgnoreCase)
 			.Select(group => group.OrderByDescending(g => g))
-			.OrderBy(group => group.First())
-			.Select(group => (editorAssetBundle.LoadAsset<Texture2D>(group.FirstOrDefault(IsRetina) ?? group.First()), group.Count() > 1 ? editorAssetBundle.LoadAsset<Texture2D>(group.Skip(1).FirstOrDefault()) : null))
+			.Select(group => GetTexturePair(editorAssetBundle, group.ToList()))
+			.OrderBy(group => group.Item1.name)
 			.ToList();
 
 		foreach ((Texture2D defaultIcon, Texture2D smallIcon) in icons) {
@@ -106,7 +106,7 @@ public static class IconsMiner
 
 				string smallIconDescriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{smallIconName}.md"), smallIconPath, smallIcon);
 
-				smallIconOutput = $"[<img src=\"{smallIconPath}.png\" width={targetWidth / 2f} height={targetHeight / 2f} title=\"{smallIconName}\">]({smallIconDescriptionFilePath})";
+				smallIconOutput = $"[<img src=\"{smallIconPath}\" width={targetWidth / 2f} height={targetHeight / 2f} title=\"{smallIconName}\">]({smallIconDescriptionFilePath})";
 			}
 
 			string retinaIconOutput = $"[<img src=\"{iconPath}\" width={targetWidth} height={targetHeight} title=\"{defaultIcon.name}\">]({descriptionFilePath})";
@@ -117,6 +117,14 @@ public static class IconsMiner
 		File.WriteAllText(readme, readmeBuilder.ToString());
 
 		Debug.Log($"'{readme}' is generated.");
+	}
+
+	private static (Texture2D, Texture2D) GetTexturePair(AssetBundle editorAssetBundle, List<string> group)
+	{
+		return (
+			editorAssetBundle.LoadAsset<Texture2D>(group.FirstOrDefault(IsRetina) ?? group.First()),
+			group.Count > 1 ? editorAssetBundle.LoadAsset<Texture2D>(group.Skip(1).FirstOrDefault()) : null
+		);
 	}
 
 	private static string WriteIconDescriptionFile(string path, string pathToIcon, Texture2D icon)
