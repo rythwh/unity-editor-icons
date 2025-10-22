@@ -1,9 +1,9 @@
-# Animation.NextKey@2x `32x32`
-<img src="/img/Animation.NextKey.png" width=32 height=32>
+# Animation.NextKey `16x16`
+<img src="/img/Animation.NextKey.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Animation.NextKey@2x")
+EditorGUIUtility.IconContent("Animation.NextKey")
 ```
 ```
-Animation.NextKey@2x
+Animation.NextKey
 ```

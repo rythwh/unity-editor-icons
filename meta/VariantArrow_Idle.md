@@ -1,9 +1,9 @@
-# VariantArrow_Idle@2x `10x10`
-<img src="/img/VariantArrow_Idle.png" width=10 height=10>
+# VariantArrow_Idle `5x5`
+<img src="/img/VariantArrow_Idle.png" width=5 height=5>
 
 ``` CSharp
-EditorGUIUtility.IconContent("VariantArrow_Idle@2x")
+EditorGUIUtility.IconContent("VariantArrow_Idle")
 ```
 ```
-VariantArrow_Idle@2x
+VariantArrow_Idle
 ```

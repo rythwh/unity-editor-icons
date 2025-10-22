@@ -1,9 +1,9 @@
-# Profiler.Video@2x `32x32`
-<img src="/img/Profiler.Video.png" width=32 height=32>
+# Profiler.Video `16x16`
+<img src="/img/Profiler.Video.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Profiler.Video@2x")
+EditorGUIUtility.IconContent("Profiler.Video")
 ```
 ```
-Profiler.Video@2x
+Profiler.Video
 ```

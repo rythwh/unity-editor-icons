@@ -1,9 +1,9 @@
-# d_SceneViewFX On@2x `32x32`
-<img src="/img/d_SceneViewFX%20On.png" width=32 height=32>
+# d_SceneViewFx On `16x16`
+<img src="/img/d_SceneViewFx%20On.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_SceneViewFX On@2x")
+EditorGUIUtility.IconContent("d_SceneViewFx On")
 ```
 ```
-d_SceneViewFX On@2x
+d_SceneViewFx On
 ```

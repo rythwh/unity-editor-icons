@@ -1,9 +1,9 @@
-# Unlocked@2x `32x32`
-<img src="/img/Unlocked.png" width=32 height=32>
+# Unlocked `16x16`
+<img src="/img/Unlocked.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Unlocked@2x")
+EditorGUIUtility.IconContent("Unlocked")
 ```
 ```
-Unlocked@2x
+Unlocked
 ```

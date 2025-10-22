@@ -1,9 +1,9 @@
-# Custom@2x `32x32`
-<img src="/img/Custom.png" width=32 height=32>
+# Custom `16x16`
+<img src="/img/Custom.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Custom@2x")
+EditorGUIUtility.IconContent("Custom")
 ```
 ```
-Custom@2x
+Custom
 ```

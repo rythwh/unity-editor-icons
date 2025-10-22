@@ -1,9 +1,9 @@
-# d_Preset.Current@2x `32x32`
-<img src="/img/d_Preset.Current.png" width=32 height=32>
+# d_Preset.Current `16x16`
+<img src="/img/d_Preset.Current.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Preset.Current@2x")
+EditorGUIUtility.IconContent("d_Preset.Current")
 ```
 ```
-d_Preset.Current@2x
+d_Preset.Current
 ```

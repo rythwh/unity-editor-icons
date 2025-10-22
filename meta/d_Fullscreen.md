@@ -1,9 +1,9 @@
-# d_Fullscreen@2x `32x32`
-<img src="/img/d_Fullscreen.png" width=32 height=32>
+# d_Fullscreen `16x16`
+<img src="/img/d_Fullscreen.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Fullscreen@2x")
+EditorGUIUtility.IconContent("d_Fullscreen")
 ```
 ```
-d_Fullscreen@2x
+d_Fullscreen
 ```

@@ -1,9 +1,9 @@
-# SceneViewVisibility On@2x `32x32`
-<img src="/img/SceneViewVisibility%20On.png" width=32 height=32>
+# SceneViewVisibility On `16x16`
+<img src="/img/SceneViewVisibility%20On.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("SceneViewVisibility On@2x")
+EditorGUIUtility.IconContent("SceneViewVisibility On")
 ```
 ```
-SceneViewVisibility On@2x
+SceneViewVisibility On
 ```

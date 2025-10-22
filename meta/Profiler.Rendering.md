@@ -1,9 +1,9 @@
-# Profiler.Rendering@2x `32x32`
-<img src="/img/Profiler.Rendering.png" width=32 height=32>
+# Profiler.Rendering `16x16`
+<img src="/img/Profiler.Rendering.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Profiler.Rendering@2x")
+EditorGUIUtility.IconContent("Profiler.Rendering")
 ```
 ```
-Profiler.Rendering@2x
+Profiler.Rendering
 ```

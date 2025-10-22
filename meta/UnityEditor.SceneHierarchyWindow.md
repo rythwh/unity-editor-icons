@@ -1,9 +1,9 @@
-# UnityEditor.SceneHierarchyWindow@2x `32x32`
-<img src="/img/UnityEditor.SceneHierarchyWindow.png" width=32 height=32>
+# UnityEditor.SceneHierarchyWindow `16x16`
+<img src="/img/UnityEditor.SceneHierarchyWindow.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityEditor.SceneHierarchyWindow@2x")
+EditorGUIUtility.IconContent("UnityEditor.SceneHierarchyWindow")
 ```
 ```
-UnityEditor.SceneHierarchyWindow@2x
+UnityEditor.SceneHierarchyWindow
 ```

@@ -1,9 +1,9 @@
-# TerrainInspector.TerrainToolSplat@2x `32x32`
-<img src="/img/TerrainInspector.TerrainToolSplat.png" width=32 height=32>
+# TerrainInspector.TerrainToolSplat `16x16`
+<img src="/img/TerrainInspector.TerrainToolSplat.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("TerrainInspector.TerrainToolSplat@2x")
+EditorGUIUtility.IconContent("TerrainInspector.TerrainToolSplat")
 ```
 ```
-TerrainInspector.TerrainToolSplat@2x
+TerrainInspector.TerrainToolSplat
 ```

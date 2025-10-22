@@ -1,9 +1,9 @@
-# d_AvatarSelector@2x `32x32`
-<img src="/img/d_AvatarSelector.png" width=32 height=32>
+# d_AvatarSelector `16x16`
+<img src="/img/d_AvatarSelector.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_AvatarSelector@2x")
+EditorGUIUtility.IconContent("d_AvatarSelector")
 ```
 ```
-d_AvatarSelector@2x
+d_AvatarSelector
 ```

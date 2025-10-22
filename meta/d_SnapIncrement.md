@@ -1,9 +1,9 @@
-# d_SnapIncrement@2x `32x32`
-<img src="/img/d_SnapIncrement.png" width=32 height=32>
+# d_SnapIncrement `16x16`
+<img src="/img/d_SnapIncrement.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_SnapIncrement@2x")
+EditorGUIUtility.IconContent("d_SnapIncrement")
 ```
 ```
-d_SnapIncrement@2x
+d_SnapIncrement
 ```

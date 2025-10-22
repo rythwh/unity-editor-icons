@@ -1,9 +1,9 @@
-# blendKeyOverlay@2x `32x32`
-<img src="/img/blendKeyOverlay.png" width=32 height=32>
+# blendKeyOverlay `16x16`
+<img src="/img/blendKeyOverlay.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("blendKeyOverlay@2x")
+EditorGUIUtility.IconContent("blendKeyOverlay")
 ```
 ```
-blendKeyOverlay@2x
+blendKeyOverlay
 ```

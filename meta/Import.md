@@ -1,9 +1,9 @@
-# Import@2x `32x32`
-<img src="/img/Import.png" width=32 height=32>
+# Import `16x16`
+<img src="/img/Import.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Import@2x")
+EditorGUIUtility.IconContent("Import")
 ```
 ```
-Import@2x
+Import
 ```

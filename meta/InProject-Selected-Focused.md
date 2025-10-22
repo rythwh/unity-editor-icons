@@ -1,9 +1,9 @@
-# InProject-Selected-Focused@2x `32x32`
-<img src="/img/InProject-Selected-Focused.png" width=32 height=32>
+# InProject-Selected-Focused `16x16`
+<img src="/img/InProject-Selected-Focused.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("InProject-Selected-Focused@2x")
+EditorGUIUtility.IconContent("InProject-Selected-Focused")
 ```
 ```
-InProject-Selected-Focused@2x
+InProject-Selected-Focused
 ```

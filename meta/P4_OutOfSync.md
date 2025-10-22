@@ -1,9 +1,9 @@
-# P4_OutOfSync@2x `32x32`
-<img src="/img/P4_OutOfSync.png" width=32 height=32>
+# P4_OutOfSync `16x16`
+<img src="/img/P4_OutOfSync.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("P4_OutOfSync@2x")
+EditorGUIUtility.IconContent("P4_OutOfSync")
 ```
 ```
-P4_OutOfSync@2x
+P4_OutOfSync
 ```

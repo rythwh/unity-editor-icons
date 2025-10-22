@@ -1,9 +1,9 @@
-# d_UnityEditor.InspectorWindow@2x `32x32`
-<img src="/img/d_UnityEditor.InspectorWindow.png" width=32 height=32>
+# d_UnityEditor.InspectorWindow `16x16`
+<img src="/img/d_UnityEditor.InspectorWindow.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_UnityEditor.InspectorWindow@2x")
+EditorGUIUtility.IconContent("d_UnityEditor.InspectorWindow")
 ```
 ```
-d_UnityEditor.InspectorWindow@2x
+d_UnityEditor.InspectorWindow
 ```

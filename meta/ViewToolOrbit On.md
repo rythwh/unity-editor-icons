@@ -1,9 +1,9 @@
-# ViewToolOrbit On@2x `32x32`
-<img src="/img/ViewToolOrbit%20On.png" width=32 height=32>
+# ViewToolOrbit On `16x16`
+<img src="/img/ViewToolOrbit%20On.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("ViewToolOrbit On@2x")
+EditorGUIUtility.IconContent("ViewToolOrbit On")
 ```
 ```
-ViewToolOrbit On@2x
+ViewToolOrbit On
 ```

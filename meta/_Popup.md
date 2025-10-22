@@ -1,9 +1,9 @@
-# _Popup@2x `32x32`
-<img src="/img/_Popup.png" width=32 height=32>
+# _Popup `16x16`
+<img src="/img/_Popup.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("_Popup@2x")
+EditorGUIUtility.IconContent("_Popup")
 ```
 ```
-_Popup@2x
+_Popup
 ```

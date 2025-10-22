@@ -1,9 +1,9 @@
-# BuildSettings.Stadia On@2x `64x64`
-<img src="/img/BuildSettings.Stadia%20On.png" width=64 height=64>
+# BuildSettings.Stadia On `32x32`
+<img src="/img/BuildSettings.Stadia%20On.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.Stadia On@2x")
+EditorGUIUtility.IconContent("BuildSettings.Stadia On")
 ```
 ```
-BuildSettings.Stadia On@2x
+BuildSettings.Stadia On
 ```

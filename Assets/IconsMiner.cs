@@ -68,7 +68,7 @@ public static class IconsMiner
 		}
 
 		// Filter icons to only keep @2x (retina) icons - to have a shorter list
-		List<(Texture2D retinaIcon, Texture2D smallIcon)> icons = assetNames
+		List<(Texture2D defaultIcon, Texture2D smallIcon)> icons = assetNames
 			.GroupBy(
 				name => {
 					int dot = name.LastIndexOf('.');
@@ -78,20 +78,22 @@ public static class IconsMiner
 					return baseStem + ext; // key: base name with original extension
 				},
 				StringComparer.OrdinalIgnoreCase)
+			.Select(group => group.OrderByDescending(g => g))
+			.OrderBy(group => group.First())
 			.Select(group => (editorAssetBundle.LoadAsset<Texture2D>(group.FirstOrDefault(IsRetina) ?? group.First()), group.Count() > 1 ? editorAssetBundle.LoadAsset<Texture2D>(group.Skip(1).FirstOrDefault()) : null))
 			.ToList();
 
-		foreach ((Texture2D icon, Texture2D smallIcon) in icons) {
-			string iconPath = Path.Combine(iconsDirectoryPath, $"{icon.name}.png");
+		foreach ((Texture2D defaultIcon, Texture2D smallIcon) in icons) {
+			string iconPath = Path.Combine(iconsDirectoryPath, $"{defaultIcon.name}.png");
 			iconPath = iconPath.Replace(" ", "%20").Replace('\\', '/');
 
-			string descriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon);
+			string descriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{defaultIcon.name}.md"), iconPath, defaultIcon);
 
 			const int maxSize = 64;
-			float largest = Mathf.Max(icon.width, icon.height);
+			float largest = Mathf.Max(defaultIcon.width, defaultIcon.height);
 			float scale = Mathf.Min(largest, maxSize) / largest;
-			int targetWidth = Mathf.Max(1, Mathf.RoundToInt(icon.width * scale));
-			int targetHeight = Mathf.Max(1, Mathf.RoundToInt(icon.height * scale));
+			int targetWidth = Mathf.Max(1, Mathf.RoundToInt(defaultIcon.width * scale));
+			int targetHeight = Mathf.Max(1, Mathf.RoundToInt(defaultIcon.height * scale));
 
 			string smallIconName = string.Empty;
 			string smallIconOutput = string.Empty;
@@ -104,11 +106,11 @@ public static class IconsMiner
 
 				string smallIconDescriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{smallIconName}.md"), smallIconPath, smallIcon);
 
-				smallIconOutput = $"[<img src=\"{smallIconName}.png\" width={targetWidth / 2f} height={targetHeight / 2f} title=\"{smallIconName}\">]({smallIconDescriptionFilePath})";
+				smallIconOutput = $"[<img src=\"{smallIconPath}.png\" width={targetWidth / 2f} height={targetHeight / 2f} title=\"{smallIconName}\">]({smallIconDescriptionFilePath})";
 			}
 
-			string retinaIconOutput = $"[<img src=\"{iconPath}\" width={targetWidth} height={targetHeight} title=\"{icon.name}\">]({descriptionFilePath})";
-			readmeBuilder.AppendLine($"| {retinaIconOutput}{(!string.IsNullOrWhiteSpace(smallIconOutput) ? $" {smallIconOutput}" : string.Empty)} | `{icon.name}`{(!string.IsNullOrWhiteSpace(smallIconName) ? $" `{smallIconName}`" : string.Empty)} |");
+			string retinaIconOutput = $"[<img src=\"{iconPath}\" width={targetWidth} height={targetHeight} title=\"{defaultIcon.name}\">]({descriptionFilePath})";
+			readmeBuilder.AppendLine($"| {retinaIconOutput}{(!string.IsNullOrWhiteSpace(smallIconOutput) ? $" {smallIconOutput}" : string.Empty)} | `{defaultIcon.name}`{(!string.IsNullOrWhiteSpace(smallIconName) ? $" `{smallIconName}`" : string.Empty)} |");
 		}
 
 		readmeBuilder.AppendLine("\n\n\n*Original script author [@halak](https://github.com/halak)*");

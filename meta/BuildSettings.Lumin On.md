@@ -1,9 +1,9 @@
-# BuildSettings.Lumin On@2x `64x64`
-<img src="/img/BuildSettings.Lumin%20On.png" width=64 height=64>
+# BuildSettings.Lumin On `32x32`
+<img src="/img/BuildSettings.Lumin%20On.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.Lumin On@2x")
+EditorGUIUtility.IconContent("BuildSettings.Lumin On")
 ```
 ```
-BuildSettings.Lumin On@2x
+BuildSettings.Lumin On
 ```

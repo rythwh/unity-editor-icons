@@ -1,9 +1,9 @@
-# GameViewAudio@2x `32x32`
-<img src="/img/GameViewAudio.png" width=32 height=32>
+# GameViewAudio `16x16`
+<img src="/img/GameViewAudio.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("GameViewAudio@2x")
+EditorGUIUtility.IconContent("GameViewAudio")
 ```
 ```
-GameViewAudio@2x
+GameViewAudio
 ```

@@ -1,9 +1,9 @@
-# d_GreenCheckmark@2x `32x32`
-<img src="/img/d_GreenCheckmark.png" width=32 height=32>
+# d_GreenCheckmark `16x16`
+<img src="/img/d_GreenCheckmark.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_GreenCheckmark@2x")
+EditorGUIUtility.IconContent("d_GreenCheckmark")
 ```
 ```
-d_GreenCheckmark@2x
+d_GreenCheckmark
 ```

@@ -1,9 +1,9 @@
-# d_GridAxisY@2x `32x32`
-<img src="/img/d_GridAxisY.png" width=32 height=32>
+# d_GridAxisY `16x16`
+<img src="/img/d_GridAxisY.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_GridAxisY@2x")
+EditorGUIUtility.IconContent("d_GridAxisY")
 ```
 ```
-d_GridAxisY@2x
+d_GridAxisY
 ```

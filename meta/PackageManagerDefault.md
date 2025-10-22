@@ -1,9 +1,9 @@
-# PackageManagerDefault@2x `32x32`
-<img src="/img/PackageManagerDefault.png" width=32 height=32>
+# PackageManagerDefault `16x16`
+<img src="/img/PackageManagerDefault.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("PackageManagerDefault@2x")
+EditorGUIUtility.IconContent("PackageManagerDefault")
 ```
 ```
-PackageManagerDefault@2x
+PackageManagerDefault
 ```

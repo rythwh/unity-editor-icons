@@ -1,9 +1,9 @@
-# UndoHistory@2x `32x32`
-<img src="/img/UndoHistory.png" width=32 height=32>
+# UndoHistory `16x16`
+<img src="/img/UndoHistory.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UndoHistory@2x")
+EditorGUIUtility.IconContent("UndoHistory")
 ```
 ```
-UndoHistory@2x
+UndoHistory
 ```

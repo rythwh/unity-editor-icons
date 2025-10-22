@@ -1,9 +1,9 @@
-# PreMatQuad@2x `32x32`
-<img src="/img/PreMatQuad.png" width=32 height=32>
+# PreMatQuad `16x16`
+<img src="/img/PreMatQuad.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("PreMatQuad@2x")
+EditorGUIUtility.IconContent("PreMatQuad")
 ```
 ```
-PreMatQuad@2x
+PreMatQuad
 ```

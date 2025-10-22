@@ -1,9 +1,9 @@
-# Profiler.GPU@2x `32x32`
-<img src="/img/Profiler.GPU.png" width=32 height=32>
+# Profiler.GPU `16x16`
+<img src="/img/Profiler.GPU.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Profiler.GPU@2x")
+EditorGUIUtility.IconContent("Profiler.GPU")
 ```
 ```
-Profiler.GPU@2x
+Profiler.GPU
 ```

@@ -1,9 +1,9 @@
-# console.infoicon.inactive.sml@2x `32x32`
-<img src="/img/console.infoicon.inactive.sml.png" width=32 height=32>
+# console.infoicon.inactive.sml `16x16`
+<img src="/img/console.infoicon.inactive.sml.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("console.infoicon.inactive.sml@2x")
+EditorGUIUtility.IconContent("console.infoicon.inactive.sml")
 ```
 ```
-console.infoicon.inactive.sml@2x
+console.infoicon.inactive.sml
 ```

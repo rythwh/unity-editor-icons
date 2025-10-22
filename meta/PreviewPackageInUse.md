@@ -1,9 +1,9 @@
-# PreviewPackageInUse@2x `32x32`
-<img src="/img/PreviewPackageInUse.png" width=32 height=32>
+# PreviewPackageInUse `16x16`
+<img src="/img/PreviewPackageInUse.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("PreviewPackageInUse@2x")
+EditorGUIUtility.IconContent("PreviewPackageInUse")
 ```
 ```
-PreviewPackageInUse@2x
+PreviewPackageInUse
 ```

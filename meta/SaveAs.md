@@ -1,9 +1,9 @@
-# SaveAs@2x `32x32`
-<img src="/img/SaveAs.png" width=32 height=32>
+# SaveAs `16x16`
+<img src="/img/SaveAs.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("SaveAs@2x")
+EditorGUIUtility.IconContent("SaveAs")
 ```
 ```
-SaveAs@2x
+SaveAs
 ```

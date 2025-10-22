@@ -1,9 +1,9 @@
-# Invalid@2x `32x32`
-<img src="/img/Invalid.png" width=32 height=32>
+# Invalid `16x16`
+<img src="/img/Invalid.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Invalid@2x")
+EditorGUIUtility.IconContent("Invalid")
 ```
 ```
-Invalid@2x
+Invalid
 ```

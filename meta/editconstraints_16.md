@@ -1,9 +1,9 @@
-# editconstraints_16@2x `32x32`
-<img src="/img/editconstraints_16.png" width=32 height=32>
+# editconstraints_16 `16x16`
+<img src="/img/editconstraints_16.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("editconstraints_16@2x")
+EditorGUIUtility.IconContent("editconstraints_16")
 ```
 ```
-editconstraints_16@2x
+editconstraints_16
 ```

@@ -1,9 +1,9 @@
-# UnityRegistry@2x `32x32`
-<img src="/img/UnityRegistry.png" width=32 height=32>
+# UnityRegistry `16x16`
+<img src="/img/UnityRegistry.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityRegistry@2x")
+EditorGUIUtility.IconContent("UnityRegistry")
 ```
 ```
-UnityRegistry@2x
+UnityRegistry
 ```

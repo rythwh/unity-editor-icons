@@ -1,9 +1,9 @@
-# BuildSettings.DedicatedServer.Small@2x `32x32`
-<img src="/img/BuildSettings.DedicatedServer.Small.png" width=32 height=32>
+# BuildSettings.DedicatedServer.Small `16x16`
+<img src="/img/BuildSettings.DedicatedServer.Small.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.DedicatedServer.Small@2x")
+EditorGUIUtility.IconContent("BuildSettings.DedicatedServer.Small")
 ```
 ```
-BuildSettings.DedicatedServer.Small@2x
+BuildSettings.DedicatedServer.Small
 ```

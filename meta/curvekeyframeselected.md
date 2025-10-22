@@ -1,9 +1,9 @@
-# curvekeyframeselected@2x `32x32`
-<img src="/img/curvekeyframeselected.png" width=32 height=32>
+# curvekeyframeselected `16x16`
+<img src="/img/curvekeyframeselected.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("curvekeyframeselected@2x")
+EditorGUIUtility.IconContent("curvekeyframeselected")
 ```
 ```
-curvekeyframeselected@2x
+curvekeyframeselected
 ```

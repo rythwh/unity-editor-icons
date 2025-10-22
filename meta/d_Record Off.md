@@ -1,9 +1,9 @@
-# d_Record Off@2x `32x32`
-<img src="/img/d_Record%20Off.png" width=32 height=32>
+# d_Record Off `16x16`
+<img src="/img/d_Record%20Off.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Record Off@2x")
+EditorGUIUtility.IconContent("d_Record Off")
 ```
 ```
-d_Record Off@2x
+d_Record Off
 ```

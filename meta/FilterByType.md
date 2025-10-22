@@ -1,9 +1,9 @@
-# FilterByType@2x `32x32`
-<img src="/img/FilterByType.png" width=32 height=32>
+# FilterByType `16x16`
+<img src="/img/FilterByType.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("FilterByType@2x")
+EditorGUIUtility.IconContent("FilterByType")
 ```
 ```
-FilterByType@2x
+FilterByType
 ```

@@ -1,9 +1,9 @@
-# File@2x `32x32`
-<img src="/img/File.png" width=32 height=32>
+# File `16x16`
+<img src="/img/File.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("File@2x")
+EditorGUIUtility.IconContent("File")
 ```
 ```
-File@2x
+File
 ```

@@ -1,9 +1,9 @@
-# Skip@2x `32x32`
-<img src="/img/Skip.png" width=32 height=32>
+# Skip `16x16`
+<img src="/img/Skip.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Skip@2x")
+EditorGUIUtility.IconContent("Skip")
 ```
 ```
-Skip@2x
+Skip
 ```

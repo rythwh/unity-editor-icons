@@ -1,9 +1,9 @@
-# Linked@2x `32x32`
-<img src="/img/Linked.png" width=32 height=32>
+# Linked `16x16`
+<img src="/img/Linked.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Linked@2x")
+EditorGUIUtility.IconContent("Linked")
 ```
 ```
-Linked@2x
+Linked
 ```

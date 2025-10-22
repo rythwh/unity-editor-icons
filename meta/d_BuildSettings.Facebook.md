@@ -1,9 +1,9 @@
-# d_BuildSettings.Facebook@2x `64x64`
-<img src="/img/d_BuildSettings.Facebook.png" width=64 height=64>
+# d_BuildSettings.Facebook `32x32`
+<img src="/img/d_BuildSettings.Facebook.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.Facebook@2x")
+EditorGUIUtility.IconContent("d_BuildSettings.Facebook")
 ```
 ```
-d_BuildSettings.Facebook@2x
+d_BuildSettings.Facebook
 ```

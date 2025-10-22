@@ -1,9 +1,9 @@
-# tab_next@2x `32x32`
-<img src="/img/tab_next.png" width=32 height=32>
+# tab_next `16x16`
+<img src="/img/tab_next.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("tab_next@2x")
+EditorGUIUtility.IconContent("tab_next")
 ```
 ```
-tab_next@2x
+tab_next
 ```

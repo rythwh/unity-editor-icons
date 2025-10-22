@@ -1,9 +1,9 @@
-# P4_Offline@2x `32x32`
-<img src="/img/P4_Offline.png" width=32 height=32>
+# P4_Offline `16x16`
+<img src="/img/P4_Offline.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("P4_Offline@2x")
+EditorGUIUtility.IconContent("P4_Offline")
 ```
 ```
-P4_Offline@2x
+P4_Offline
 ```

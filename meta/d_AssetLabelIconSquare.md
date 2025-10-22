@@ -1,9 +1,9 @@
-# d_AssetLabelIconSquare@2x `30x30`
-<img src="/img/d_AssetLabelIconSquare.png" width=30 height=30>
+# d_AssetLabelIconSquare `15x15`
+<img src="/img/d_AssetLabelIconSquare.png" width=15 height=15>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_AssetLabelIconSquare@2x")
+EditorGUIUtility.IconContent("d_AssetLabelIconSquare")
 ```
 ```
-d_AssetLabelIconSquare@2x
+d_AssetLabelIconSquare
 ```

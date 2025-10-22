@@ -1,9 +1,9 @@
-# scenevis_scene_hover@2x `32x32`
-<img src="/img/scenevis_scene_hover.png" width=32 height=32>
+# scenevis_scene_hover `16x16`
+<img src="/img/scenevis_scene_hover.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("scenevis_scene_hover@2x")
+EditorGUIUtility.IconContent("scenevis_scene_hover")
 ```
 ```
-scenevis_scene_hover@2x
+scenevis_scene_hover
 ```

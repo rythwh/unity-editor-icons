@@ -1,9 +1,9 @@
-# MultiSelectFeature@2x `28x28`
-<img src="/img/MultiSelectFeature.png" width=28 height=28>
+# MultiSelectFeature `14x14`
+<img src="/img/MultiSelectFeature.png" width=14 height=14>
 
 ``` CSharp
-EditorGUIUtility.IconContent("MultiSelectFeature@2x")
+EditorGUIUtility.IconContent("MultiSelectFeature")
 ```
 ```
-MultiSelectFeature@2x
+MultiSelectFeature
 ```

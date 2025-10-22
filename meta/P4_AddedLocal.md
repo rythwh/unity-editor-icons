@@ -1,9 +1,9 @@
-# P4_AddedLocal@2x `32x32`
-<img src="/img/P4_AddedLocal.png" width=32 height=32>
+# P4_AddedLocal `16x16`
+<img src="/img/P4_AddedLocal.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("P4_AddedLocal@2x")
+EditorGUIUtility.IconContent("P4_AddedLocal")
 ```
 ```
-P4_AddedLocal@2x
+P4_AddedLocal
 ```

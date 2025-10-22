@@ -1,9 +1,9 @@
-# d_BuildSettings.GameCoreXboxOne@2x `64x64`
-<img src="/img/d_BuildSettings.GameCoreXboxOne.png" width=64 height=64>
+# d_BuildSettings.GameCoreXboxOne `32x32`
+<img src="/img/d_BuildSettings.GameCoreXboxOne.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.GameCoreXboxOne@2x")
+EditorGUIUtility.IconContent("d_BuildSettings.GameCoreXboxOne")
 ```
 ```
-d_BuildSettings.GameCoreXboxOne@2x
+d_BuildSettings.GameCoreXboxOne
 ```

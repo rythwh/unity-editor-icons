@@ -1,9 +1,9 @@
-# d_BuildSettings.GameCoreScarlett@2x `64x64`
-<img src="/img/d_BuildSettings.GameCoreScarlett.png" width=64 height=64>
+# d_BuildSettings.GameCoreScarlett `32x32`
+<img src="/img/d_BuildSettings.GameCoreScarlett.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.GameCoreScarlett@2x")
+EditorGUIUtility.IconContent("d_BuildSettings.GameCoreScarlett")
 ```
 ```
-d_BuildSettings.GameCoreScarlett@2x
+d_BuildSettings.GameCoreScarlett
 ```

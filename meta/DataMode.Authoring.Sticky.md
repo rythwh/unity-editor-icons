@@ -1,9 +1,9 @@
-# DataMode.Authoring.Sticky@2x `32x32`
-<img src="/img/DataMode.Authoring.Sticky.png" width=32 height=32>
+# DataMode.Authoring.Sticky `16x16`
+<img src="/img/DataMode.Authoring.Sticky.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("DataMode.Authoring.Sticky@2x")
+EditorGUIUtility.IconContent("DataMode.Authoring.Sticky")
 ```
 ```
-DataMode.Authoring.Sticky@2x
+DataMode.Authoring.Sticky
 ```

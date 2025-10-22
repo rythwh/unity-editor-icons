@@ -1,9 +1,9 @@
-# Pause@2x `32x32`
-<img src="/img/Pause.png" width=32 height=32>
+# Pause `16x16`
+<img src="/img/Pause.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Pause@2x")
+EditorGUIUtility.IconContent("Pause")
 ```
 ```
-Pause@2x
+Pause
 ```

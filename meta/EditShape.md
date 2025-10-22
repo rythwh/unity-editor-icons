@@ -1,9 +1,9 @@
-# EditShape@2x `32x32`
-<img src="/img/EditShape.png" width=32 height=32>
+# EditShape `16x16`
+<img src="/img/EditShape.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("EditShape@2x")
+EditorGUIUtility.IconContent("EditShape")
 ```
 ```
-EditShape@2x
+EditShape
 ```

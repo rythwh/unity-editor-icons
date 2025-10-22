@@ -1,9 +1,9 @@
-# LightingVisualizationColors@2x `32x32`
-<img src="/img/LightingVisualizationColors.png" width=32 height=32>
+# LightingVisualizationColors `16x16`
+<img src="/img/LightingVisualizationColors.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("LightingVisualizationColors@2x")
+EditorGUIUtility.IconContent("LightingVisualizationColors")
 ```
 ```
-LightingVisualizationColors@2x
+LightingVisualizationColors
 ```

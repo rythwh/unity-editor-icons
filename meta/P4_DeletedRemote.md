@@ -1,9 +1,9 @@
-# P4_DeletedRemote@2x `32x32`
-<img src="/img/P4_DeletedRemote.png" width=32 height=32>
+# P4_DeletedRemote `16x16`
+<img src="/img/P4_DeletedRemote.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("P4_DeletedRemote@2x")
+EditorGUIUtility.IconContent("P4_DeletedRemote")
 ```
 ```
-P4_DeletedRemote@2x
+P4_DeletedRemote
 ```

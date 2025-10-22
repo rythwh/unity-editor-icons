@@ -1,9 +1,9 @@
-# back@2x `18x21`
-<img src="/img/back.png" width=18 height=21>
+# back `9x11`
+<img src="/img/back.png" width=9 height=11>
 
 ``` CSharp
-EditorGUIUtility.IconContent("back@2x")
+EditorGUIUtility.IconContent("back")
 ```
 ```
-back@2x
+back
 ```

@@ -1,9 +1,9 @@
-# d_HierarchyLock@2x `32x32`
-<img src="/img/d_HierarchyLock.png" width=32 height=32>
+# d_HierarchyLock `16x16`
+<img src="/img/d_HierarchyLock.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_HierarchyLock@2x")
+EditorGUIUtility.IconContent("d_HierarchyLock")
 ```
 ```
-d_HierarchyLock@2x
+d_HierarchyLock
 ```

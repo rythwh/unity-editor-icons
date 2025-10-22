@@ -1,9 +1,9 @@
-# UnityEditor.ProfilerWindow@2x `32x32`
-<img src="/img/UnityEditor.ProfilerWindow.png" width=32 height=32>
+# UnityEditor.ProfilerWindow `16x16`
+<img src="/img/UnityEditor.ProfilerWindow.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityEditor.ProfilerWindow@2x")
+EditorGUIUtility.IconContent("UnityEditor.ProfilerWindow")
 ```
 ```
-UnityEditor.ProfilerWindow@2x
+UnityEditor.ProfilerWindow
 ```

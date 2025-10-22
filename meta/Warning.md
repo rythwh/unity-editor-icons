@@ -1,9 +1,9 @@
-# Warning@2x `32x32`
-<img src="/img/Warning.png" width=32 height=32>
+# Warning `16x16`
+<img src="/img/Warning.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Warning@2x")
+EditorGUIUtility.IconContent("Warning")
 ```
 ```
-Warning@2x
+Warning
 ```

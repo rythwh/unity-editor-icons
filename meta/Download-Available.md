@@ -1,9 +1,9 @@
-# Download-Available@2x `32x32`
-<img src="/img/Download-Available.png" width=32 height=32>
+# Download-Available `16x16`
+<img src="/img/Download-Available.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Download-Available@2x")
+EditorGUIUtility.IconContent("Download-Available")
 ```
 ```
-Download-Available@2x
+Download-Available
 ```

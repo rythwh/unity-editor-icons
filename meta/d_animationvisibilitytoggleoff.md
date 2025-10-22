@@ -1,9 +1,9 @@
-# d_animationvisibilitytoggleoff@2x `32x32`
-<img src="/img/d_animationvisibilitytoggleoff.png" width=32 height=32>
+# d_animationvisibilitytoggleoff `16x16`
+<img src="/img/d_animationvisibilitytoggleoff.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_animationvisibilitytoggleoff@2x")
+EditorGUIUtility.IconContent("d_animationvisibilitytoggleoff")
 ```
 ```
-d_animationvisibilitytoggleoff@2x
+d_animationvisibilitytoggleoff
 ```

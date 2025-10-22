@@ -1,9 +1,9 @@
-# d_BuildSettings.Xiaomi@2x `64x64`
-<img src="/img/d_BuildSettings.Xiaomi.png" width=64 height=64>
+# d_BuildSettings.Xiaomi `32x32`
+<img src="/img/d_BuildSettings.Xiaomi.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.Xiaomi@2x")
+EditorGUIUtility.IconContent("d_BuildSettings.Xiaomi")
 ```
 ```
-d_BuildSettings.Xiaomi@2x
+d_BuildSettings.Xiaomi
 ```

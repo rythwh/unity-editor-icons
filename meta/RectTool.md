@@ -1,9 +1,9 @@
-# RectTool@2x `32x32`
-<img src="/img/RectTool.png" width=32 height=32>
+# RectTool `16x16`
+<img src="/img/RectTool.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("RectTool@2x")
+EditorGUIUtility.IconContent("RectTool")
 ```
 ```
-RectTool@2x
+RectTool
 ```

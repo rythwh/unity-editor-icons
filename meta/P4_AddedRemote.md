@@ -1,9 +1,9 @@
-# P4_AddedRemote@2x `32x32`
-<img src="/img/P4_AddedRemote.png" width=32 height=32>
+# P4_AddedRemote `16x16`
+<img src="/img/P4_AddedRemote.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("P4_AddedRemote@2x")
+EditorGUIUtility.IconContent("P4_AddedRemote")
 ```
 ```
-P4_AddedRemote@2x
+P4_AddedRemote
 ```

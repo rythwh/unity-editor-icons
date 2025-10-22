@@ -1,9 +1,9 @@
-# d_PBrowserPackagesVisible_hover@2x `32x32`
-<img src="/img/d_PBrowserPackagesVisible_hover.png" width=32 height=32>
+# d_PBrowserPackagesVisible_hover `16x16`
+<img src="/img/d_PBrowserPackagesVisible_hover.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_PBrowserPackagesVisible_hover@2x")
+EditorGUIUtility.IconContent("d_PBrowserPackagesVisible_hover")
 ```
 ```
-d_PBrowserPackagesVisible_hover@2x
+d_PBrowserPackagesVisible_hover
 ```

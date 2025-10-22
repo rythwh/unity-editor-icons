@@ -1,9 +1,9 @@
-# _Menu@2x `32x32`
-<img src="/img/_Menu.png" width=32 height=32>
+# _Menu `16x16`
+<img src="/img/_Menu.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("_Menu@2x")
+EditorGUIUtility.IconContent("_Menu")
 ```
 ```
-_Menu@2x
+_Menu
 ```

@@ -1,9 +1,9 @@
-# BuildSettings.Stadia.Small@2x `32x32`
-<img src="/img/BuildSettings.Stadia.Small.png" width=32 height=32>
+# BuildSettings.Stadia.small `16x16`
+<img src="/img/BuildSettings.Stadia.small.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.Stadia.Small@2x")
+EditorGUIUtility.IconContent("BuildSettings.Stadia.small")
 ```
 ```
-BuildSettings.Stadia.Small@2x
+BuildSettings.Stadia.small
 ```

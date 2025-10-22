@@ -1,9 +1,9 @@
-# d_BuildSettings.PS4.Small@2x `32x32`
-<img src="/img/d_BuildSettings.PS4.Small.png" width=32 height=32>
+# d_BuildSettings.PS4.Small `16x16`
+<img src="/img/d_BuildSettings.PS4.Small.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_BuildSettings.PS4.Small@2x")
+EditorGUIUtility.IconContent("d_BuildSettings.PS4.Small")
 ```
 ```
-d_BuildSettings.PS4.Small@2x
+d_BuildSettings.PS4.Small
 ```

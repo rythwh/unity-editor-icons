@@ -1,9 +1,9 @@
-# Animation.LastKey@2x `32x32`
-<img src="/img/Animation.LastKey.png" width=32 height=32>
+# Animation.LastKey `16x16`
+<img src="/img/Animation.LastKey.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Animation.LastKey@2x")
+EditorGUIUtility.IconContent("Animation.LastKey")
 ```
 ```
-Animation.LastKey@2x
+Animation.LastKey
 ```

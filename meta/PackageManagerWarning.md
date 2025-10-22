@@ -1,9 +1,9 @@
-# PackageManagerWarning@2x `32x32`
-<img src="/img/PackageManagerWarning.png" width=32 height=32>
+# PackageManagerWarning `16x16`
+<img src="/img/PackageManagerWarning.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("PackageManagerWarning@2x")
+EditorGUIUtility.IconContent("PackageManagerWarning")
 ```
 ```
-PackageManagerWarning@2x
+PackageManagerWarning
 ```

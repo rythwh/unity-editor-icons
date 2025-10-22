@@ -1,9 +1,9 @@
-# Preset.Context@2x `32x32`
-<img src="/img/Preset.Context.png" width=32 height=32>
+# Preset.Context `16x16`
+<img src="/img/Preset.Context.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Preset.Context@2x")
+EditorGUIUtility.IconContent("Preset.Context")
 ```
 ```
-Preset.Context@2x
+Preset.Context
 ```

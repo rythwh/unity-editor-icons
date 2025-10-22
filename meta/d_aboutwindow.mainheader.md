@@ -1,9 +1,9 @@
-# d_aboutwindow.mainheader@2x `264x92`
-<img src="/img/d_aboutwindow.mainheader.png" width=264 height=92>
+# d_aboutwindow.mainheader `132x46`
+<img src="/img/d_aboutwindow.mainheader.png" width=132 height=46>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_aboutwindow.mainheader@2x")
+EditorGUIUtility.IconContent("d_aboutwindow.mainheader")
 ```
 ```
-d_aboutwindow.mainheader@2x
+d_aboutwindow.mainheader
 ```

@@ -1,9 +1,9 @@
-# Error@2x `32x32`
-<img src="/img/Error.png" width=32 height=32>
+# Error `16x16`
+<img src="/img/Error.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Error@2x")
+EditorGUIUtility.IconContent("Error")
 ```
 ```
-Error@2x
+Error
 ```

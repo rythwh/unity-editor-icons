@@ -1,9 +1,9 @@
-# MeshLOD@2x `32x32`
-<img src="/img/MeshLOD.png" width=32 height=32>
+# MeshLOD `16x16`
+<img src="/img/MeshLOD.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("MeshLOD@2x")
+EditorGUIUtility.IconContent("MeshLOD")
 ```
 ```
-MeshLOD@2x
+MeshLOD
 ```

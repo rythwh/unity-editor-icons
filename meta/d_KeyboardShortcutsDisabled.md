@@ -1,9 +1,9 @@
-# d_KeyboardShortcutsDisabled@2x `32x32`
-<img src="/img/d_KeyboardShortcutsDisabled.png" width=32 height=32>
+# d_KeyboardShortcutsDisabled `16x16`
+<img src="/img/d_KeyboardShortcutsDisabled.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_KeyboardShortcutsDisabled@2x")
+EditorGUIUtility.IconContent("d_KeyboardShortcutsDisabled")
 ```
 ```
-d_KeyboardShortcutsDisabled@2x
+d_KeyboardShortcutsDisabled
 ```

@@ -1,9 +1,9 @@
-# Profiler.NetworkOperations@2x `32x32`
-<img src="/img/Profiler.NetworkOperations.png" width=32 height=32>
+# Profiler.NetworkOperations `16x16`
+<img src="/img/Profiler.NetworkOperations.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Profiler.NetworkOperations@2x")
+EditorGUIUtility.IconContent("Profiler.NetworkOperations")
 ```
 ```
-Profiler.NetworkOperations@2x
+Profiler.NetworkOperations
 ```

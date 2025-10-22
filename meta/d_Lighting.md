@@ -1,9 +1,9 @@
-# d_Lighting@2x `32x32`
-<img src="/img/d_Lighting.png" width=32 height=32>
+# d_Lighting `16x16`
+<img src="/img/d_Lighting.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Lighting@2x")
+EditorGUIUtility.IconContent("d_Lighting")
 ```
 ```
-d_Lighting@2x
+d_Lighting
 ```

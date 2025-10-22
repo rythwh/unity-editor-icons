@@ -1,9 +1,9 @@
-# eyeDropper.Large@2x `40x40`
-<img src="/img/eyeDropper.Large.png" width=40 height=40>
+# eyeDropper.Large `20x20`
+<img src="/img/eyeDropper.Large.png" width=20 height=20>
 
 ``` CSharp
-EditorGUIUtility.IconContent("eyeDropper.Large@2x")
+EditorGUIUtility.IconContent("eyeDropper.Large")
 ```
 ```
-eyeDropper.Large@2x
+eyeDropper.Large
 ```

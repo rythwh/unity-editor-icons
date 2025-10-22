@@ -1,9 +1,9 @@
-# d_Audio Mixer@2x `32x32`
-<img src="/img/d_Audio%20Mixer.png" width=32 height=32>
+# d_Audio Mixer `16x16`
+<img src="/img/d_Audio%20Mixer.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Audio Mixer@2x")
+EditorGUIUtility.IconContent("d_Audio Mixer")
 ```
 ```
-d_Audio Mixer@2x
+d_Audio Mixer
 ```

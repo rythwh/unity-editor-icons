@@ -1,9 +1,9 @@
-# GridAxisZ On@2x `32x32`
-<img src="/img/GridAxisZ%20On.png" width=32 height=32>
+# GridAxisZ On `16x16`
+<img src="/img/GridAxisZ%20On.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("GridAxisZ On@2x")
+EditorGUIUtility.IconContent("GridAxisZ On")
 ```
 ```
-GridAxisZ On@2x
+GridAxisZ On
 ```

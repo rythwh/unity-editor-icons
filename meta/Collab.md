@@ -1,9 +1,9 @@
-# Collab@2x `32x32`
-<img src="/img/Collab.png" width=32 height=32>
+# Collab `16x16`
+<img src="/img/Collab.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Collab@2x")
+EditorGUIUtility.IconContent("Collab")
 ```
 ```
-Collab@2x
+Collab
 ```

@@ -1,9 +1,9 @@
-# d_Profiler.UI@2x `32x32`
-<img src="/img/d_Profiler.UI.png" width=32 height=32>
+# d_Profiler.UI `16x16`
+<img src="/img/d_Profiler.UI.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Profiler.UI@2x")
+EditorGUIUtility.IconContent("d_Profiler.UI")
 ```
 ```
-d_Profiler.UI@2x
+d_Profiler.UI
 ```

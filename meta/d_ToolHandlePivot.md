@@ -1,9 +1,9 @@
-# d_ToolHandlePivot@2x `32x32`
-<img src="/img/d_ToolHandlePivot.png" width=32 height=32>
+# d_ToolHandlePivot `16x16`
+<img src="/img/d_ToolHandlePivot.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_ToolHandlePivot@2x")
+EditorGUIUtility.IconContent("d_ToolHandlePivot")
 ```
 ```
-d_ToolHandlePivot@2x
+d_ToolHandlePivot
 ```

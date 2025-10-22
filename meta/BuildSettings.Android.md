@@ -1,9 +1,9 @@
-# BuildSettings.Android@2x `64x64`
-<img src="/img/BuildSettings.Android.png" width=64 height=64>
+# BuildSettings.Android `32x32`
+<img src="/img/BuildSettings.Android.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.Android@2x")
+EditorGUIUtility.IconContent("BuildSettings.Android")
 ```
 ```
-BuildSettings.Android@2x
+BuildSettings.Android
 ```

@@ -1,9 +1,9 @@
-# BuildSettings.Linux@2x `64x64`
-<img src="/img/BuildSettings.Linux.png" width=64 height=64>
+# BuildSettings.Linux `32x32`
+<img src="/img/BuildSettings.Linux.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.Linux@2x")
+EditorGUIUtility.IconContent("BuildSettings.Linux")
 ```
 ```
-BuildSettings.Linux@2x
+BuildSettings.Linux
 ```

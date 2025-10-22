@@ -1,9 +1,9 @@
-# Settings@2x `32x32`
-<img src="/img/Settings.png" width=32 height=32>
+# Settings `16x16`
+<img src="/img/Settings.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Settings@2x")
+EditorGUIUtility.IconContent("Settings")
 ```
 ```
-Settings@2x
+Settings
 ```

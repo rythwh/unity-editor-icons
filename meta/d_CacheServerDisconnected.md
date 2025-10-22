@@ -1,9 +1,9 @@
-# d_CacheServerDisconnected@2x `32x32`
-<img src="/img/d_CacheServerDisconnected.png" width=32 height=32>
+# d_CacheServerDisconnected `16x16`
+<img src="/img/d_CacheServerDisconnected.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_CacheServerDisconnected@2x")
+EditorGUIUtility.IconContent("d_CacheServerDisconnected")
 ```
 ```
-d_CacheServerDisconnected@2x
+d_CacheServerDisconnected
 ```

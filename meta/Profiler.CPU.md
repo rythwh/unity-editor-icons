@@ -1,9 +1,9 @@
-# Profiler.CPU@2x `32x32`
-<img src="/img/Profiler.CPU.png" width=32 height=32>
+# Profiler.CPU `16x16`
+<img src="/img/Profiler.CPU.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Profiler.CPU@2x")
+EditorGUIUtility.IconContent("Profiler.CPU")
 ```
 ```
-Profiler.CPU@2x
+Profiler.CPU
 ```

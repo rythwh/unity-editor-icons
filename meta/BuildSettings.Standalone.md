@@ -1,9 +1,9 @@
-# BuildSettings.Standalone@2x `64x64`
-<img src="/img/BuildSettings.Standalone.png" width=64 height=64>
+# BuildSettings.Standalone `32x32`
+<img src="/img/BuildSettings.Standalone.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.Standalone@2x")
+EditorGUIUtility.IconContent("BuildSettings.Standalone")
 ```
 ```
-BuildSettings.Standalone@2x
+BuildSettings.Standalone
 ```

@@ -1,9 +1,9 @@
-# Debug_Frame_d@2x `32x32`
-<img src="/img/Debug_Frame_d.png" width=32 height=32>
+# Debug_Frame_d `16x16`
+<img src="/img/Debug_Frame_d.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Debug_Frame_d@2x")
+EditorGUIUtility.IconContent("Debug_Frame_d")
 ```
 ```
-Debug_Frame_d@2x
+Debug_Frame_d
 ```

@@ -1,9 +1,9 @@
-# curvekeyframe@2x `32x32`
-<img src="/img/curvekeyframe.png" width=32 height=32>
+# curvekeyframe `16x16`
+<img src="/img/curvekeyframe.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("curvekeyframe@2x")
+EditorGUIUtility.IconContent("curvekeyframe")
 ```
 ```
-curvekeyframe@2x
+curvekeyframe
 ```

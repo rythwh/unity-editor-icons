@@ -1,9 +1,9 @@
-# Favorite_colored@2x `32x32`
-<img src="/img/Favorite_colored.png" width=32 height=32>
+# Favorite_colored `16x16`
+<img src="/img/Favorite_colored.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Favorite_colored@2x")
+EditorGUIUtility.IconContent("Favorite_colored")
 ```
 ```
-Favorite_colored@2x
+Favorite_colored
 ```

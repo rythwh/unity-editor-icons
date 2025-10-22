@@ -1,9 +1,9 @@
-# Grid.FillTool@2x `32x32`
-<img src="/img/Grid.FillTool.png" width=32 height=32>
+# Grid.FillTool `16x16`
+<img src="/img/Grid.FillTool.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Grid.FillTool@2x")
+EditorGUIUtility.IconContent("Grid.FillTool")
 ```
 ```
-Grid.FillTool@2x
+Grid.FillTool
 ```

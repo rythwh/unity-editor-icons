@@ -1,9 +1,9 @@
-# ToolHandleCenter@2x `32x32`
-<img src="/img/ToolHandleCenter.png" width=32 height=32>
+# ToolHandleCenter `16x16`
+<img src="/img/ToolHandleCenter.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("ToolHandleCenter@2x")
+EditorGUIUtility.IconContent("ToolHandleCenter")
 ```
 ```
-ToolHandleCenter@2x
+ToolHandleCenter
 ```

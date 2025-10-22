@@ -1,9 +1,9 @@
-# Outgoing Icon@2x `32x32`
-<img src="/img/Outgoing%20Icon.png" width=32 height=32>
+# Outgoing Icon `16x16`
+<img src="/img/Outgoing%20Icon.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Outgoing Icon@2x")
+EditorGUIUtility.IconContent("Outgoing Icon")
 ```
 ```
-Outgoing Icon@2x
+Outgoing Icon
 ```

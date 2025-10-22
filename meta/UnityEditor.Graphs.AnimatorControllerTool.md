@@ -1,9 +1,9 @@
-# UnityEditor.Graphs.AnimatorControllerTool@2x `32x32`
-<img src="/img/UnityEditor.Graphs.AnimatorControllerTool.png" width=32 height=32>
+# UnityEditor.Graphs.AnimatorControllerTool `16x16`
+<img src="/img/UnityEditor.Graphs.AnimatorControllerTool.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("UnityEditor.Graphs.AnimatorControllerTool@2x")
+EditorGUIUtility.IconContent("UnityEditor.Graphs.AnimatorControllerTool")
 ```
 ```
-UnityEditor.Graphs.AnimatorControllerTool@2x
+UnityEditor.Graphs.AnimatorControllerTool
 ```

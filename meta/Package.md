@@ -1,9 +1,9 @@
-# Package@2x `32x32`
-<img src="/img/Package.png" width=32 height=32>
+# Package `16x16`
+<img src="/img/Package.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Package@2x")
+EditorGUIUtility.IconContent("Package")
 ```
 ```
-Package@2x
+Package
 ```

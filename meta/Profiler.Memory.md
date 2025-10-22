@@ -1,9 +1,9 @@
-# Profiler.Memory@2x `32x32`
-<img src="/img/Profiler.Memory.png" width=32 height=32>
+# Profiler.Memory `16x16`
+<img src="/img/Profiler.Memory.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Profiler.Memory@2x")
+EditorGUIUtility.IconContent("Profiler.Memory")
 ```
 ```
-Profiler.Memory@2x
+Profiler.Memory
 ```

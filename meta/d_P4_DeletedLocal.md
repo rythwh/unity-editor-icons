@@ -1,9 +1,9 @@
-# d_P4_DeletedLocal@2x `32x32`
-<img src="/img/d_P4_DeletedLocal.png" width=32 height=32>
+# d_P4_DeletedLocal `16x16`
+<img src="/img/d_P4_DeletedLocal.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_P4_DeletedLocal@2x")
+EditorGUIUtility.IconContent("d_P4_DeletedLocal")
 ```
 ```
-d_P4_DeletedLocal@2x
+d_P4_DeletedLocal
 ```

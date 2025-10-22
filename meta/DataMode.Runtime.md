@@ -1,9 +1,9 @@
-# DataMode.Runtime@2x `32x32`
-<img src="/img/DataMode.Runtime.png" width=32 height=32>
+# DataMode.Runtime `16x16`
+<img src="/img/DataMode.Runtime.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("DataMode.Runtime@2x")
+EditorGUIUtility.IconContent("DataMode.Runtime")
 ```
 ```
-DataMode.Runtime@2x
+DataMode.Runtime
 ```

@@ -1,9 +1,9 @@
-# Grid.MoveTool@2x `32x32`
-<img src="/img/Grid.MoveTool.png" width=32 height=32>
+# Grid.MoveTool `16x16`
+<img src="/img/Grid.MoveTool.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Grid.MoveTool@2x")
+EditorGUIUtility.IconContent("Grid.MoveTool")
 ```
 ```
-Grid.MoveTool@2x
+Grid.MoveTool
 ```

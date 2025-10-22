@@ -1,9 +1,9 @@
-# d_Profiler.VirtualTexturing@2x `32x32`
-<img src="/img/d_Profiler.VirtualTexturing.png" width=32 height=32>
+# d_Profiler.VirtualTexturing `16x16`
+<img src="/img/d_Profiler.VirtualTexturing.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Profiler.VirtualTexturing@2x")
+EditorGUIUtility.IconContent("d_Profiler.VirtualTexturing")
 ```
 ```
-d_Profiler.VirtualTexturing@2x
+d_Profiler.VirtualTexturing
 ```

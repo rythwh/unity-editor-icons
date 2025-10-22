@@ -1,9 +1,9 @@
-# blendKeySelected@2x `32x32`
-<img src="/img/blendKeySelected.png" width=32 height=32>
+# blendKeySelected `16x16`
+<img src="/img/blendKeySelected.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("blendKeySelected@2x")
+EditorGUIUtility.IconContent("blendKeySelected")
 ```
 ```
-blendKeySelected@2x
+blendKeySelected
 ```

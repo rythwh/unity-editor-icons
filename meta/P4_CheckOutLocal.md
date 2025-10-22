@@ -1,9 +1,9 @@
-# P4_CheckOutLocal@2x `32x32`
-<img src="/img/P4_CheckOutLocal.png" width=32 height=32>
+# P4_CheckOutLocal `16x16`
+<img src="/img/P4_CheckOutLocal.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("P4_CheckOutLocal@2x")
+EditorGUIUtility.IconContent("P4_CheckOutLocal")
 ```
 ```
-P4_CheckOutLocal@2x
+P4_CheckOutLocal
 ```

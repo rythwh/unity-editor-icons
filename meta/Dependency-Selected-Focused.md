@@ -1,9 +1,9 @@
-# Dependency-Selected-Focused@2x `32x32`
-<img src="/img/Dependency-Selected-Focused.png" width=32 height=32>
+# Dependency-Selected-Focused `16x16`
+<img src="/img/Dependency-Selected-Focused.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Dependency-Selected-Focused@2x")
+EditorGUIUtility.IconContent("Dependency-Selected-Focused")
 ```
 ```
-Dependency-Selected-Focused@2x
+Dependency-Selected-Focused
 ```

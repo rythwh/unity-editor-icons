@@ -1,9 +1,9 @@
-# GizmosToggle On@2x `32x32`
-<img src="/img/GizmosToggle%20On.png" width=32 height=32>
+# GizmosToggle On `16x16`
+<img src="/img/GizmosToggle%20On.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("GizmosToggle On@2x")
+EditorGUIUtility.IconContent("GizmosToggle On")
 ```
 ```
-GizmosToggle On@2x
+GizmosToggle On
 ```

@@ -1,9 +1,9 @@
-# Update-Available@2x `32x32`
-<img src="/img/Update-Available.png" width=32 height=32>
+# Update-Available `16x16`
+<img src="/img/Update-Available.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Update-Available@2x")
+EditorGUIUtility.IconContent("Update-Available")
 ```
 ```
-Update-Available@2x
+Update-Available
 ```

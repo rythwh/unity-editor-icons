@@ -1,9 +1,9 @@
-# SearchOverlay@2x `32x32`
-<img src="/img/SearchOverlay.png" width=32 height=32>
+# SearchOverlay `16x16`
+<img src="/img/SearchOverlay.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("SearchOverlay@2x")
+EditorGUIUtility.IconContent("SearchOverlay")
 ```
 ```
-SearchOverlay@2x
+SearchOverlay
 ```

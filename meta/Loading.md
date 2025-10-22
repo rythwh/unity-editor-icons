@@ -1,9 +1,9 @@
-# Loading@2x `32x32`
-<img src="/img/Loading.png" width=32 height=32>
+# Loading `16x16`
+<img src="/img/Loading.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Loading@2x")
+EditorGUIUtility.IconContent("Loading")
 ```
 ```
-Loading@2x
+Loading
 ```

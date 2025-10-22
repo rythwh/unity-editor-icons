@@ -1,9 +1,9 @@
-# d_Package Manager@2x `32x32`
-<img src="/img/d_Package%20Manager.png" width=32 height=32>
+# d_Package Manager `16x16`
+<img src="/img/d_Package%20Manager.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_Package Manager@2x")
+EditorGUIUtility.IconContent("d_Package Manager")
 ```
 ```
-d_Package Manager@2x
+d_Package Manager
 ```

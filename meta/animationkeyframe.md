@@ -1,9 +1,9 @@
-# animationkeyframe@2x `22x22`
-<img src="/img/animationkeyframe.png" width=22 height=22>
+# animationkeyframe `11x11`
+<img src="/img/animationkeyframe.png" width=11 height=11>
 
 ``` CSharp
-EditorGUIUtility.IconContent("animationkeyframe@2x")
+EditorGUIUtility.IconContent("animationkeyframe")
 ```
 ```
-animationkeyframe@2x
+animationkeyframe
 ```

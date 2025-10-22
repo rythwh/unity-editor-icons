@@ -1,9 +1,9 @@
-# Locked-Selected-Focused@2x `32x32`
-<img src="/img/Locked-Selected-Focused.png" width=32 height=32>
+# Locked-Selected-Focused `16x16`
+<img src="/img/Locked-Selected-Focused.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Locked-Selected-Focused@2x")
+EditorGUIUtility.IconContent("Locked-Selected-Focused")
 ```
 ```
-Locked-Selected-Focused@2x
+Locked-Selected-Focused
 ```

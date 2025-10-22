@@ -1,9 +1,9 @@
-# d_animationanimated@2x `22x22`
-<img src="/img/d_animationanimated.png" width=22 height=22>
+# d_animationanimated `12x11`
+<img src="/img/d_animationanimated.png" width=12 height=11>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_animationanimated@2x")
+EditorGUIUtility.IconContent("d_animationanimated")
 ```
 ```
-d_animationanimated@2x
+d_animationanimated
 ```

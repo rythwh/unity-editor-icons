@@ -1,9 +1,9 @@
-# Mono-logo@2x `82x100`
-<img src="/img/Mono-logo.png" width=82 height=100>
+# Mono-logo `41x50`
+<img src="/img/Mono-logo.png" width=41 height=50>
 
 ``` CSharp
-EditorGUIUtility.IconContent("Mono-logo@2x")
+EditorGUIUtility.IconContent("Mono-logo")
 ```
 ```
-Mono-logo@2x
+Mono-logo
 ```

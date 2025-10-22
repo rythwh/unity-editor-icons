@@ -1,9 +1,9 @@
-# PreMatCylinder@2x `32x32`
-<img src="/img/PreMatCylinder.png" width=32 height=32>
+# PreMatCylinder `16x16`
+<img src="/img/PreMatCylinder.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("PreMatCylinder@2x")
+EditorGUIUtility.IconContent("PreMatCylinder")
 ```
 ```
-PreMatCylinder@2x
+PreMatCylinder
 ```

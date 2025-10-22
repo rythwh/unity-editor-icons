@@ -1,9 +1,9 @@
-# d_ToggleUVOverlay@2x `32x32`
-<img src="/img/d_ToggleUVOverlay.png" width=32 height=32>
+# d_ToggleUVOverlay `16x16`
+<img src="/img/d_ToggleUVOverlay.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_ToggleUVOverlay@2x")
+EditorGUIUtility.IconContent("d_ToggleUVOverlay")
 ```
 ```
-d_ToggleUVOverlay@2x
+d_ToggleUVOverlay
 ```

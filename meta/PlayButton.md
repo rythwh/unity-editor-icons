@@ -1,9 +1,9 @@
-# PlayButton@2x `32x32`
-<img src="/img/PlayButton.png" width=32 height=32>
+# PlayButton `16x16`
+<img src="/img/PlayButton.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("PlayButton@2x")
+EditorGUIUtility.IconContent("PlayButton")
 ```
 ```
-PlayButton@2x
+PlayButton
 ```

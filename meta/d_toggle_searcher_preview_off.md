@@ -1,9 +1,9 @@
-# d_toggle_searcher_preview_off@2x `64x64`
-<img src="/img/d_toggle_searcher_preview_off.png" width=64 height=64>
+# d_toggle_searcher_preview_off `32x32`
+<img src="/img/d_toggle_searcher_preview_off.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_toggle_searcher_preview_off@2x")
+EditorGUIUtility.IconContent("d_toggle_searcher_preview_off")
 ```
 ```
-d_toggle_searcher_preview_off@2x
+d_toggle_searcher_preview_off
 ```

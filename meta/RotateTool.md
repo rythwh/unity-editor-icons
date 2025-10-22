@@ -1,9 +1,9 @@
-# RotateTool@2x `32x32`
-<img src="/img/RotateTool.png" width=32 height=32>
+# RotateTool `16x16`
+<img src="/img/RotateTool.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("RotateTool@2x")
+EditorGUIUtility.IconContent("RotateTool")
 ```
 ```
-RotateTool@2x
+RotateTool
 ```

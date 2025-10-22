@@ -1,9 +1,9 @@
-# BuildSettings.WebGL@2x `64x64`
-<img src="/img/BuildSettings.WebGL.png" width=64 height=64>
+# BuildSettings.WebGL `32x32`
+<img src="/img/BuildSettings.WebGL.png" width=32 height=32>
 
 ``` CSharp
-EditorGUIUtility.IconContent("BuildSettings.WebGL@2x")
+EditorGUIUtility.IconContent("BuildSettings.WebGL")
 ```
 ```
-BuildSettings.WebGL@2x
+BuildSettings.WebGL
 ```

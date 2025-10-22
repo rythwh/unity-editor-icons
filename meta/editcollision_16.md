@@ -1,9 +1,9 @@
-# editcollision_16@2x `32x32`
-<img src="/img/editcollision_16.png" width=32 height=32>
+# editcollision_16 `16x16`
+<img src="/img/editcollision_16.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("editcollision_16@2x")
+EditorGUIUtility.IconContent("editcollision_16")
 ```
 ```
-editcollision_16@2x
+editcollision_16
 ```

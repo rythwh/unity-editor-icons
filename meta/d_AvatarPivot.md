@@ -1,9 +1,9 @@
-# d_AvatarPivot@2x `32x32`
-<img src="/img/d_AvatarPivot.png" width=32 height=32>
+# d_AvatarPivot `16x16`
+<img src="/img/d_AvatarPivot.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("d_AvatarPivot@2x")
+EditorGUIUtility.IconContent("d_AvatarPivot")
 ```
 ```
-d_AvatarPivot@2x
+d_AvatarPivot
 ```

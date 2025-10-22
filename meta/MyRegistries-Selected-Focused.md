@@ -1,9 +1,9 @@
-# MyRegistries-Selected-Focused@2x `32x32`
-<img src="/img/MyRegistries-Selected-Focused.png" width=32 height=32>
+# MyRegistries-Selected-Focused `16x16`
+<img src="/img/MyRegistries-Selected-Focused.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("MyRegistries-Selected-Focused@2x")
+EditorGUIUtility.IconContent("MyRegistries-Selected-Focused")
 ```
 ```
-MyRegistries-Selected-Focused@2x
+MyRegistries-Selected-Focused
 ```

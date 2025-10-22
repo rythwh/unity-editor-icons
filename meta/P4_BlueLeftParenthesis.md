@@ -1,9 +1,9 @@
-# P4_BlueLeftParenthesis@2x `32x32`
-<img src="/img/P4_BlueLeftParenthesis.png" width=32 height=32>
+# P4_BlueLeftParenthesis `16x16`
+<img src="/img/P4_BlueLeftParenthesis.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("P4_BlueLeftParenthesis@2x")
+EditorGUIUtility.IconContent("P4_BlueLeftParenthesis")
 ```
 ```
-P4_BlueLeftParenthesis@2x
+P4_BlueLeftParenthesis
 ```

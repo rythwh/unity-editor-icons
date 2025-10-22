@@ -1,9 +1,9 @@
-# scenevis_hidden@2x `32x32`
-<img src="/img/scenevis_hidden.png" width=32 height=32>
+# scenevis_hidden `16x16`
+<img src="/img/scenevis_hidden.png" width=16 height=16>
 
 ``` CSharp
-EditorGUIUtility.IconContent("scenevis_hidden@2x")
+EditorGUIUtility.IconContent("scenevis_hidden")
 ```
 ```
-scenevis_hidden@2x
+scenevis_hidden
 ```
