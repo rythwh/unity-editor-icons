@@ -18,118 +18,103 @@ public static class IconsMiner
 	[MenuItem("Unity Editor Icons/Generate README.md %g", priority = -1000)]
 	private static void GenerateREADME()
 	{
-		Material guidMaterial = new(Shader.Find("Unlit/Texture"));
-		string guidMaterialId = Path.Combine("Assets", "GuidMaterial.mat");
 		const string readme = "README.md";
 
-		AssetDatabase.CreateAsset(guidMaterial, guidMaterialId);
-		EditorUtility.DisplayProgressBar("Generate README.md", "Generating...", 0);
+		AssetBundle editorAssetBundle = GetEditorAssetBundle();
+		string iconsPath = GetIconsPath();
+		StringBuilder readmeBuilder = new();
 
-		try {
-			AssetBundle editorAssetBundle = GetEditorAssetBundle();
-			string iconsPath = GetIconsPath();
-			StringBuilder readmeBuilder = new();
+		readmeBuilder.AppendLine("# Unity Editor Built-in Icons");
+		readmeBuilder.AppendLine($"Unity version **{Application.unityVersion}**");
+		readmeBuilder.AppendLine();
+		readmeBuilder.AppendLine("Load icons using `EditorGUIUtility.IconContent(<ICON NAME>);`");
+		readmeBuilder.AppendLine();
+		readmeBuilder.AppendLine("### File ID");
+		readmeBuilder.AppendLine("You can change script icon by file id");
+		readmeBuilder.AppendLine("1. Open meta file (ex. `*.cs.meta`) in Text Editor");
+		readmeBuilder.AppendLine("2. Modify the line `icon: {instanceID: 0}` to `icon: {fileID: <FILE ID>, guid: 0000000000000000d000000000000000, type: 0}`");
+		readmeBuilder.AppendLine("3. Save and focus Unity Editor");
+		readmeBuilder.AppendLine();
+		readmeBuilder.AppendLine("All icons are clickable, you will be forwarded to description file.");
+		readmeBuilder.AppendLine($"| Icon | Name |");
+		readmeBuilder.AppendLine($"|------|------|");
 
-			readmeBuilder.AppendLine("# Unity Editor Built-in Icons");
-			readmeBuilder.AppendLine($"Unity version **{Application.unityVersion}**");
-			readmeBuilder.AppendLine();
-			readmeBuilder.AppendLine("Load icons using `EditorGUIUtility.IconContent(<ICON NAME>);`");
-			readmeBuilder.AppendLine();
-			readmeBuilder.AppendLine("### File ID");
-			readmeBuilder.AppendLine("You can change script icon by file id");
-			readmeBuilder.AppendLine("1. Open meta file (ex. `*.cs.meta`) in Text Editor");
-			readmeBuilder.AppendLine("2. Modify the line `icon: {instanceID: 0}` to `icon: {fileID: <FILE ID>, guid: 0000000000000000d000000000000000, type: 0}`");
-			readmeBuilder.AppendLine("3. Save and focus Unity Editor");
-			readmeBuilder.AppendLine();
-			readmeBuilder.AppendLine("All icons are clickable, you will be forwarded to description file.");
-			readmeBuilder.AppendLine($"| Icon | Name |");
-			readmeBuilder.AppendLine($"|------|------|");
+		string[] assetNames = EnumerateIcons(editorAssetBundle, iconsPath).OrderBy(n => n).ToArray();
+		string iconsDirectoryPath = Path.Combine("img");
+		string descriptionsDirectoryPath = Path.Combine("meta");
 
-			string[] assetNames = EnumerateIcons(editorAssetBundle, iconsPath).OrderBy(n => n).ToArray();
-			string iconsDirectoryPath = Path.Combine("img");
-			string descriptionsDirectoryPath = Path.Combine("meta");
-
-			if (!Directory.Exists(iconsDirectoryPath)) {
-				Directory.CreateDirectory(iconsDirectoryPath);
-			}
-			if (!Directory.Exists(descriptionsDirectoryPath)) {
-				Directory.CreateDirectory(descriptionsDirectoryPath);
-			}
-
-			// Save icon images (even ones which will be filtered-out)
-			foreach (string assetName in assetNames) {
-
-				Texture2D icon = editorAssetBundle.LoadAsset<Texture2D>(assetName);
-
-				if (!icon && icon.isReadable) {
-					continue;
-				}
-
-				string iconPath = Path.Combine(iconsDirectoryPath, $"{icon.name}.png");
-
-				Texture2D readableTexture = new(icon.width, icon.height, icon.format, icon.mipmapCount > 1);
-				Graphics.CopyTexture(icon, readableTexture);
-
-				SaveTextureAsPng(readableTexture, iconPath);
-			}
-
-			// Filter icons to only keep @2x (retina) icons - to have a shorter list
-			List<Texture2D> icons = assetNames
-				.GroupBy(
-					name => {
-						int dot = name.LastIndexOf('.');
-						string stem = dot >= 0 ? name[..dot] : name;
-						string ext = dot >= 0 ? name[dot..] : string.Empty;
-						string baseStem = stem.EndsWith("@2x", StringComparison.OrdinalIgnoreCase) ? stem[..^3] : stem;
-						return baseStem + ext; // key: base name with original extension
-					},
-					StringComparer.OrdinalIgnoreCase)
-				.Select(group => group.FirstOrDefault(IsRetina) ?? group.First())
-				.OrderBy(name => name, StringComparer.OrdinalIgnoreCase)
-				.Select(name => editorAssetBundle.LoadAsset<Texture2D>(name))
-				.ToList();
-
-			for (int i = 0; i < icons.Count; i++) {
-				Texture2D icon = icons[i];
-
-				EditorUtility.DisplayProgressBar($"Generate {readme}", $"Generating... ({i + 1}/{icons.Count})", (float)i / icons.Count);
-
-				string iconPath = Path.Combine(iconsDirectoryPath, $"{icon.name}.png");
-				iconPath = iconPath.Replace(" ", "%20").Replace('\\', '/');
-
-				string descriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon);
-
-				const int maxSize = 64;
-				float largest = Mathf.Max(icon.width, icon.height);
-				float scale = (Mathf.Min(largest, maxSize)) / largest;
-				int targetWidth = Mathf.Max(1, Mathf.RoundToInt(icon.width * scale));
-				int targetHeight = Mathf.Max(1, Mathf.RoundToInt(icon.height * scale));
-
-				string smallIconName = string.Empty;
-				string smallIcon = string.Empty;
-				if (icon.name.EndsWith("@2x")) {
-					smallIconName = icon.name.Replace("@2x", string.Empty);
-
-					string smallIconPath = Path.Combine(iconsDirectoryPath, $"{smallIconName}.png");
-					smallIconPath = smallIconPath.Replace(" ", "%20").Replace('\\', '/');
-
-					string smallIconDescriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{smallIconName}.md"), smallIconPath, icon);
-
-					smallIcon = $"[<img src=\"{smallIconName}.png\" width={targetWidth / 2f} height={targetHeight / 2f} title=\"{smallIconName}\">]({smallIconDescriptionFilePath})";
-				}
-
-				string retinaIcon = $"[<img src=\"{iconPath}\" width={targetWidth} height={targetHeight} title=\"{icon.name}\">]({descriptionFilePath})";
-				readmeBuilder.AppendLine($"| {retinaIcon} {smallIcon} | `{icon.name}` `{smallIconName}` |");
-			}
-
-			readmeBuilder.AppendLine("\n\n\n*Original script author [@halak](https://github.com/halak)*");
-			File.WriteAllText(readme, readmeBuilder.ToString());
-
-			Debug.Log($"'{readme}' is generated.");
-		} finally {
-			EditorUtility.ClearProgressBar();
-			AssetDatabase.DeleteAsset(guidMaterialId);
+		if (!Directory.Exists(iconsDirectoryPath)) {
+			Directory.CreateDirectory(iconsDirectoryPath);
 		}
+		if (!Directory.Exists(descriptionsDirectoryPath)) {
+			Directory.CreateDirectory(descriptionsDirectoryPath);
+		}
+
+		// Save icon images (even ones which will be filtered-out)
+		foreach (string assetName in assetNames) {
+
+			Texture2D icon = editorAssetBundle.LoadAsset<Texture2D>(assetName);
+
+			if (!icon && icon.isReadable) {
+				continue;
+			}
+
+			string iconPath = Path.Combine(iconsDirectoryPath, $"{icon.name}.png");
+
+			Texture2D readableTexture = new(icon.width, icon.height, icon.format, icon.mipmapCount > 1);
+			Graphics.CopyTexture(icon, readableTexture);
+
+			SaveTextureAsPng(readableTexture, iconPath);
+		}
+
+		// Filter icons to only keep @2x (retina) icons - to have a shorter list
+		List<(Texture2D retinaIcon, Texture2D smallIcon)> icons = assetNames
+			.GroupBy(
+				name => {
+					int dot = name.LastIndexOf('.');
+					string stem = dot >= 0 ? name[..dot] : name;
+					string ext = dot >= 0 ? name[dot..] : string.Empty;
+					string baseStem = stem.EndsWith("@2x", StringComparison.OrdinalIgnoreCase) ? stem[..^3] : stem;
+					return baseStem + ext; // key: base name with original extension
+				},
+				StringComparer.OrdinalIgnoreCase)
+			.Select(group => (editorAssetBundle.LoadAsset<Texture2D>(group.FirstOrDefault(IsRetina) ?? group.First()), group.Count() > 1 ? editorAssetBundle.LoadAsset<Texture2D>(group.Skip(1).FirstOrDefault()) : null))
+			.ToList();
+
+		foreach ((Texture2D icon, Texture2D smallIcon) in icons) {
+			string iconPath = Path.Combine(iconsDirectoryPath, $"{icon.name}.png");
+			iconPath = iconPath.Replace(" ", "%20").Replace('\\', '/');
+
+			string descriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{icon.name}.md"), iconPath, icon);
+
+			const int maxSize = 64;
+			float largest = Mathf.Max(icon.width, icon.height);
+			float scale = Mathf.Min(largest, maxSize) / largest;
+			int targetWidth = Mathf.Max(1, Mathf.RoundToInt(icon.width * scale));
+			int targetHeight = Mathf.Max(1, Mathf.RoundToInt(icon.height * scale));
+
+			string smallIconName = string.Empty;
+			string smallIconOutput = string.Empty;
+			if (smallIcon != null) {
+				// smallIconName = icon.name.Replace("@2x", string.Empty);
+				smallIconName = smallIcon.name;
+
+				string smallIconPath = Path.Combine(iconsDirectoryPath, $"{smallIconName}.png");
+				smallIconPath = smallIconPath.Replace(" ", "%20").Replace('\\', '/');
+
+				string smallIconDescriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{smallIconName}.md"), smallIconPath, smallIcon);
+
+				smallIconOutput = $"[<img src=\"{smallIconName}.png\" width={targetWidth / 2f} height={targetHeight / 2f} title=\"{smallIconName}\">]({smallIconDescriptionFilePath})";
+			}
+
+			string retinaIconOutput = $"[<img src=\"{iconPath}\" width={targetWidth} height={targetHeight} title=\"{icon.name}\">]({descriptionFilePath})";
+			readmeBuilder.AppendLine($"| {retinaIconOutput}{(!string.IsNullOrWhiteSpace(smallIconOutput) ? $" {smallIconOutput}" : string.Empty)} | `{icon.name}`{(!string.IsNullOrWhiteSpace(smallIconName) ? $" `{smallIconName}`" : string.Empty)} |");
+		}
+
+		readmeBuilder.AppendLine("\n\n\n*Original script author [@halak](https://github.com/halak)*");
+		File.WriteAllText(readme, readmeBuilder.ToString());
+
+		Debug.Log($"'{readme}' is generated.");
 	}
 
 	private static string WriteIconDescriptionFile(string path, string pathToIcon, Texture2D icon)
@@ -237,7 +222,7 @@ public static class IconsMiner
 	private static bool IsRetina(string name)
 	{
 		int dot = name.LastIndexOf('.');
-		string stem = dot >= 0 ? name.Substring(0, dot) : name;
+		string stem = dot >= 0 ? name[..dot] : name;
 		return stem.EndsWith("@2x", StringComparison.OrdinalIgnoreCase);
 	}
 }
