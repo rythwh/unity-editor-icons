@@ -27,10 +27,9 @@ namespace UnityEditorIcons
 			string iconsPath = IconsMiner.GetIconsPath();
 			StringBuilder readmeBuilder = new();
 
-			readmeBuilder.AppendLine("# Unity Editor Built-in Icons");
-			readmeBuilder.AppendLine($"Unity version **{Application.unityVersion}**");
+			readmeBuilder.AppendLine($"# Unity Editor Built-in Icons {Application.unityVersion}");
 			readmeBuilder.AppendLine();
-			readmeBuilder.AppendLine("## Load icons using `EditorGUIUtility.IconContent(\"icon_name\");`");
+			readmeBuilder.AppendLine("### Load icons using `EditorGUIUtility.IconContent(\"icon_name\");`");
 			readmeBuilder.AppendLine();
 			readmeBuilder.AppendLine("> Icons are artificially given light/dark backgrounds depending on their luminance, to be easier to view.");
 			readmeBuilder.AppendLine("> The vast majority of icons have transparent backgrounds when loaded in the editor.");
