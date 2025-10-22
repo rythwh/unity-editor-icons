@@ -1,7 +1,6 @@
-# Unity Editor Built-in Icons
-Unity version **6000.2.7f2**
+# Unity Editor Built-in Icons 6000.2.7f2
 
-## Load icons using `EditorGUIUtility.IconContent("icon_name");`
+### Load icons using `EditorGUIUtility.IconContent("icon_name");`
 
 > Icons are artificially given light/dark backgrounds depending on their luminance, to be easier to view.
 > The vast majority of icons have transparent backgrounds when loaded in the editor.
