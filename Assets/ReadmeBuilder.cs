@@ -30,17 +30,14 @@ namespace UnityEditorIcons
 			readmeBuilder.AppendLine("# Unity Editor Built-in Icons");
 			readmeBuilder.AppendLine($"Unity version **{Application.unityVersion}**");
 			readmeBuilder.AppendLine();
-			readmeBuilder.AppendLine("Load icons using `EditorGUIUtility.IconContent(<ICON NAME>);`");
+			readmeBuilder.AppendLine("## Load icons using `EditorGUIUtility.IconContent(\"icon_name\");`");
 			readmeBuilder.AppendLine();
-			readmeBuilder.AppendLine("### File ID");
-			readmeBuilder.AppendLine("You can change script icon by file id");
-			readmeBuilder.AppendLine("1. Open meta file (ex. `*.cs.meta`) in Text Editor");
-			readmeBuilder.AppendLine("2. Modify the line `icon: {instanceID: 0}` to `icon: {fileID: <FILE ID>, guid: 0000000000000000d000000000000000, type: 0}`");
-			readmeBuilder.AppendLine("3. Save and focus Unity Editor");
+			readmeBuilder.AppendLine("> Icons are artificially given light/dark backgrounds depending on their luminance, to be easier to view.");
+			readmeBuilder.AppendLine("> The vast majority of icons have transparent backgrounds when loaded in the editor.");
 			readmeBuilder.AppendLine();
 			readmeBuilder.AppendLine("All icons are clickable, you will be forwarded to description file.");
-			readmeBuilder.AppendLine($"| Icon | Name |");
-			readmeBuilder.AppendLine($"|------|------|");
+			readmeBuilder.AppendLine("| Icon | Name |");
+			readmeBuilder.AppendLine("|------|------|");
 
 			string[] assetNames = IconsMiner.EnumerateIcons(editorAssetBundle, iconsPath).OrderBy(n => n).ToArray();
 			string iconsDirectoryPath = Path.Combine("img");

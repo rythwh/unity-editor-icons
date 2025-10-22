@@ -1,13 +1,10 @@
 # Unity Editor Built-in Icons
 Unity version **6000.2.7f2**
 
-Load icons using `EditorGUIUtility.IconContent(<ICON NAME>);`
+## Load icons using `EditorGUIUtility.IconContent("icon_name");`
 
-### File ID
-You can change script icon by file id
-1. Open meta file (ex. `*.cs.meta`) in Text Editor
-2. Modify the line `icon: {instanceID: 0}` to `icon: {fileID: <FILE ID>, guid: 0000000000000000d000000000000000, type: 0}`
-3. Save and focus Unity Editor
+> Icons are artificially given light/dark backgrounds depending on their luminance, to be easier to view.
+> The vast majority of icons have transparent backgrounds when loaded in the editor.
 
 All icons are clickable, you will be forwarded to description file.
 | Icon | Name |
