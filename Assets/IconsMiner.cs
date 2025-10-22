@@ -109,15 +109,17 @@ public static class IconsMiner
 				string smallIcon = string.Empty;
 				if (icon.name.EndsWith("@2x")) {
 					smallIconName = icon.name.Replace("@2x", string.Empty);
+
 					string smallIconPath = Path.Combine(iconsDirectoryPath, $"{smallIconName}.png");
 					smallIconPath = smallIconPath.Replace(" ", "%20").Replace('\\', '/');
+
 					string smallIconDescriptionFilePath = WriteIconDescriptionFile(Path.Combine(descriptionsDirectoryPath, $"{smallIconName}.md"), smallIconPath, icon);
+
 					smallIcon = $"[<img src=\"{smallIconName}.png\" width={targetWidth / 2f} height={targetHeight / 2f} title=\"{smallIconName}\">]({smallIconDescriptionFilePath})";
-					smallIconName = $"`{smallIconName}`";
 				}
 
 				string retinaIcon = $"[<img src=\"{iconPath}\" width={targetWidth} height={targetHeight} title=\"{icon.name}\">]({descriptionFilePath})";
-				readmeBuilder.AppendLine($"| {retinaIcon}{smallIcon} | `{icon.name}`{smallIconName} |");
+				readmeBuilder.AppendLine($"| {retinaIcon} {smallIcon} | `{icon.name}` `{smallIconName}` |");
 			}
 
 			readmeBuilder.AppendLine("\n\n\n*Original script author [@halak](https://github.com/halak)*");
